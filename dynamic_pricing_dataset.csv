@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Brand,Current_Price,Competitor_Price,Stock,Units_Sold,Rating,Discount_Percentage,Season,Customer_Type,City,Payment_Method,Delivery_Days,Return_Rate,Review_Count,Wishlist_Count,Cart_Abandonment_Rate,Seller_Rating,Shipping_Cost,Marketing_Spend,Holiday,Weekday,Demand_Index,Recommendation_Score,Recommended_Price
+P00001,Laptop,Electronics,Lenovo,13403,14183,699,135,2.8,40,Normal,Returning,Mumbai,Cash on Delivery,2,2.38,5351,3253,18.81,4.1,493,31858,Yes,Tuesday,62,85.09,13403
+P00002,Milk,Grocery,Aashirvaad,41237,38885,802,90,4.3,15,Summer,Returning,Ahmedabad,Credit Card,2,13.18,5039,3929,49.15,4.1,307,6676,Yes,Monday,94,92.2,44535
+P00003,Face Wash,Beauty,L'Oreal,49889,52343,223,17,3.9,30,Normal,Premium,Bengaluru,UPI,6,1.63,5578,1531,65.32,3.3,248,23915,No,Thursday,75,97.82,49889
+P00004,Tablet,Electronics,Apple,21050,22283,484,537,4.6,40,Summer,New,Pune,Credit Card,6,2.66,5529,1071,25.71,4.2,309,610,Yes,Saturday,84,97.53,22734
+P00005,Headphones,Electronics,Dell,64415,66599,569,112,2.8,40,Festival,Returning,Hyderabad,UPI,3,11.66,7381,2293,64.34,4.8,130,5326,No,Sunday,47,97.33,61195
+P00006,Moisturizer,Beauty,Lakme,1439,-883,503,448,4.7,25,Monsoon,Returning,Mumbai,Debit Card,5,8.65,1747,2082,65.47,3.1,275,39466,Yes,Friday,56,75.32,1439
+P00007,Smartphone,Electronics,Lenovo,46473,46964,103,177,4.9,40,Summer,New,Mumbai,Debit Card,6,7.28,4784,5911,19.35,3.6,103,16035,Yes,Monday,84,58.17,50190
+P00008,Camera,Electronics,OnePlus,21698,22588,348,224,4.4,30,Monsoon,New,Kolkata,Credit Card,6,0.59,1823,6069,14.05,4.2,491,13382,Yes,Thursday,42,79.13,20614
+P00009,Smartphone,Electronics,Apple,56646,56418,867,202,3.4,40,Normal,New,Kolkata,Credit Card,6,11.76,2257,1026,63.33,4.7,443,30777,Yes,Saturday,79,67.87,56646
+P00010,Milk,Grocery,Tata,33746,35868,675,168,3.9,20,Winter,New,Bengaluru,Cash on Delivery,1,0.16,7335,5700,11.34,3.9,75,21056,No,Wednesday,72,63.73,33746
+P00011,Mixer,Home & Kitchen,Philips,77388,77604,284,562,3.7,25,Festival,Returning,Ahmedabad,Credit Card,2,9.17,3971,3344,51.55,4.6,358,23357,Yes,Friday,89,69.63,83579
+P00012,Table,Home & Kitchen,Philips,46127,44163,149,46,4.7,40,Winter,Premium,Ahmedabad,Net Banking,3,9.66,3089,9764,24.33,3.4,107,30186,No,Wednesday,54,63.01,46127
+P00013,Milk,Grocery,Tata,59512,59290,446,69,3.8,50,Monsoon,Premium,Ahmedabad,Credit Card,2,5.48,4276,5951,53.33,4.0,283,34056,Yes,Saturday,65,91.32,59512
+P00014,Water Bottle,Home & Kitchen,Philips,7899,9602,444,384,3.7,30,Normal,New,Mumbai,Credit Card,4,6.65,723,1211,32.85,3.6,277,17133,Yes,Friday,45,52.77,7505
+P00015,Hoodie,Fashion,Puma,34863,32089,950,252,3.4,40,Normal,New,Delhi,Debit Card,7,12.13,2868,9045,65.57,3.4,330,8063,Yes,Friday,48,55.44,33120
+P00016,Bag,Fashion,Nike,45028,47178,889,280,3.4,20,Summer,Premium,Delhi,Debit Card,3,8.75,2311,3046,38.87,3.4,64,4621,Yes,Thursday,76,53.1,45028
+P00017,Microwave,Home & Kitchen,Prestige,8101,8157,81,91,2.8,0,Winter,New,Pune,UPI,5,9.21,490,2777,36.8,3.7,140,35129,Yes,Tuesday,58,98.56,8101
+P00018,Shampoo,Beauty,L'Oreal,31991,32680,617,463,3.1,15,Normal,Premium,Kolkata,Credit Card,3,6.52,5067,3050,22.81,4.0,118,48780,Yes,Thursday,64,97.9,31991
+P00019,Fan,Home & Kitchen,Cello,18700,16652,472,383,3.3,40,Normal,Premium,Delhi,Cash on Delivery,1,2.39,4073,2838,10.81,3.8,476,8920,Yes,Wednesday,72,90.35,18700
+P00020,Chair,Home & Kitchen,Cello,4074,6937,576,540,3.8,50,Summer,Premium,Ahmedabad,Credit Card,4,2.74,3479,3723,49.67,3.8,301,9261,Yes,Thursday,68,78.35,4074
+P00021,Smart TV,Electronics,Apple,38863,37410,989,270,3.1,0,Normal,Returning,Mumbai,Debit Card,7,4.36,848,5654,51.55,3.6,102,19165,Yes,Wednesday,78,84.01,38863
+P00022,Sunscreen,Beauty,L'Oreal,53233,53230,795,198,4.2,0,Summer,Premium,Mumbai,Debit Card,4,11.62,2571,7336,26.47,3.9,181,32880,No,Monday,47,88.93,50572
+P00023,Tea,Grocery,Nestle,19667,18665,519,396,4.2,25,Festival,New,Mumbai,Cash on Delivery,3,11.25,2619,4845,18.21,4.3,141,34783,Yes,Tuesday,66,66.56,19667
+P00024,Laptop,Electronics,Apple,60380,62228,314,190,3.1,0,Winter,New,Kolkata,Debit Card,1,13.79,2819,4031,10.2,4.7,204,18323,No,Friday,42,83.01,57361
+P00025,Chair,Home & Kitchen,Philips,8335,9963,504,279,3.8,5,Monsoon,Returning,Mumbai,Cash on Delivery,1,3.41,865,7191,35.43,4.2,146,23150,Yes,Saturday,97,54.52,9001
+P00026,Milk,Grocery,Tata,8750,9403,710,278,3.3,15,Normal,Premium,Kolkata,UPI,3,0.31,7813,8701,20.72,3.1,183,27913,No,Tuesday,50,69.32,8750
+P00027,Smart Watch,Electronics,OnePlus,25248,27107,474,259,3.2,10,Winter,Premium,Hyderabad,Debit Card,6,8.35,7666,9858,27.66,4.6,183,36974,Yes,Wednesday,52,56.05,25248
+P00028,Jeans,Fashion,Puma,21042,21199,502,255,4.0,20,Festival,Returning,Chennai,UPI,2,10.71,3986,3536,59.83,3.1,104,42021,Yes,Monday,65,90.16,21042
+P00029,Coffee,Grocery,Tata,14933,15749,95,263,3.9,30,Monsoon,Premium,Mumbai,Debit Card,3,5.46,5546,2831,53.52,4.2,432,3639,Yes,Friday,82,58.31,16127
+P00030,Jeans,Fashion,Levis,12228,10719,68,129,4.5,30,Monsoon,Premium,Delhi,Net Banking,5,7.42,4232,3081,57.49,3.2,307,16671,No,Monday,81,59.22,13206
+P00031,Rice,Grocery,Nestle,24702,25444,299,391,3.8,5,Festival,New,Delhi,UPI,6,8.02,214,8772,36.51,4.1,151,9999,No,Sunday,48,60.17,23467
+P00032,Pressure Cooker,Home & Kitchen,Prestige,52548,49710,415,526,3.1,20,Summer,Returning,Chennai,Cash on Delivery,4,11.04,6195,3704,61.83,4.2,80,635,No,Monday,56,53.63,52548
+P00033,Perfume,Beauty,Nivea,72873,72953,262,580,2.9,10,Normal,Returning,Mumbai,Debit Card,6,2.53,2347,9737,55.26,3.5,74,47746,Yes,Saturday,86,71.5,78702
+P00034,Tea,Grocery,Fortune,71660,72354,541,82,4.7,15,Festival,New,Bengaluru,Cash on Delivery,7,13.76,2557,546,69.25,3.5,499,15774,Yes,Thursday,53,79.41,71660
+P00035,Perfume,Beauty,Dove,50376,51911,111,386,4.2,5,Monsoon,Premium,Chennai,UPI,3,12.04,784,9977,57.27,3.6,385,34637,No,Friday,69,92.08,50376
+P00036,Pressure Cooker,Home & Kitchen,Pigeon,15789,18659,218,288,3.1,25,Normal,New,Chennai,UPI,5,12.16,2446,2021,60.51,4.7,203,4007,Yes,Saturday,47,58.64,15000
+P00037,Mixer,Home & Kitchen,Cello,8305,5863,16,137,3.2,5,Festival,Premium,Mumbai,Credit Card,5,6.77,2648,9105,8.69,4.3,464,1058,No,Monday,84,53.85,8969
+P00038,Headphones,Electronics,Dell,39527,38439,585,338,3.6,10,Monsoon,Returning,Pune,Net Banking,6,4.46,5026,3152,59.42,3.8,284,10376,No,Wednesday,54,60.66,39527
+P00039,Laptop,Electronics,OnePlus,22234,19522,290,477,3.7,50,Winter,Premium,Chennai,Net Banking,4,3.25,3099,5823,21.47,3.2,491,24217,Yes,Friday,100,70.71,24012
+P00040,Milk,Grocery,Aashirvaad,47566,49784,484,354,3.4,5,Monsoon,Returning,Hyderabad,Debit Card,5,10.05,145,613,44.74,4.5,300,25740,No,Saturday,90,97.88,51371
+P00041,Smartphone,Electronics,Apple,59465,57517,391,255,3.1,0,Monsoon,Premium,Chennai,Debit Card,2,2.24,1072,8227,57.2,4.7,421,26415,Yes,Friday,63,90.22,59465
+P00042,Microwave,Home & Kitchen,Pigeon,8229,5689,311,382,4.6,0,Winter,Returning,Hyderabad,Credit Card,6,9.86,7978,1617,66.0,4.1,384,35016,No,Tuesday,72,75.45,8229
+P00043,Jeans,Fashion,H&M,15182,17609,630,20,4.1,10,Winter,Returning,Delhi,Debit Card,7,12.68,7732,5275,20.32,4.0,307,44040,No,Wednesday,95,52.68,16396
+P00044,Sunscreen,Beauty,Nivea,411,1404,726,358,4.9,20,Normal,Premium,Delhi,UPI,5,11.36,4058,5791,44.18,3.7,487,27251,No,Saturday,82,75.18,443
+P00045,Headphones,Electronics,Samsung,13835,11948,446,222,5.0,15,Festival,Premium,Delhi,Credit Card,2,11.78,1574,2657,8.06,3.4,117,12590,No,Saturday,71,51.59,13835
+P00046,Pressure Cooker,Home & Kitchen,Cello,49741,49901,164,541,3.7,25,Monsoon,Returning,Pune,Net Banking,2,6.6,980,3541,56.65,4.5,80,37784,Yes,Saturday,78,66.2,49741
+P00047,Face Wash,Beauty,L'Oreal,2606,-210,878,379,5.0,0,Winter,Returning,Chennai,Net Banking,2,12.39,5050,7328,66.35,4.5,347,19238,No,Wednesday,59,57.83,2606
+P00048,Smart TV,Electronics,Dell,71865,73724,500,554,3.5,20,Normal,New,Bengaluru,Credit Card,7,9.6,1699,7158,67.7,4.1,221,21401,Yes,Saturday,70,78.09,71865
+P00049,Coffee,Grocery,Tata,37310,36444,417,508,4.1,50,Monsoon,Premium,Mumbai,Net Banking,4,4.75,1141,5240,58.98,3.9,324,39446,Yes,Saturday,91,62.07,40294
+P00050,Tablet,Electronics,Samsung,11603,11706,990,34,3.2,10,Normal,New,Pune,Credit Card,1,1.14,4247,4520,64.16,4.3,418,47765,Yes,Saturday,53,84.26,11603
+P00051,Coffee,Grocery,Nestle,27353,29781,976,500,4.4,50,Monsoon,Premium,Kolkata,UPI,6,14.1,2478,873,38.51,4.9,297,33155,No,Tuesday,48,52.44,25986
+P00052,Jeans,Fashion,Puma,48238,49043,43,143,3.8,50,Winter,Returning,Hyderabad,Debit Card,6,7.2,4919,6939,37.69,4.8,239,7229,Yes,Wednesday,89,58.62,52097
+P00053,Body Wash,Beauty,Nivea,32159,31815,944,179,4.4,25,Winter,Returning,Delhi,Cash on Delivery,3,11.2,1918,4195,10.35,4.8,124,4013,Yes,Saturday,79,77.81,32159
+P00054,Body Wash,Beauty,Dove,19085,18418,577,271,3.8,20,Normal,Returning,Chennai,Debit Card,7,13.6,1513,6012,41.85,3.0,396,38913,No,Friday,73,54.82,19085
+P00055,Bag,Fashion,Nike,65156,65537,990,565,4.0,15,Winter,Premium,Ahmedabad,UPI,6,7.63,178,7830,57.98,3.1,115,30812,No,Wednesday,71,50.49,65156
+P00056,Body Wash,Beauty,Nivea,63475,65748,933,281,5.0,20,Summer,Premium,Mumbai,Credit Card,1,8.95,1680,310,61.36,4.5,312,43756,Yes,Monday,51,51.45,63475
+P00057,Water Bottle,Home & Kitchen,Prestige,14605,13565,446,440,2.9,10,Normal,New,Bengaluru,Credit Card,4,7.59,1012,8461,5.9,4.3,195,19299,No,Tuesday,96,77.99,15773
+P00058,Shampoo,Beauty,Nivea,32866,34045,724,297,4.0,15,Monsoon,New,Kolkata,Cash on Delivery,2,5.43,6680,8635,37.19,3.7,104,22925,Yes,Wednesday,54,82.23,32866
+P00059,Headphones,Electronics,Sony,49907,47226,127,213,4.3,10,Monsoon,Returning,Kolkata,Cash on Delivery,7,14.76,1847,2417,40.46,3.4,24,27746,No,Saturday,46,90.61,47412
+P00060,Biscuits,Grocery,Aashirvaad,47525,47867,379,270,4.6,15,Monsoon,Premium,Kolkata,UPI,4,9.81,5450,529,62.81,3.5,482,47017,Yes,Sunday,46,94.48,45149
+P00061,Milk,Grocery,Amul,42394,43203,535,113,2.9,5,Festival,New,Pune,Cash on Delivery,4,13.92,4962,3406,24.91,4.8,238,14161,Yes,Tuesday,83,54.74,45785
+P00062,Rice,Grocery,Tata,42047,43811,987,261,2.5,50,Festival,Premium,Ahmedabad,UPI,5,5.05,4134,8248,20.7,3.5,380,7846,No,Wednesday,55,97.85,42047
+P00063,Shoes,Fashion,Puma,2863,3983,495,342,2.9,15,Summer,New,Chennai,Cash on Delivery,6,5.35,6218,9435,6.09,3.7,179,29586,No,Friday,99,78.59,3092
+P00064,Chair,Home & Kitchen,Cello,55102,53362,687,368,3.1,0,Festival,Returning,Chennai,Cash on Delivery,3,7.87,6335,6572,55.53,3.1,263,7100,No,Tuesday,72,88.03,55102
+P00065,Jacket,Fashion,H&M,71035,68739,450,214,2.7,25,Summer,Returning,Chennai,Debit Card,7,9.13,3279,1835,61.59,3.7,114,17611,Yes,Tuesday,77,54.0,71035
+P00066,Sunscreen,Beauty,Nivea,66539,67834,892,383,4.0,30,Summer,Returning,Chennai,Cash on Delivery,6,7.55,5824,5862,38.29,3.8,341,10653,Yes,Saturday,100,89.65,71862
+P00067,Jacket,Fashion,Puma,31704,30914,805,222,2.7,5,Summer,New,Mumbai,Credit Card,7,10.71,7716,1982,55.15,3.4,289,1063,No,Wednesday,85,90.11,34240
+P00068,T-Shirt,Fashion,Levis,58692,57397,976,437,2.9,15,Summer,Returning,Kolkata,UPI,6,0.43,3566,1211,6.71,3.5,398,14878,Yes,Friday,81,98.99,63387
+P00069,Tablet,Electronics,Samsung,75849,74610,610,476,4.8,10,Winter,New,Delhi,Net Banking,6,14.37,440,6222,8.04,4.4,203,5143,No,Tuesday,58,91.75,75849
+P00070,Lipstick,Beauty,Dove,63737,65480,161,313,3.8,5,Winter,Returning,Pune,Net Banking,2,14.76,4698,1866,46.16,4.1,212,12366,No,Thursday,45,59.77,60551
+P00071,Sunscreen,Beauty,Lakme,11284,13657,538,326,3.4,50,Winter,New,Bengaluru,UPI,3,14.16,7664,8962,15.03,4.6,394,8336,No,Thursday,59,62.76,11284
+P00072,Laptop,Electronics,Apple,50942,48551,319,479,3.3,40,Festival,Returning,Pune,Debit Card,1,1.53,633,8706,43.08,3.1,468,806,No,Tuesday,71,98.26,50942
+P00073,Tablet,Electronics,Dell,49263,47469,539,261,4.6,40,Summer,Premium,Pune,Cash on Delivery,6,0.84,936,938,40.04,4.0,307,25197,No,Saturday,59,89.9,49263
+P00074,Camera,Electronics,Apple,8629,7832,314,308,2.7,30,Normal,New,Delhi,Cash on Delivery,7,9.6,396,6833,64.3,3.3,467,11334,No,Saturday,43,78.8,8198
+P00075,Hoodie,Fashion,Nike,2886,441,224,8,2.5,20,Festival,Returning,Chennai,Net Banking,7,6.7,3368,9551,32.0,3.7,194,28764,No,Tuesday,87,72.88,3116
+P00076,Tea,Grocery,Aashirvaad,15561,15009,799,214,4.9,20,Normal,Returning,Pune,Net Banking,7,11.39,3106,1819,28.51,3.8,359,8155,No,Sunday,68,56.66,15561
+P00077,Mixer,Home & Kitchen,Philips,58189,60069,37,199,3.4,30,Winter,Premium,Pune,Credit Card,3,2.21,6113,6759,15.85,3.7,326,29410,No,Tuesday,66,87.85,58189
+P00078,Body Wash,Beauty,L'Oreal,41494,42944,872,148,4.9,5,Monsoon,Premium,Bengaluru,UPI,1,1.76,4218,162,47.97,3.9,334,4251,No,Tuesday,92,70.54,44813
+P00079,Rice,Grocery,Nestle,62418,59465,153,139,4.0,5,Summer,Returning,Pune,Debit Card,5,9.62,2428,8805,21.39,4.0,478,41399,No,Saturday,53,99.39,62418
+P00080,Face Wash,Beauty,L'Oreal,6332,4629,832,160,3.5,40,Winter,Premium,Chennai,UPI,1,4.07,7418,974,17.17,3.3,44,13763,Yes,Wednesday,69,94.93,6332
+P00081,Fan,Home & Kitchen,Prestige,42880,42144,910,174,3.9,15,Festival,Premium,Pune,Net Banking,6,4.9,3568,5478,37.92,3.0,168,49484,No,Thursday,86,52.42,46310
+P00082,Moisturizer,Beauty,Dove,54997,57045,141,13,4.5,0,Monsoon,New,Chennai,UPI,6,8.04,528,107,62.63,3.1,440,39639,Yes,Saturday,55,81.75,54997
+P00083,Smart Watch,Electronics,Sony,3767,4873,536,359,2.6,15,Winter,Returning,Delhi,Cash on Delivery,4,1.89,4514,5592,50.43,3.1,71,9026,Yes,Saturday,87,98.96,4068
+P00084,Sunscreen,Beauty,Dove,75881,75177,84,32,4.6,5,Winter,Premium,Bengaluru,Cash on Delivery,1,13.67,617,1685,47.4,4.8,469,9098,Yes,Wednesday,75,55.49,75881
+P00085,Water Bottle,Home & Kitchen,Philips,23174,21934,943,364,4.3,25,Normal,New,Bengaluru,Debit Card,2,0.02,3550,4827,60.0,3.5,370,35020,No,Saturday,47,94.63,22016
+P00086,Bag,Fashion,Nike,49473,49152,602,100,2.8,50,Summer,Premium,Chennai,Debit Card,7,9.78,7484,7222,41.8,3.8,246,40823,No,Monday,79,59.9,49473
+P00087,Cooking Oil,Grocery,Aashirvaad,5060,7317,476,11,3.3,50,Monsoon,Returning,Delhi,UPI,7,10.04,2993,5692,56.9,4.6,406,32196,Yes,Wednesday,68,91.4,5060
+P00088,Sneakers,Fashion,Adidas,37996,35216,827,90,5.0,25,Monsoon,New,Hyderabad,Net Banking,2,1.35,6128,8005,68.87,3.5,409,20454,Yes,Thursday,47,59.76,36097
+P00089,Coffee,Grocery,Fortune,4273,3124,529,316,4.6,30,Normal,New,Chennai,Net Banking,4,5.19,1435,8718,59.6,4.1,227,47743,No,Friday,56,92.75,4273
+P00090,Face Wash,Beauty,Dove,62276,63403,843,18,3.5,25,Summer,Premium,Pune,Debit Card,5,11.42,7224,3679,14.11,3.7,419,14692,No,Thursday,48,58.35,59163
+P00091,T-Shirt,Fashion,Levis,22783,20841,231,399,4.0,30,Normal,New,Bengaluru,UPI,7,14.07,3841,6361,33.9,4.9,488,27701,No,Thursday,73,68.17,22783
+P00092,Cooking Oil,Grocery,Nestle,34037,36188,476,55,4.8,40,Festival,Premium,Delhi,Net Banking,5,9.2,7691,3793,8.61,3.5,494,3941,No,Tuesday,43,72.39,32336
+P00093,Moisturizer,Beauty,Lakme,15786,18380,309,424,3.8,0,Summer,New,Kolkata,Credit Card,5,3.01,783,4251,65.14,4.3,113,16855,Yes,Monday,68,51.91,15786
+P00094,Camera,Electronics,Samsung,22166,24991,436,429,2.5,0,Winter,Returning,Chennai,Cash on Delivery,6,13.08,3562,939,60.76,5.0,125,9358,No,Friday,98,95.13,23939
+P00095,Jeans,Fashion,H&M,15637,16393,532,599,2.7,50,Winter,New,Mumbai,Cash on Delivery,4,13.49,484,2901,32.5,4.7,83,10994,No,Thursday,82,68.29,16887
+P00096,Camera,Electronics,Samsung,79141,77028,400,429,3.9,0,Winter,Returning,Mumbai,UPI,6,11.45,7550,2789,45.59,3.5,231,48177,Yes,Wednesday,73,72.75,79141
+P00097,Perfume,Beauty,Dove,45167,44646,107,305,3.5,10,Winter,New,Mumbai,Net Banking,6,5.79,359,862,33.95,4.8,96,8981,Yes,Sunday,54,60.14,45167
+P00098,Jacket,Fashion,H&M,11883,9433,382,429,4.2,20,Monsoon,New,Kolkata,Net Banking,7,0.54,311,3241,44.12,4.2,466,45292,No,Tuesday,69,72.43,11883
+P00099,Sunscreen,Beauty,Mamaearth,36410,38946,813,106,4.9,30,Monsoon,Returning,Ahmedabad,Cash on Delivery,3,12.57,7176,8777,6.7,3.9,381,33055,Yes,Saturday,85,64.08,39322
+P00100,Hoodie,Fashion,Puma,50913,52681,516,59,4.0,5,Summer,Premium,Kolkata,Debit Card,2,13.23,2756,1988,45.87,4.3,56,31181,No,Thursday,40,69.66,48368
+P00101,Body Wash,Beauty,Nivea,29974,30230,997,168,4.4,0,Winter,Returning,Kolkata,Credit Card,1,10.89,7841,5361,49.1,4.0,426,6237,No,Sunday,97,67.65,32371
+P00102,Sunscreen,Beauty,Lakme,17732,18962,835,477,3.3,15,Normal,New,Pune,Credit Card,2,8.12,3477,1020,52.41,3.9,404,38614,Yes,Wednesday,87,54.08,19150
+P00103,Microwave,Home & Kitchen,Philips,13411,16147,850,421,4.3,40,Festival,New,Delhi,Cash on Delivery,5,13.41,381,7243,24.11,4.1,486,43612,No,Monday,40,63.65,12741
+P00104,Hoodie,Fashion,Adidas,46204,44078,225,303,4.8,50,Normal,Returning,Chennai,Credit Card,7,2.05,1139,4923,11.1,4.8,184,36637,Yes,Monday,61,52.1,46204
+P00105,Wheat Flour,Grocery,Nestle,28669,30618,668,290,3.3,40,Summer,New,Ahmedabad,Net Banking,4,1.38,7026,4646,17.62,4.4,328,13459,No,Wednesday,64,87.6,28669
+P00106,Sunscreen,Beauty,Dove,79932,81192,567,74,3.2,0,Summer,Premium,Hyderabad,Cash on Delivery,6,5.96,5942,2474,24.83,3.9,393,30514,No,Monday,95,64.43,86326
+P00107,Table,Home & Kitchen,Philips,63568,65831,746,553,2.9,20,Festival,New,Kolkata,Debit Card,3,4.8,7219,6035,48.26,3.9,444,21473,Yes,Friday,71,78.06,63568
+P00108,Bag,Fashion,H&M,27106,24672,572,329,3.2,50,Summer,Returning,Bengaluru,UPI,2,4.84,2657,1272,18.84,3.2,68,40042,No,Sunday,66,67.99,27106
+P00109,Microwave,Home & Kitchen,Philips,21196,23194,126,329,2.9,5,Festival,New,Hyderabad,UPI,7,12.22,6514,7047,40.28,4.5,30,16920,Yes,Tuesday,75,88.61,21196
+P00110,Wheat Flour,Grocery,Fortune,61554,59115,390,408,4.5,20,Monsoon,Returning,Mumbai,Net Banking,3,7.58,4694,2397,16.65,4.2,412,43799,No,Thursday,49,67.32,58477
+P00111,Milk,Grocery,Aashirvaad,47078,49741,81,580,3.2,10,Monsoon,New,Delhi,UPI,6,7.55,5622,5964,32.32,3.4,51,31419,Yes,Friday,88,97.96,50844
+P00112,Sunscreen,Beauty,Lakme,74403,76809,47,52,4.6,30,Monsoon,New,Ahmedabad,Debit Card,6,10.4,7126,2627,28.29,4.2,204,14457,Yes,Wednesday,56,65.3,74403
+P00113,Biscuits,Grocery,Aashirvaad,16599,14584,953,454,4.8,10,Winter,Premium,Mumbai,Debit Card,1,11.34,37,4168,63.73,3.9,41,14524,Yes,Saturday,96,83.25,17926
+P00114,Table,Home & Kitchen,Philips,31353,32725,956,550,3.2,40,Winter,Premium,Bengaluru,Net Banking,4,12.11,7690,3605,21.08,4.3,59,10892,Yes,Saturday,45,51.61,29786
+P00115,Moisturizer,Beauty,L'Oreal,2942,915,601,549,3.1,40,Summer,Returning,Delhi,Credit Card,7,8.61,5533,4747,5.16,4.3,274,16786,Yes,Monday,63,90.52,2942
+P00116,Perfume,Beauty,Dove,23349,23809,286,131,2.7,30,Winter,New,Kolkata,UPI,5,13.64,562,4578,56.1,4.4,413,25772,No,Tuesday,48,76.6,22182
+P00117,Water Bottle,Home & Kitchen,Milton,1005,3298,953,321,4.1,20,Winter,Premium,Hyderabad,Cash on Delivery,7,5.15,1094,6804,12.09,3.7,22,41833,Yes,Monday,85,56.14,1085
+P00118,Chair,Home & Kitchen,Prestige,67354,64715,388,598,4.4,0,Summer,Returning,Delhi,UPI,3,12.26,3635,5019,52.24,4.2,326,3584,Yes,Tuesday,83,79.9,72742
+P00119,Sneakers,Fashion,Levis,16217,14072,415,503,2.6,5,Winter,Returning,Delhi,Debit Card,6,12.14,1733,8490,33.17,4.6,304,14255,Yes,Monday,95,95.83,17514
+P00120,Camera,Electronics,Sony,48451,51387,226,204,4.7,20,Monsoon,Premium,Mumbai,Credit Card,2,9.23,6476,9886,51.84,4.4,307,5524,Yes,Sunday,42,91.47,46029
+P00121,Tea,Grocery,Fortune,20329,19744,609,583,3.7,40,Normal,Returning,Mumbai,Debit Card,3,6.13,6001,2295,13.91,4.4,486,39165,Yes,Monday,95,71.82,21955
+P00122,Shoes,Fashion,H&M,14472,14109,982,498,2.9,15,Festival,Returning,Bengaluru,Credit Card,2,4.29,6017,4624,59.06,3.2,140,24571,Yes,Monday,66,82.51,14472
+P00123,Fan,Home & Kitchen,Milton,20424,21114,473,507,3.0,40,Monsoon,New,Bengaluru,UPI,2,9.15,84,5217,19.41,3.1,119,20236,Yes,Monday,71,89.83,20424
+P00124,Coffee,Grocery,Nestle,34598,36817,361,77,3.4,5,Monsoon,New,Mumbai,Credit Card,3,12.36,944,1863,26.98,4.3,230,21945,Yes,Tuesday,40,55.12,32869
+P00125,T-Shirt,Fashion,Adidas,46297,44482,326,343,2.5,40,Festival,Premium,Kolkata,Cash on Delivery,1,10.56,5505,2039,51.36,3.7,256,11956,No,Wednesday,73,90.14,46297
+P00126,Fan,Home & Kitchen,Philips,17619,17489,75,238,3.6,40,Normal,Premium,Mumbai,Cash on Delivery,2,3.89,4150,8378,18.8,4.9,319,6014,Yes,Thursday,67,94.64,17619
+P00127,Table,Home & Kitchen,Philips,40665,41190,309,75,2.9,0,Winter,Premium,Ahmedabad,UPI,4,1.35,1632,5279,49.16,4.3,154,34277,Yes,Wednesday,59,64.57,40665
+P00128,Headphones,Electronics,Dell,58335,60876,655,280,3.8,20,Monsoon,New,Pune,Net Banking,2,11.59,3583,1136,18.35,4.7,362,21089,No,Wednesday,80,58.46,58335
+P00129,Perfume,Beauty,Nivea,59242,59469,335,528,3.5,30,Summer,New,Delhi,UPI,7,4.59,381,3194,60.94,4.8,69,19188,Yes,Monday,79,88.46,59242
+P00130,Mixer,Home & Kitchen,Milton,11028,13230,620,302,4.7,20,Winter,Premium,Chennai,Net Banking,2,14.52,1989,6930,66.84,4.3,420,24110,No,Wednesday,96,80.1,11910
+P00131,Face Wash,Beauty,Mamaearth,11152,10225,791,54,4.5,0,Normal,Premium,Ahmedabad,Net Banking,1,7.8,4355,4702,23.66,4.2,30,1477,No,Thursday,86,63.58,12044
+P00132,Lipstick,Beauty,Mamaearth,77629,78720,188,284,4.8,10,Summer,New,Delhi,Debit Card,5,2.86,7078,7053,67.57,4.1,351,45869,No,Sunday,86,84.3,83839
+P00133,Jeans,Fashion,Levis,66696,67624,902,27,3.8,5,Festival,Premium,Hyderabad,Credit Card,5,9.4,4230,4839,32.61,4.1,261,31711,Yes,Tuesday,91,96.58,72031
+P00134,Camera,Electronics,OnePlus,65726,65696,969,574,3.2,20,Monsoon,Premium,Chennai,Cash on Delivery,3,9.58,2233,8972,31.37,3.9,478,3089,No,Sunday,76,91.68,65726
+P00135,Biscuits,Grocery,Nestle,64049,65811,830,113,3.1,50,Festival,Returning,Ahmedabad,Credit Card,3,1.27,7936,52,33.02,4.3,447,39127,Yes,Wednesday,54,66.86,64049
+P00136,Face Wash,Beauty,L'Oreal,9122,6506,194,102,3.4,10,Festival,Premium,Mumbai,UPI,1,0.78,5350,9330,61.82,3.5,76,7079,No,Tuesday,94,80.03,9851
+P00137,Bag,Fashion,H&M,35180,33593,527,400,3.5,0,Summer,Returning,Bengaluru,Credit Card,1,4.96,6921,3329,5.64,3.2,223,3617,Yes,Sunday,91,95.07,37994
+P00138,Lipstick,Beauty,Mamaearth,79766,79852,81,350,4.1,15,Normal,Premium,Pune,Debit Card,5,12.39,2998,4103,43.44,4.8,455,23946,Yes,Monday,93,90.65,86147
+P00139,Smart TV,Electronics,Samsung,69799,70434,237,269,3.7,20,Monsoon,New,Ahmedabad,Net Banking,3,1.63,3660,2731,65.41,3.9,438,49225,No,Monday,47,79.31,66310
+P00140,Sunscreen,Beauty,Lakme,65688,63689,225,437,3.7,5,Festival,New,Hyderabad,Debit Card,1,1.44,7487,9658,42.75,3.1,499,17058,No,Saturday,44,88.77,62404
+P00141,Shoes,Fashion,Levis,36799,35480,513,74,4.6,50,Winter,New,Bengaluru,Credit Card,1,6.47,1046,1918,42.07,3.7,256,3616,Yes,Thursday,69,90.47,36799
+P00142,Lipstick,Beauty,Dove,60527,59103,841,596,3.4,50,Normal,Premium,Mumbai,Cash on Delivery,6,13.22,6307,1335,10.05,3.7,23,28093,No,Thursday,96,52.9,65369
+P00143,Jeans,Fashion,Levis,72902,70547,323,353,4.7,50,Summer,Returning,Delhi,Net Banking,5,2.48,7303,4398,6.56,3.1,485,17550,Yes,Friday,74,99.58,72902
+P00144,Headphones,Electronics,Apple,30126,33067,91,539,4.0,20,Festival,New,Ahmedabad,Credit Card,6,10.95,6983,8018,67.81,4.7,149,45652,Yes,Thursday,58,86.23,30126
+P00145,Milk,Grocery,Amul,64951,62424,103,428,3.9,20,Normal,Premium,Chennai,Debit Card,4,9.94,4774,8777,31.51,4.5,314,29296,No,Monday,86,92.37,70147
+P00146,Tablet,Electronics,Sony,14297,12271,507,318,2.8,10,Festival,Returning,Bengaluru,Cash on Delivery,3,7.55,694,3086,29.51,3.5,303,25098,No,Wednesday,68,63.06,14297
+P00147,Wheat Flour,Grocery,Fortune,44723,45428,459,159,4.4,40,Summer,Premium,Pune,UPI,6,3.0,2785,6797,53.0,3.9,436,8331,Yes,Wednesday,83,67.15,48300
+P00148,Face Wash,Beauty,Mamaearth,53245,53655,679,499,3.6,25,Summer,Premium,Chennai,UPI,3,0.79,5172,4008,35.09,4.1,500,37858,No,Tuesday,96,94.53,57504
+P00149,Pressure Cooker,Home & Kitchen,Milton,67062,65815,836,107,2.9,15,Winter,Premium,Chennai,UPI,5,11.77,358,5330,64.41,4.8,446,16478,Yes,Monday,73,51.6,67062
+P00150,Rice,Grocery,Tata,43942,44660,700,317,3.9,15,Winter,New,Mumbai,Cash on Delivery,1,3.32,4935,2574,33.68,3.9,235,38459,Yes,Thursday,43,51.16,41745
+P00151,T-Shirt,Fashion,Puma,8245,10914,964,373,4.3,15,Normal,Premium,Mumbai,Debit Card,7,7.31,2735,215,69.49,3.7,139,49206,Yes,Monday,70,84.71,8245
+P00152,Smart TV,Electronics,HP,68903,70664,978,267,4.0,5,Winter,Returning,Kolkata,Debit Card,4,10.67,5694,3572,66.65,3.9,49,24404,No,Sunday,59,59.1,68903
+P00153,Laptop,Electronics,HP,50787,51960,236,527,3.0,0,Festival,New,Kolkata,Credit Card,5,10.69,1155,7918,46.19,4.5,140,6384,No,Wednesday,80,71.1,50787
+P00154,Laptop,Electronics,Dell,9039,11691,58,591,4.4,30,Winter,Returning,Ahmedabad,Credit Card,7,14.88,6536,4521,38.54,4.8,475,20963,Yes,Wednesday,65,83.88,9039
+P00155,Jeans,Fashion,Zara,36962,39438,383,66,3.7,25,Winter,Premium,Ahmedabad,Debit Card,2,11.67,6544,4126,27.39,3.8,101,1569,Yes,Monday,66,72.66,36962
+P00156,Smart TV,Electronics,OnePlus,17524,15487,855,488,3.1,5,Normal,New,Ahmedabad,Cash on Delivery,3,7.98,967,8114,22.7,4.6,190,13851,No,Monday,87,61.26,18925
+P00157,Sneakers,Fashion,Nike,24836,22634,488,276,3.9,5,Summer,Returning,Bengaluru,Debit Card,3,5.46,1499,6610,26.41,3.3,398,19096,No,Monday,99,75.85,26822
+P00158,Fan,Home & Kitchen,Pigeon,4596,4138,417,365,3.6,10,Summer,Premium,Mumbai,Credit Card,5,8.62,7164,8325,51.62,4.0,250,9419,Yes,Friday,58,84.63,4596
+P00159,Camera,Electronics,Lenovo,5279,3135,523,533,2.8,0,Festival,Premium,Pune,Cash on Delivery,4,2.61,1821,725,58.35,3.0,459,14403,No,Saturday,71,96.57,5279
+P00160,Shoes,Fashion,Nike,51227,52131,581,412,3.5,50,Winter,Premium,Ahmedabad,Cash on Delivery,7,12.1,3366,6598,48.99,4.4,264,14052,Yes,Sunday,98,95.09,55325
+P00161,Bag,Fashion,Zara,68412,67384,43,371,3.4,30,Monsoon,New,Pune,Debit Card,3,7.67,4046,4165,12.83,4.5,450,11240,No,Sunday,52,67.18,68412
+P00162,Tea,Grocery,Amul,37124,35507,124,243,4.4,5,Festival,Returning,Hyderabad,UPI,3,2.22,7646,1037,6.98,4.2,116,49575,No,Friday,63,83.08,37124
+P00163,Shampoo,Beauty,Dove,46107,43894,966,378,3.6,50,Festival,Premium,Mumbai,UPI,4,8.06,627,3450,5.05,3.4,387,8968,Yes,Wednesday,80,82.75,46107
+P00164,Shoes,Fashion,Zara,58438,58970,544,494,3.2,10,Festival,New,Bengaluru,Credit Card,7,7.57,4348,7682,47.88,3.6,84,3654,Yes,Monday,53,69.68,58438
+P00165,Shampoo,Beauty,L'Oreal,72366,73340,495,259,3.6,15,Summer,Premium,Chennai,UPI,3,11.4,2638,5287,43.3,3.8,206,6569,No,Thursday,61,98.18,72366
+P00166,Water Bottle,Home & Kitchen,Cello,56585,58537,250,284,3.4,10,Festival,Returning,Ahmedabad,Net Banking,6,12.15,6479,1241,24.23,4.0,158,27236,Yes,Tuesday,82,67.68,61111
+P00167,Hoodie,Fashion,Nike,43231,40402,458,448,2.6,50,Winter,Premium,Bengaluru,Debit Card,7,8.2,6063,8627,47.63,4.2,418,8989,No,Tuesday,89,84.4,46689
+P00168,Camera,Electronics,HP,69803,68074,948,577,3.8,50,Winter,New,Ahmedabad,Net Banking,6,8.6,5717,7158,25.77,4.5,318,25001,Yes,Friday,73,70.67,69803
+P00169,Wheat Flour,Grocery,Nestle,2139,-167,387,269,3.3,10,Summer,Premium,Chennai,Debit Card,7,0.98,4226,6028,42.84,4.6,451,26232,Yes,Monday,47,63.54,2033
+P00170,Coffee,Grocery,Tata,24375,22101,884,531,3.2,25,Winter,New,Pune,Debit Card,5,3.91,4045,1878,5.46,4.4,456,34295,Yes,Friday,86,77.12,26325
+P00171,Smart Watch,Electronics,Sony,22762,22079,426,371,4.8,40,Festival,New,Ahmedabad,UPI,4,10.43,607,9523,22.95,3.4,267,29474,Yes,Tuesday,72,88.74,22762
+P00172,Smartphone,Electronics,Dell,20105,22397,321,252,3.6,40,Summer,Returning,Bengaluru,Cash on Delivery,3,1.14,1618,7595,28.59,4.6,362,6519,Yes,Tuesday,78,81.22,20105
+P00173,Sneakers,Fashion,H&M,1583,2620,132,205,4.9,50,Monsoon,Premium,Kolkata,Net Banking,6,0.29,26,3650,54.46,4.3,55,19167,No,Sunday,73,82.95,1583
+P00174,Face Wash,Beauty,Dove,46057,43363,807,488,4.7,10,Winter,New,Bengaluru,Net Banking,7,9.09,7701,6256,61.9,4.7,243,35922,Yes,Saturday,55,51.29,46057
+P00175,Water Bottle,Home & Kitchen,Milton,65047,62774,319,404,4.7,0,Monsoon,New,Kolkata,Debit Card,3,14.88,7211,188,57.75,3.5,471,28846,Yes,Wednesday,46,67.74,61795
+P00176,Rice,Grocery,Amul,48097,46715,357,60,3.9,20,Winter,Premium,Ahmedabad,Debit Card,4,10.9,2723,426,20.89,4.4,263,15694,Yes,Thursday,100,63.21,51944
+P00177,Camera,Electronics,Sony,44929,42396,495,421,3.5,0,Normal,Returning,Hyderabad,Debit Card,1,11.59,7698,9991,19.19,4.9,350,25553,No,Friday,78,96.38,44929
+P00178,Rice,Grocery,Amul,71876,74360,391,50,4.8,15,Normal,Premium,Kolkata,Credit Card,1,13.63,3066,2910,14.47,4.9,310,43337,No,Monday,62,65.08,71876
+P00179,Jeans,Fashion,Puma,62502,63710,965,457,3.0,25,Summer,Returning,Delhi,Debit Card,2,5.0,2728,1163,25.89,4.1,181,49762,No,Monday,50,93.07,62502
+P00180,Coffee,Grocery,Fortune,69989,67369,132,360,2.7,15,Winter,Returning,Mumbai,Credit Card,2,4.99,3775,3636,32.38,4.2,210,16563,Yes,Wednesday,88,94.69,75588
+P00181,Jacket,Fashion,Adidas,66321,65840,265,309,4.6,40,Festival,Premium,Hyderabad,Credit Card,3,1.96,704,7571,66.09,3.7,331,2806,Yes,Tuesday,95,87.64,71626
+P00182,Mixer,Home & Kitchen,Milton,38813,40560,574,171,3.5,0,Winter,Premium,Hyderabad,Cash on Delivery,5,9.09,853,140,34.81,4.5,243,31921,No,Thursday,63,96.93,38813
+P00183,Rice,Grocery,Amul,29810,31941,225,394,3.7,25,Festival,Premium,Ahmedabad,UPI,4,5.81,4678,9385,43.26,4.0,304,3080,Yes,Saturday,47,91.51,28320
+P00184,Face Wash,Beauty,Nivea,31744,32984,374,247,2.9,5,Monsoon,Premium,Chennai,Net Banking,2,12.3,5895,142,44.21,4.5,158,12958,Yes,Tuesday,68,53.65,31744
+P00185,Shoes,Fashion,H&M,8896,10678,544,96,2.8,40,Festival,New,Delhi,Cash on Delivery,2,0.84,4116,153,37.83,3.9,149,36705,No,Sunday,90,68.51,9607
+P00186,Hoodie,Fashion,H&M,68591,68202,990,443,3.0,50,Festival,New,Pune,Net Banking,3,7.14,7277,3323,38.96,3.1,242,20320,Yes,Saturday,56,77.85,68591
+P00187,Hoodie,Fashion,Puma,77555,77339,994,420,4.4,10,Normal,Returning,Ahmedabad,Net Banking,3,3.34,6326,9576,17.06,4.5,195,36612,No,Tuesday,52,74.32,77555
+P00188,Headphones,Electronics,Samsung,57807,59852,122,364,2.9,20,Monsoon,Returning,Bengaluru,UPI,7,2.56,2397,7994,6.62,4.3,301,40253,Yes,Friday,72,50.15,57807
+P00189,Cooking Oil,Grocery,Aashirvaad,2776,2905,194,396,4.3,5,Summer,Premium,Kolkata,UPI,4,12.54,2374,1830,68.58,4.8,88,8666,Yes,Monday,73,65.58,2776
+P00190,Headphones,Electronics,Apple,36195,37220,342,122,3.8,5,Monsoon,New,Ahmedabad,Credit Card,3,8.59,3669,795,61.38,4.6,116,32027,Yes,Friday,99,51.09,39090
+P00191,Body Wash,Beauty,Lakme,7459,5051,19,256,2.8,15,Festival,Returning,Hyderabad,Cash on Delivery,5,9.47,7014,9923,32.76,3.7,462,8310,No,Saturday,67,60.85,7459
+P00192,Pressure Cooker,Home & Kitchen,Prestige,77662,74980,369,195,5.0,30,Summer,Returning,Ahmedabad,Debit Card,3,7.67,1032,9069,6.31,3.6,168,3751,Yes,Thursday,54,79.28,77662
+P00193,Pressure Cooker,Home & Kitchen,Prestige,39595,36831,969,305,3.0,20,Festival,New,Pune,Net Banking,3,6.7,2544,2362,25.44,3.4,406,7218,Yes,Tuesday,82,94.17,42762
+P00194,Shoes,Fashion,Adidas,9744,9642,921,423,4.0,5,Festival,Premium,Mumbai,Credit Card,5,9.92,1503,4980,31.35,4.5,107,14262,Yes,Sunday,81,55.83,10523
+P00195,Wheat Flour,Grocery,Amul,39425,40914,498,495,3.3,10,Winter,Returning,Mumbai,Cash on Delivery,3,2.81,6329,6588,65.94,3.0,390,11252,No,Friday,97,80.91,42579
+P00196,T-Shirt,Fashion,Levis,29100,28670,372,98,5.0,40,Winter,Returning,Delhi,Credit Card,3,7.87,5538,3653,26.91,4.1,130,43081,Yes,Tuesday,43,92.04,27645
+P00197,Face Wash,Beauty,Lakme,67795,70197,727,95,4.2,0,Normal,Premium,Chennai,Credit Card,6,7.86,6654,8345,62.66,3.2,219,8745,No,Wednesday,78,90.76,67795
+P00198,Shoes,Fashion,Levis,75153,74055,862,450,2.9,40,Monsoon,Premium,Hyderabad,Credit Card,1,1.96,3925,2066,55.81,4.1,482,49517,No,Friday,63,51.5,75153
+P00199,Sneakers,Fashion,Nike,13533,11930,708,136,3.2,10,Winter,New,Delhi,UPI,4,4.07,7774,884,52.84,3.1,290,33559,Yes,Thursday,69,91.94,13533
+P00200,Body Wash,Beauty,Lakme,57942,59140,547,599,3.8,5,Summer,New,Bengaluru,Credit Card,4,14.21,1118,9789,64.71,4.5,340,10109,No,Sunday,94,67.53,62577
+P00201,Bag,Fashion,Adidas,9769,10118,970,214,2.9,5,Monsoon,Premium,Mumbai,Debit Card,5,10.84,6322,3403,49.46,4.6,75,6426,Yes,Saturday,47,85.08,9281
+P00202,Hoodie,Fashion,Puma,28510,28948,338,145,4.5,5,Normal,Premium,Hyderabad,UPI,2,5.84,350,4292,25.29,4.4,105,25416,No,Wednesday,48,68.13,27085
+P00203,Fan,Home & Kitchen,Milton,66858,68014,631,54,4.5,30,Normal,Premium,Ahmedabad,Credit Card,1,14.81,2328,5265,23.4,3.9,151,31592,Yes,Saturday,95,76.1,72206
+P00204,Smart TV,Electronics,Lenovo,23717,25200,623,584,3.2,20,Winter,Returning,Pune,Debit Card,5,3.55,2670,6360,66.12,3.1,259,2216,No,Friday,84,71.53,25614
+P00205,Milk,Grocery,Aashirvaad,26620,26955,529,329,2.7,25,Winter,Premium,Kolkata,UPI,6,4.12,5350,4629,5.9,4.7,318,18621,No,Saturday,40,99.57,25289
+P00206,Milk,Grocery,Tata,26935,23953,873,11,4.9,25,Winter,Returning,Pune,Debit Card,5,5.54,1605,273,28.17,3.1,272,13143,Yes,Thursday,74,78.14,26935
+P00207,Wheat Flour,Grocery,Fortune,6202,5445,542,206,2.9,20,Summer,New,Kolkata,Cash on Delivery,5,4.91,1700,9079,64.51,5.0,478,14643,No,Monday,95,52.98,6698
+P00208,Mixer,Home & Kitchen,Prestige,67523,67511,835,564,4.5,15,Normal,Premium,Pune,Credit Card,1,5.3,2387,108,56.43,4.4,193,6983,Yes,Monday,62,52.09,67523
+P00209,Bag,Fashion,H&M,34698,34994,440,197,3.8,5,Summer,New,Bengaluru,Cash on Delivery,6,1.29,1427,1727,37.89,4.4,374,12401,Yes,Sunday,62,52.92,34698
+P00210,Milk,Grocery,Aashirvaad,5916,4620,43,544,3.7,40,Summer,New,Kolkata,Debit Card,2,11.39,6594,932,68.93,3.5,92,35350,Yes,Saturday,82,68.53,6389
+P00211,Perfume,Beauty,Dove,51584,51261,990,533,3.5,5,Winter,Premium,Hyderabad,Net Banking,2,8.12,6188,8435,33.68,3.1,478,23190,Yes,Saturday,55,97.08,51584
+P00212,Tea,Grocery,Fortune,55565,57111,348,150,4.4,20,Normal,Returning,Bengaluru,Cash on Delivery,6,9.99,3012,9102,23.28,4.8,53,19098,Yes,Saturday,71,95.64,55565
+P00213,Laptop,Electronics,HP,53187,53738,727,590,4.3,40,Monsoon,Returning,Delhi,Cash on Delivery,1,8.39,965,6640,42.21,4.3,387,18344,No,Sunday,99,86.12,57441
+P00214,Camera,Electronics,Dell,10951,11689,134,440,3.4,0,Festival,New,Ahmedabad,Credit Card,2,2.29,4204,4417,56.86,4.6,255,2889,Yes,Friday,100,74.44,11827
+P00215,Rice,Grocery,Aashirvaad,39341,42232,849,460,3.4,50,Winter,New,Bengaluru,Net Banking,3,12.1,5097,627,63.76,3.4,420,24795,Yes,Tuesday,60,55.43,39341
+P00216,T-Shirt,Fashion,Puma,78870,79923,69,202,3.6,25,Winter,New,Bengaluru,Credit Card,7,11.25,1971,923,29.14,4.9,349,12929,Yes,Tuesday,99,83.05,85179
+P00217,Lipstick,Beauty,L'Oreal,10603,7674,434,66,3.0,10,Summer,Premium,Chennai,Debit Card,2,11.27,7564,6632,34.53,3.7,497,48246,No,Tuesday,88,76.22,11451
+P00218,Tea,Grocery,Tata,68959,71101,969,86,2.7,0,Monsoon,New,Hyderabad,Net Banking,7,6.49,2000,2653,46.08,3.1,105,19183,Yes,Thursday,73,99.92,68959
+P00219,Shoes,Fashion,Puma,47163,45269,968,566,2.8,20,Festival,Returning,Ahmedabad,Cash on Delivery,7,2.9,6553,973,18.19,4.0,281,27627,No,Monday,74,96.08,47163
+P00220,Jeans,Fashion,Zara,44623,43913,14,230,3.6,15,Monsoon,Premium,Hyderabad,Cash on Delivery,5,1.69,6946,3125,28.99,4.3,229,19358,Yes,Sunday,85,61.27,48192
+P00221,Face Wash,Beauty,L'Oreal,8210,9408,903,63,3.6,5,Monsoon,Returning,Pune,Net Banking,1,11.12,4229,685,42.58,4.3,159,14122,No,Sunday,61,77.79,8210
+P00222,Laptop,Electronics,Samsung,34511,33447,735,538,4.1,0,Summer,Premium,Delhi,Credit Card,7,6.6,3611,4848,17.1,3.3,380,20055,No,Thursday,56,64.7,34511
+P00223,Jeans,Fashion,Nike,33710,35606,635,141,4.4,30,Monsoon,New,Ahmedabad,Net Banking,4,2.92,2055,271,67.93,3.2,488,33921,Yes,Sunday,40,67.28,32025
+P00224,Jeans,Fashion,H&M,76205,76785,830,173,4.8,5,Normal,New,Pune,UPI,7,2.19,1001,859,20.53,3.1,221,47449,No,Saturday,90,80.28,82301
+P00225,Sneakers,Fashion,Nike,54874,56551,513,180,4.5,20,Festival,Premium,Mumbai,Cash on Delivery,6,9.58,4224,9576,38.24,4.0,443,17824,Yes,Monday,72,52.49,54874
+P00226,Perfume,Beauty,L'Oreal,56856,58532,875,553,2.6,50,Winter,Returning,Kolkata,Credit Card,7,11.43,1624,1713,10.47,3.6,310,40363,No,Saturday,99,85.66,61404
+P00227,Tablet,Electronics,Samsung,8217,6482,467,84,4.8,30,Festival,New,Mumbai,Cash on Delivery,1,2.39,1640,8163,50.77,4.7,367,34994,No,Friday,76,91.34,8217
+P00228,Shoes,Fashion,Adidas,25885,27679,701,381,3.5,15,Monsoon,Premium,Delhi,Net Banking,3,12.91,6970,8411,52.17,4.7,454,48208,No,Tuesday,68,75.51,25885
+P00229,Water Bottle,Home & Kitchen,Prestige,19276,21613,453,383,4.7,40,Festival,Returning,Bengaluru,Cash on Delivery,2,3.26,3939,716,68.4,5.0,96,18402,Yes,Thursday,86,96.37,20818
+P00230,Milk,Grocery,Fortune,18663,18833,142,248,2.9,0,Monsoon,Returning,Bengaluru,UPI,1,10.45,324,623,25.29,4.7,156,47421,No,Friday,54,89.85,18663
+P00231,Shampoo,Beauty,Lakme,34845,37751,598,102,4.1,5,Summer,New,Chennai,Debit Card,2,0.9,5543,1255,14.01,4.9,135,14835,Yes,Tuesday,77,82.28,34845
+P00232,Camera,Electronics,HP,79935,77446,538,228,2.6,5,Winter,Premium,Delhi,Credit Card,4,0.21,1008,2906,8.74,4.0,329,13701,Yes,Saturday,79,54.81,79935
+P00233,Shoes,Fashion,H&M,20083,20067,711,397,3.0,15,Festival,Returning,Kolkata,Credit Card,6,14.85,3007,705,46.88,4.6,470,9497,No,Friday,67,79.75,20083
+P00234,T-Shirt,Fashion,Nike,48023,45899,439,418,3.8,5,Summer,New,Pune,UPI,2,0.79,7254,5517,36.91,3.4,112,36050,Yes,Saturday,57,68.13,48023
+P00235,Chair,Home & Kitchen,Philips,34081,36403,913,487,4.7,25,Summer,New,Pune,Debit Card,4,14.14,3227,2203,45.34,4.2,159,35476,No,Monday,94,75.24,36807
+P00236,Smart Watch,Electronics,Apple,72711,71319,987,522,3.6,0,Festival,New,Kolkata,Net Banking,1,3.5,6032,9484,47.98,4.7,283,10659,Yes,Saturday,59,77.13,72711
+P00237,Body Wash,Beauty,Nivea,77970,78433,341,498,2.7,40,Festival,Returning,Pune,Debit Card,7,13.65,7389,7364,55.08,3.7,101,39885,No,Saturday,97,81.39,84207
+P00238,Shoes,Fashion,Nike,43501,40764,539,572,5.0,50,Winter,New,Kolkata,UPI,5,12.0,2291,3980,54.96,4.4,264,31782,Yes,Thursday,85,85.79,46981
+P00239,Jeans,Fashion,Adidas,1679,2926,812,301,4.8,25,Festival,New,Chennai,UPI,5,0.71,1747,5546,39.14,4.6,406,3000,Yes,Saturday,79,88.31,1679
+P00240,Pressure Cooker,Home & Kitchen,Cello,578,-14,912,479,2.8,50,Monsoon,Premium,Ahmedabad,Cash on Delivery,5,12.99,1943,8644,51.69,3.3,349,16229,Yes,Wednesday,91,70.13,624
+P00241,Sunscreen,Beauty,Nivea,39824,38790,752,336,3.4,20,Winter,Premium,Delhi,Credit Card,6,5.29,6164,4650,64.06,4.6,305,47015,Yes,Saturday,57,79.58,39824
+P00242,Lipstick,Beauty,L'Oreal,71569,69042,134,50,4.1,50,Winter,New,Bengaluru,Net Banking,4,5.25,4774,8498,67.42,4.8,173,3229,No,Friday,96,87.63,77294
+P00243,Shampoo,Beauty,Dove,71360,73564,742,269,3.3,0,Winter,Premium,Bengaluru,Credit Card,2,13.48,2351,1429,67.88,4.6,148,1946,No,Thursday,53,54.58,71360
+P00244,Biscuits,Grocery,Amul,19076,21113,149,593,3.1,25,Festival,Premium,Bengaluru,UPI,7,10.9,6053,5250,28.94,3.1,440,42809,No,Thursday,87,52.0,20602
+P00245,Smartphone,Electronics,Lenovo,34006,36828,414,509,3.0,15,Normal,Premium,Hyderabad,Credit Card,4,13.65,1630,4614,64.85,4.9,145,14622,No,Wednesday,84,80.92,36726
+P00246,Laptop,Electronics,Sony,3328,4894,142,48,2.8,50,Monsoon,New,Mumbai,Debit Card,2,1.19,5963,4974,59.41,4.3,281,38379,No,Saturday,65,72.4,3328
+P00247,Tablet,Electronics,HP,45727,45872,766,537,2.7,40,Monsoon,New,Bengaluru,Cash on Delivery,7,10.19,3328,5701,15.19,4.1,279,30360,Yes,Wednesday,83,84.04,49385
+P00248,Chair,Home & Kitchen,Pigeon,39765,42734,14,536,4.4,0,Winter,New,Hyderabad,UPI,4,11.92,2486,2907,30.87,4.5,463,42466,Yes,Monday,59,98.62,39765
+P00249,Hoodie,Fashion,H&M,48106,47703,474,211,2.6,15,Festival,Returning,Delhi,UPI,5,9.75,4612,4174,32.97,4.3,230,7647,No,Wednesday,62,88.9,48106
+P00250,Headphones,Electronics,Dell,15474,12810,271,200,2.6,10,Summer,New,Ahmedabad,UPI,2,14.87,7348,6357,59.48,4.2,491,32955,No,Thursday,89,93.1,16711
+P00251,Pressure Cooker,Home & Kitchen,Milton,7405,5315,477,333,3.8,25,Winter,Premium,Chennai,Net Banking,4,2.42,7734,3070,61.53,4.1,107,8770,Yes,Friday,90,98.88,7997
+P00252,Bag,Fashion,Levis,58404,58828,353,264,3.0,30,Festival,Premium,Mumbai,Debit Card,7,3.34,2543,9798,64.88,4.5,241,24853,Yes,Friday,86,51.48,63076
+P00253,Wheat Flour,Grocery,Tata,77999,80879,83,577,3.8,20,Summer,New,Pune,UPI,7,2.87,2011,1498,23.42,4.1,391,32613,No,Friday,47,62.22,74100
+P00254,Pressure Cooker,Home & Kitchen,Cello,68649,66217,38,194,4.2,20,Summer,Premium,Bengaluru,Credit Card,2,13.26,2267,9203,63.37,4.5,353,9053,Yes,Thursday,83,57.58,74140
+P00255,Sunscreen,Beauty,Dove,67326,66104,739,470,4.8,50,Normal,New,Ahmedabad,UPI,4,4.49,3706,5653,55.79,4.3,482,28960,No,Wednesday,72,91.09,67326
+P00256,Perfume,Beauty,Mamaearth,74210,74487,64,165,4.9,50,Winter,Premium,Pune,Cash on Delivery,6,5.35,1834,4696,30.55,4.9,127,23910,No,Friday,69,74.26,74210
+P00257,Moisturizer,Beauty,Mamaearth,9904,10794,420,113,3.7,50,Winter,New,Mumbai,Credit Card,2,1.6,3266,8522,69.86,3.7,51,15192,No,Friday,91,69.91,10696
+P00258,Shoes,Fashion,Puma,31275,33426,1000,210,2.8,40,Summer,Premium,Chennai,Net Banking,7,2.8,6612,7389,24.38,4.4,87,44270,No,Thursday,70,73.11,31275
+P00259,Tea,Grocery,Nestle,60226,61727,201,7,4.3,0,Winter,Premium,Pune,UPI,3,5.83,482,3215,53.54,4.2,313,45768,Yes,Wednesday,82,84.91,65044
+P00260,Shoes,Fashion,Levis,77367,77303,774,549,3.2,40,Festival,Returning,Chennai,Credit Card,2,12.16,6355,6426,69.57,3.9,104,39479,Yes,Friday,56,63.44,77367
+P00261,Smartphone,Electronics,HP,13347,10739,282,90,3.9,30,Winter,Premium,Chennai,Cash on Delivery,3,0.83,4000,5444,60.79,4.9,306,12221,Yes,Tuesday,60,72.47,13347
+P00262,Moisturizer,Beauty,Nivea,26897,27811,307,434,4.0,10,Summer,New,Kolkata,Debit Card,3,6.04,1985,5950,42.06,3.4,118,20764,Yes,Wednesday,94,52.6,29048
+P00263,Shoes,Fashion,Levis,15715,17842,159,129,2.7,5,Normal,Returning,Hyderabad,Cash on Delivery,4,6.04,4863,6772,61.74,4.7,191,47541,Yes,Monday,51,61.29,15715
+P00264,Milk,Grocery,Aashirvaad,21471,24213,998,421,3.7,50,Monsoon,Premium,Delhi,UPI,1,0.72,2512,1558,21.24,3.6,127,46689,Yes,Saturday,57,71.67,21471
+P00265,Jacket,Fashion,Nike,52573,52310,216,521,4.8,15,Monsoon,Premium,Kolkata,Debit Card,1,7.96,5823,8926,32.86,4.2,299,7073,Yes,Monday,73,50.47,52573
+P00266,Table,Home & Kitchen,Philips,28862,26907,670,532,4.3,50,Winter,Premium,Bengaluru,Credit Card,4,4.37,7396,954,67.51,3.0,267,48483,No,Wednesday,100,80.61,31170
+P00267,Shampoo,Beauty,Lakme,68925,68161,365,112,3.8,50,Winter,Premium,Pune,Net Banking,3,10.16,7606,4299,32.87,3.2,280,32289,No,Sunday,55,61.94,68925
+P00268,Hoodie,Fashion,Zara,5220,2977,879,385,3.5,20,Festival,Premium,Kolkata,UPI,7,12.84,1438,7781,32.95,3.4,66,20018,No,Tuesday,72,52.88,5220
+P00269,Smartphone,Electronics,OnePlus,58140,57017,14,296,4.0,0,Winter,Premium,Ahmedabad,Debit Card,7,9.1,4075,2797,68.33,3.9,364,31708,Yes,Saturday,73,69.51,58140
+P00270,Shoes,Fashion,Adidas,75926,77006,642,46,4.6,15,Normal,New,Mumbai,Cash on Delivery,4,7.93,4360,5002,67.32,4.2,60,10373,No,Sunday,56,72.04,75926
+P00271,Moisturizer,Beauty,Lakme,77105,78790,213,308,3.2,25,Summer,New,Hyderabad,Net Banking,2,3.49,7121,1646,23.96,4.6,119,32627,Yes,Thursday,89,77.83,83273
+P00272,Table,Home & Kitchen,Philips,61139,58536,482,337,4.0,50,Winter,Premium,Kolkata,Net Banking,5,12.06,2796,6820,27.66,3.5,165,35473,No,Monday,86,57.44,66030
+P00273,Bag,Fashion,Adidas,43140,43962,274,147,3.1,20,Winter,Premium,Hyderabad,Net Banking,2,5.3,3410,1915,45.91,3.6,203,47158,No,Sunday,46,77.71,40983
+P00274,Fan,Home & Kitchen,Milton,41880,44614,687,163,3.3,0,Winter,Returning,Hyderabad,Net Banking,1,2.49,255,459,20.32,4.2,392,24602,No,Monday,75,99.84,41880
+P00275,Lipstick,Beauty,Mamaearth,22287,22287,624,594,4.1,25,Monsoon,Premium,Bengaluru,Credit Card,5,0.35,6556,940,68.74,3.2,151,24893,Yes,Wednesday,43,58.74,21173
+P00276,Coffee,Grocery,Aashirvaad,18649,18790,525,536,4.1,0,Monsoon,Returning,Bengaluru,Debit Card,2,1.88,214,7587,37.99,4.8,490,48168,No,Wednesday,74,58.28,18649
+P00277,Jacket,Fashion,Nike,75370,76240,40,249,2.5,30,Festival,New,Ahmedabad,Net Banking,6,8.0,59,6906,69.07,3.1,258,44945,Yes,Sunday,44,89.44,71602
+P00278,Cooking Oil,Grocery,Fortune,26958,25767,950,153,3.4,50,Monsoon,Returning,Mumbai,Credit Card,6,1.77,6372,1866,38.2,4.3,456,40543,Yes,Sunday,85,82.45,29114
+P00279,Smart TV,Electronics,Sony,13356,12258,719,525,4.8,30,Winter,Premium,Chennai,UPI,6,12.57,3109,5847,27.42,4.3,23,5489,Yes,Thursday,81,76.52,14424
+P00280,Hoodie,Fashion,H&M,63545,65003,520,356,4.7,30,Monsoon,New,Bengaluru,Credit Card,3,1.07,7446,2556,9.98,3.2,189,35699,No,Thursday,44,58.62,60368
+P00281,Water Bottle,Home & Kitchen,Milton,61282,61494,113,520,3.3,40,Winter,Premium,Bengaluru,Cash on Delivery,6,9.74,6076,1059,51.98,3.8,262,47481,Yes,Tuesday,61,58.34,61282
+P00282,Table,Home & Kitchen,Milton,56893,58185,599,551,2.7,5,Festival,Returning,Pune,Cash on Delivery,5,9.4,2964,6433,30.08,4.4,195,30314,Yes,Wednesday,46,73.22,54049
+P00283,Jacket,Fashion,Nike,10455,10223,656,426,4.3,40,Winter,New,Delhi,Credit Card,7,14.73,3036,1315,49.74,4.4,212,5155,Yes,Sunday,49,89.29,9933
+P00284,Lipstick,Beauty,Nivea,73269,71060,886,514,4.8,10,Winter,Returning,Hyderabad,UPI,2,12.66,1973,7761,13.98,4.7,156,48712,No,Wednesday,95,74.8,79130
+P00285,Jacket,Fashion,H&M,31908,30361,519,123,4.2,25,Festival,Premium,Delhi,Credit Card,1,6.08,3483,5395,54.12,3.4,467,3638,Yes,Friday,90,74.2,34460
+P00286,Jeans,Fashion,Puma,72453,73253,410,47,4.6,50,Festival,Premium,Pune,Net Banking,2,2.4,4183,3483,57.91,3.1,134,18317,No,Wednesday,98,71.48,78249
+P00287,Mixer,Home & Kitchen,Prestige,55530,56279,162,259,4.2,30,Winter,Returning,Ahmedabad,Debit Card,3,5.2,5995,9930,22.73,5.0,365,23116,Yes,Friday,86,70.65,59972
+P00288,Moisturizer,Beauty,Nivea,59132,57833,22,165,4.2,20,Summer,Returning,Delhi,Net Banking,6,2.78,2493,3996,31.05,3.4,351,39572,Yes,Saturday,68,92.96,59132
+P00289,Chair,Home & Kitchen,Cello,66871,66648,248,225,3.4,40,Summer,Premium,Hyderabad,UPI,5,1.46,7659,3842,63.16,3.8,337,30445,Yes,Saturday,89,75.16,72220
+P00290,Face Wash,Beauty,Mamaearth,2264,4947,489,172,4.2,5,Monsoon,Premium,Delhi,UPI,5,13.69,1533,9777,57.83,4.0,26,37491,Yes,Saturday,100,97.55,2445
+P00291,Milk,Grocery,Aashirvaad,56200,57851,742,581,2.9,20,Festival,New,Mumbai,UPI,5,1.76,7088,2658,24.53,3.1,218,17564,Yes,Friday,60,91.21,56200
+P00292,Shoes,Fashion,Zara,31540,34150,100,388,2.6,15,Monsoon,Returning,Chennai,Debit Card,2,13.95,3063,9078,20.54,3.6,288,48845,No,Tuesday,74,88.85,31540
+P00293,Jeans,Fashion,H&M,59327,57755,595,572,3.1,30,Normal,Premium,Hyderabad,Cash on Delivery,5,9.87,2680,3114,49.17,4.2,447,14893,Yes,Friday,93,72.86,64073
+P00294,Rice,Grocery,Nestle,49792,50008,282,198,4.1,30,Festival,Returning,Bengaluru,Net Banking,7,11.22,5176,8218,43.48,3.4,373,9416,Yes,Saturday,48,94.56,47303
+P00295,Rice,Grocery,Amul,19182,21030,137,534,2.6,20,Normal,Returning,Ahmedabad,Debit Card,2,3.86,6078,2104,44.82,3.2,110,26878,No,Saturday,49,70.19,18223
+P00296,T-Shirt,Fashion,Levis,19136,18425,779,8,3.8,25,Winter,New,Hyderabad,Debit Card,2,14.76,1449,2978,59.57,4.9,300,23096,Yes,Sunday,67,65.15,19136
+P00297,Lipstick,Beauty,Lakme,38340,39325,25,458,2.5,5,Monsoon,New,Kolkata,Credit Card,4,9.97,4412,7205,6.44,3.3,418,15437,Yes,Thursday,54,51.97,38340
+P00298,Microwave,Home & Kitchen,Prestige,57928,59805,280,347,4.7,40,Festival,Premium,Kolkata,Debit Card,3,9.85,7919,4309,68.87,4.6,188,33546,Yes,Tuesday,43,67.7,55032
+P00299,Shoes,Fashion,Levis,5991,5453,415,577,2.8,50,Normal,New,Bengaluru,UPI,5,12.4,4693,1209,67.26,4.4,129,35954,Yes,Thursday,85,96.82,6470
+P00300,Fan,Home & Kitchen,Prestige,38837,37620,777,525,4.1,30,Normal,New,Delhi,UPI,3,5.55,263,8245,7.67,4.7,169,42480,Yes,Friday,86,80.33,41943
+P00301,Jeans,Fashion,Puma,12240,12760,282,329,4.0,5,Normal,Premium,Delhi,Net Banking,6,2.5,1763,5159,23.59,4.0,106,37615,Yes,Thursday,55,75.82,12240
+P00302,Bag,Fashion,H&M,27539,27828,498,594,3.2,20,Normal,Premium,Chennai,Net Banking,4,12.28,4319,2562,21.62,4.6,485,4227,Yes,Friday,50,65.39,27539
+P00303,Smart Watch,Electronics,Samsung,58286,58472,619,126,4.6,25,Summer,Premium,Bengaluru,Debit Card,1,4.38,5856,4836,29.97,5.0,213,40985,Yes,Wednesday,54,85.49,58286
+P00304,Water Bottle,Home & Kitchen,Cello,23616,21952,62,394,2.6,5,Monsoon,Premium,Ahmedabad,Net Banking,6,0.11,3152,8700,54.54,3.4,389,24678,No,Sunday,54,66.83,23616
+P00305,Cooking Oil,Grocery,Tata,62477,62913,819,437,3.9,30,Festival,New,Delhi,Cash on Delivery,6,13.54,7437,6642,52.64,3.2,133,46214,No,Monday,46,81.62,59354
+P00306,Biscuits,Grocery,Tata,35522,37383,388,482,3.1,30,Summer,Premium,Chennai,Debit Card,2,2.08,2175,3025,41.19,4.6,156,46497,Yes,Thursday,45,94.67,33746
+P00307,Jacket,Fashion,H&M,6958,4290,147,296,2.9,0,Winter,New,Pune,Cash on Delivery,2,9.01,1149,6422,32.46,4.3,343,46437,No,Sunday,82,71.27,7514
+P00308,Laptop,Electronics,Samsung,18401,18343,841,423,3.1,15,Festival,Premium,Delhi,UPI,1,11.23,5994,5136,65.69,3.4,122,8963,No,Saturday,87,99.3,19873
+P00309,Tablet,Electronics,Dell,38586,36530,226,517,5.0,10,Festival,Returning,Kolkata,Cash on Delivery,3,6.04,2830,4755,68.55,4.0,96,14672,Yes,Sunday,83,71.7,41672
+P00310,Shampoo,Beauty,L'Oreal,46712,44267,902,421,3.3,10,Winter,New,Kolkata,Credit Card,3,4.37,4801,8576,55.32,3.4,255,36396,Yes,Saturday,64,56.68,46712
+P00311,Tea,Grocery,Fortune,41633,42914,199,16,3.7,25,Monsoon,Premium,Mumbai,Net Banking,6,3.03,96,391,38.26,4.5,86,39815,Yes,Sunday,48,71.76,39552
+P00312,Moisturizer,Beauty,L'Oreal,38890,40599,510,283,4.0,0,Normal,Returning,Hyderabad,Debit Card,6,6.83,6920,5665,40.96,3.4,316,44119,No,Saturday,65,94.95,38890
+P00313,Face Wash,Beauty,Mamaearth,10618,8815,481,129,4.9,25,Monsoon,Premium,Mumbai,Net Banking,6,3.68,3752,533,27.45,3.1,174,41950,Yes,Tuesday,45,98.06,10088
+P00314,Microwave,Home & Kitchen,Milton,76391,78842,903,362,3.2,30,Normal,Premium,Chennai,Net Banking,7,2.08,6341,6369,55.12,4.7,88,43732,Yes,Tuesday,46,93.87,72572
+P00315,Rice,Grocery,Nestle,49675,47372,461,50,4.3,25,Winter,Returning,Ahmedabad,UPI,3,11.03,2931,7521,33.62,4.6,336,24053,No,Tuesday,49,96.6,47192
+P00316,Tablet,Electronics,Samsung,15812,18535,417,262,3.3,40,Normal,New,Bengaluru,Cash on Delivery,6,0.03,2315,9128,68.92,5.0,27,6287,No,Saturday,77,74.66,15812
+P00317,Lipstick,Beauty,Lakme,62504,63343,57,508,4.3,20,Summer,Premium,Ahmedabad,Cash on Delivery,1,12.78,5213,8588,15.54,3.5,48,31125,Yes,Saturday,74,77.0,62504
+P00318,Milk,Grocery,Tata,64793,64769,97,259,3.7,50,Normal,New,Ahmedabad,UPI,7,12.22,5570,4632,34.67,4.8,307,32038,Yes,Friday,96,70.43,69976
+P00319,Perfume,Beauty,Mamaearth,71992,72863,359,335,3.6,5,Monsoon,Premium,Pune,Debit Card,1,3.64,1711,7835,6.58,3.7,289,21658,No,Sunday,96,87.43,77751
+P00320,Smart TV,Electronics,OnePlus,1159,2542,776,464,3.0,50,Winter,Premium,Bengaluru,Credit Card,5,7.35,599,5116,31.72,4.1,377,4249,No,Saturday,69,53.35,1159
+P00321,Sunscreen,Beauty,Lakme,46953,44374,409,541,2.8,15,Winter,Returning,Delhi,Net Banking,3,1.86,35,7393,41.19,3.3,273,46307,No,Wednesday,78,68.17,46953
+P00322,Cooking Oil,Grocery,Aashirvaad,51747,53768,481,321,4.4,10,Winter,Returning,Pune,Credit Card,3,13.5,3275,1205,44.12,3.1,274,36000,Yes,Sunday,71,58.83,51747
+P00323,Jacket,Fashion,Puma,6628,8919,622,243,3.1,20,Winter,Premium,Chennai,Debit Card,2,0.79,5004,6025,27.72,3.4,370,24566,No,Tuesday,86,66.01,7158
+P00324,Sunscreen,Beauty,L'Oreal,53207,50755,158,6,3.6,50,Monsoon,Premium,Hyderabad,Credit Card,2,14.73,3435,2397,19.73,4.2,178,32435,Yes,Friday,52,56.48,53207
+P00325,Smart Watch,Electronics,Samsung,14602,15761,560,163,2.9,30,Summer,New,Chennai,UPI,6,10.52,2865,7822,51.77,3.8,28,48077,Yes,Tuesday,70,70.76,14602
+P00326,Jacket,Fashion,Nike,55109,56424,443,536,4.7,5,Festival,New,Mumbai,UPI,1,13.9,1157,3478,41.0,4.5,491,6058,Yes,Sunday,49,57.49,52354
+P00327,Milk,Grocery,Amul,71507,73277,869,161,3.1,25,Winter,New,Pune,Cash on Delivery,6,4.4,4986,9230,13.37,4.5,156,28020,No,Friday,49,52.88,67932
+P00328,Chair,Home & Kitchen,Milton,12001,10863,547,573,4.0,0,Monsoon,Premium,Kolkata,Cash on Delivery,4,7.68,1879,2687,39.55,4.4,410,42199,Yes,Wednesday,70,75.35,12001
+P00329,Perfume,Beauty,L'Oreal,16575,16200,93,5,3.9,5,Festival,Premium,Bengaluru,Debit Card,2,13.72,6012,1715,52.45,4.1,88,10111,Yes,Thursday,82,62.34,17901
+P00330,Perfume,Beauty,Nivea,20655,17878,265,558,3.2,20,Normal,New,Pune,UPI,1,2.84,6807,7294,50.18,3.7,342,26106,Yes,Thursday,56,81.65,20655
+P00331,Lipstick,Beauty,Lakme,73807,74651,710,57,3.8,15,Monsoon,New,Kolkata,Debit Card,2,6.76,5122,7278,22.69,4.6,461,27167,Yes,Wednesday,90,58.94,79711
+P00332,Water Bottle,Home & Kitchen,Milton,77453,75367,622,478,4.2,10,Summer,Returning,Bengaluru,Credit Card,6,14.02,158,1411,24.11,4.4,436,14007,Yes,Tuesday,68,60.43,77453
+P00333,Moisturizer,Beauty,L'Oreal,37914,37387,913,87,2.8,0,Monsoon,Premium,Mumbai,Debit Card,3,8.05,6186,714,33.74,4.5,258,6750,No,Tuesday,86,73.64,40947
+P00334,Shampoo,Beauty,Mamaearth,48557,49546,373,267,4.0,20,Summer,Premium,Pune,Credit Card,4,4.61,6506,9142,14.34,3.6,450,46482,No,Friday,76,71.88,48557
+P00335,Face Wash,Beauty,L'Oreal,34919,34066,250,28,3.8,5,Normal,Premium,Chennai,Credit Card,5,8.19,4307,561,34.73,3.5,207,3054,No,Wednesday,59,66.53,34919
+P00336,Headphones,Electronics,Dell,36968,35899,297,520,4.8,0,Normal,Premium,Bengaluru,Debit Card,1,13.17,3056,2741,64.9,4.6,371,35922,Yes,Monday,73,54.85,36968
+P00337,Body Wash,Beauty,L'Oreal,26479,26404,249,345,5.0,10,Monsoon,New,Pune,Net Banking,3,13.45,4965,3871,64.24,3.8,296,32715,Yes,Thursday,57,66.69,26479
+P00338,Bag,Fashion,Adidas,72830,71694,66,566,3.3,5,Normal,Returning,Delhi,Credit Card,4,6.36,1385,1789,52.14,4.1,49,14969,No,Saturday,87,89.72,78656
+P00339,Smart TV,Electronics,OnePlus,48970,46105,956,519,3.0,30,Summer,Returning,Kolkata,Net Banking,7,6.91,2791,8812,41.47,4.7,277,12454,No,Sunday,93,83.28,52887
+P00340,Rice,Grocery,Nestle,33737,31185,428,163,2.6,10,Monsoon,Premium,Kolkata,Credit Card,4,9.39,5563,8054,15.58,4.6,467,25802,No,Monday,47,54.42,32051
+P00341,Sneakers,Fashion,Puma,43440,42070,206,450,4.5,10,Monsoon,New,Kolkata,Net Banking,3,8.91,2401,3941,63.32,4.5,314,48932,Yes,Saturday,85,58.08,46915
+P00342,Perfume,Beauty,Mamaearth,53880,55791,719,15,4.3,20,Festival,Premium,Bengaluru,UPI,3,1.91,6513,8356,40.43,3.2,68,7402,Yes,Monday,80,94.87,53880
+P00343,Chair,Home & Kitchen,Milton,19744,21786,483,144,3.1,25,Festival,Returning,Hyderabad,Net Banking,3,4.66,96,6150,28.63,4.6,20,20761,Yes,Tuesday,44,59.99,18757
+P00344,Body Wash,Beauty,Lakme,11897,11208,890,249,4.2,15,Summer,Returning,Mumbai,Net Banking,5,10.79,1818,4177,21.89,4.3,350,8955,No,Thursday,73,58.19,11897
+P00345,Shoes,Fashion,Zara,57797,60389,797,452,3.9,40,Monsoon,Returning,Delhi,Net Banking,5,4.04,184,5241,31.62,4.7,359,573,No,Sunday,91,63.98,62420
+P00346,Microwave,Home & Kitchen,Cello,33295,34157,537,14,4.9,10,Monsoon,New,Kolkata,Net Banking,3,2.38,7766,1317,56.5,3.1,481,5665,Yes,Monday,43,92.73,31631
+P00347,Bag,Fashion,H&M,44893,45900,38,110,3.6,10,Winter,New,Mumbai,Credit Card,6,14.27,3273,1401,30.28,4.0,196,40223,No,Tuesday,88,75.5,48484
+P00348,Biscuits,Grocery,Amul,35175,37562,421,114,2.6,20,Winter,Premium,Mumbai,Credit Card,3,6.84,6058,3327,26.9,4.7,460,48111,Yes,Wednesday,95,54.5,37989
+P00349,Laptop,Electronics,Lenovo,31506,32853,694,236,4.0,15,Normal,Premium,Ahmedabad,UPI,4,14.81,5397,4577,52.93,3.6,350,20091,Yes,Wednesday,73,70.03,31506
+P00350,Biscuits,Grocery,Aashirvaad,18365,16164,25,568,4.8,0,Summer,Premium,Kolkata,Credit Card,4,4.87,3143,9129,7.71,4.8,471,8152,Yes,Sunday,88,89.01,19834
+P00351,Bag,Fashion,Puma,67548,66445,524,384,4.9,25,Monsoon,Returning,Mumbai,Debit Card,2,14.87,4955,1480,7.25,4.1,254,48157,Yes,Monday,56,94.46,67548
+P00352,Microwave,Home & Kitchen,Pigeon,61107,59600,311,65,4.0,10,Normal,Premium,Chennai,Debit Card,7,13.05,7171,2825,53.82,3.0,231,21427,Yes,Thursday,80,89.95,61107
+P00353,Shampoo,Beauty,L'Oreal,42206,40336,18,343,3.9,15,Festival,New,Bengaluru,UPI,1,2.39,1090,1812,33.62,3.3,97,25798,No,Thursday,84,95.12,45582
+P00354,Face Wash,Beauty,Mamaearth,19344,17968,790,558,3.9,30,Summer,Premium,Chennai,Cash on Delivery,7,1.73,4120,1556,62.15,3.4,390,31406,No,Wednesday,70,74.04,19344
+P00355,Biscuits,Grocery,Fortune,58524,60461,322,455,2.6,10,Monsoon,Premium,Pune,UPI,5,10.04,6562,3406,65.34,4.6,144,16222,No,Monday,51,80.38,58524
+P00356,Shoes,Fashion,Nike,73237,71080,712,8,3.6,30,Summer,Returning,Delhi,Net Banking,3,13.26,2869,4776,15.18,4.8,383,48283,No,Tuesday,73,98.15,73237
+P00357,Water Bottle,Home & Kitchen,Prestige,57249,58188,790,547,4.1,15,Winter,Premium,Delhi,Net Banking,3,4.57,7142,4628,64.48,4.1,414,45603,Yes,Thursday,42,90.18,54387
+P00358,Smartphone,Electronics,HP,74336,72258,218,116,3.3,50,Monsoon,Premium,Delhi,Debit Card,3,5.01,6089,8965,18.89,4.0,456,6590,Yes,Tuesday,68,80.79,74336
+P00359,Milk,Grocery,Fortune,58237,59683,553,367,3.8,40,Summer,New,Ahmedabad,Cash on Delivery,4,0.55,7981,1933,28.58,4.7,494,8440,Yes,Friday,45,68.03,55326
+P00360,Milk,Grocery,Nestle,34280,35985,916,10,3.2,25,Festival,New,Hyderabad,Net Banking,6,14.76,6275,3361,26.97,3.8,59,44885,Yes,Monday,92,72.1,37022
+P00361,Bag,Fashion,Zara,23355,21656,272,297,4.7,0,Summer,New,Chennai,Net Banking,6,5.68,6426,8136,10.4,4.2,204,46535,No,Tuesday,52,83.76,23355
+P00362,Laptop,Electronics,OnePlus,16924,19884,98,187,3.7,20,Winter,Premium,Hyderabad,Cash on Delivery,2,9.28,769,2135,5.83,4.4,471,19628,No,Tuesday,44,94.11,16078
+P00363,Sneakers,Fashion,Zara,59747,58678,985,440,4.3,5,Normal,Returning,Ahmedabad,Credit Card,1,9.35,6020,2581,53.61,3.3,58,19327,No,Monday,79,92.43,59747
+P00364,Biscuits,Grocery,Fortune,36263,37379,878,244,2.8,5,Festival,New,Kolkata,Cash on Delivery,4,7.91,6725,9578,50.39,4.9,435,22304,Yes,Tuesday,53,68.72,36263
+P00365,Body Wash,Beauty,Dove,67000,69692,901,544,3.0,40,Monsoon,New,Ahmedabad,Credit Card,6,12.34,7761,5458,55.88,4.4,275,33623,Yes,Thursday,60,74.19,67000
+P00366,Cooking Oil,Grocery,Fortune,69379,71040,605,390,4.0,30,Winter,Returning,Chennai,Net Banking,2,0.81,3111,8985,18.31,3.1,158,29695,Yes,Sunday,64,85.97,69379
+P00367,Tablet,Electronics,Lenovo,22660,24772,577,9,4.0,25,Normal,Premium,Bengaluru,Debit Card,3,2.42,6698,3147,68.25,4.4,383,40789,Yes,Wednesday,46,63.8,21527
+P00368,Laptop,Electronics,Sony,52360,50391,364,176,3.9,0,Monsoon,Returning,Chennai,Net Banking,7,4.15,2605,379,33.51,3.8,379,15522,No,Wednesday,53,89.01,52360
+P00369,Perfume,Beauty,Dove,49396,51795,628,28,5.0,0,Summer,Returning,Hyderabad,Credit Card,6,12.78,387,3255,61.12,4.4,155,35961,Yes,Friday,48,50.65,46927
+P00370,Wheat Flour,Grocery,Amul,51050,48276,265,140,4.9,50,Summer,New,Delhi,Debit Card,7,5.65,4737,6263,21.05,3.2,256,44165,Yes,Saturday,55,50.62,51050
+P00371,Smart Watch,Electronics,Apple,66864,66963,649,157,2.9,25,Normal,Returning,Ahmedabad,Net Banking,5,4.33,3879,5948,6.72,3.0,111,36531,Yes,Thursday,88,94.57,72213
+P00372,Sneakers,Fashion,Adidas,73791,70810,811,101,2.6,50,Monsoon,Returning,Ahmedabad,Credit Card,4,3.71,1348,2615,50.14,4.0,371,13223,No,Saturday,85,90.81,79694
+P00373,Headphones,Electronics,Dell,14017,15032,767,401,2.6,40,Normal,Premium,Hyderabad,Debit Card,5,0.97,2452,6548,49.76,3.3,203,9273,No,Monday,96,69.58,15138
+P00374,Face Wash,Beauty,Nivea,20035,21593,16,46,2.7,15,Festival,Returning,Bengaluru,Net Banking,4,10.15,4198,2901,48.48,3.8,307,8775,No,Saturday,71,92.83,20035
+P00375,Laptop,Electronics,HP,3516,4200,700,402,3.5,30,Festival,Returning,Delhi,Net Banking,1,5.94,2278,5300,46.32,3.1,154,37429,No,Tuesday,97,65.05,3797
+P00376,Lipstick,Beauty,L'Oreal,24149,24741,653,27,4.6,25,Festival,Returning,Ahmedabad,Net Banking,3,9.9,4863,7898,59.24,4.0,487,48414,No,Tuesday,86,57.08,26080
+P00377,Sunscreen,Beauty,Lakme,16501,15836,139,401,4.6,0,Festival,Premium,Chennai,Cash on Delivery,7,9.23,4311,9143,21.13,3.5,293,33432,No,Monday,66,54.52,16501
+P00378,Shampoo,Beauty,L'Oreal,56868,58439,580,291,2.6,5,Festival,Returning,Mumbai,Cash on Delivery,7,12.34,1959,4033,18.4,4.2,215,21514,Yes,Wednesday,78,82.98,56868
+P00379,Camera,Electronics,OnePlus,68893,69169,714,370,4.1,20,Normal,Returning,Chennai,Debit Card,4,6.21,2474,8419,7.95,3.6,341,28124,Yes,Tuesday,52,76.49,68893
+P00380,Headphones,Electronics,Lenovo,22476,22511,751,416,4.8,25,Normal,New,Ahmedabad,Net Banking,4,1.66,1102,3705,62.21,4.3,414,27151,No,Sunday,88,76.41,24274
+P00381,Headphones,Electronics,Lenovo,21762,20315,218,221,3.9,25,Festival,New,Kolkata,Debit Card,1,13.48,5137,8061,38.81,4.2,364,45037,Yes,Saturday,68,91.55,21762
+P00382,Jacket,Fashion,Zara,36507,35908,77,498,4.6,0,Normal,New,Bengaluru,UPI,3,9.35,7658,8413,55.27,3.4,29,14789,Yes,Sunday,55,65.67,36507
+P00383,Smart TV,Electronics,Samsung,23690,22850,534,413,3.9,20,Monsoon,Premium,Delhi,Net Banking,5,11.95,611,698,61.98,3.9,286,29736,No,Thursday,57,90.99,23690
+P00384,T-Shirt,Fashion,Nike,69701,67361,879,178,3.9,30,Normal,Returning,Pune,Cash on Delivery,3,6.67,943,2095,52.61,3.5,224,25401,No,Wednesday,69,71.9,69701
+P00385,Pressure Cooker,Home & Kitchen,Pigeon,65136,67934,510,85,2.7,0,Winter,Premium,Mumbai,Net Banking,2,0.71,2843,8870,14.48,4.8,177,24032,No,Thursday,80,94.6,65136
+P00386,Rice,Grocery,Nestle,67015,67756,247,23,2.7,15,Normal,Premium,Bengaluru,Credit Card,1,7.66,5927,4079,61.81,3.9,418,34061,No,Saturday,73,79.37,67015
+P00387,Water Bottle,Home & Kitchen,Cello,54019,54696,45,86,3.4,40,Summer,New,Chennai,Cash on Delivery,6,2.58,900,6859,8.58,3.6,182,3255,No,Saturday,71,55.76,54019
+P00388,T-Shirt,Fashion,Zara,35583,34837,388,399,4.1,25,Festival,Returning,Delhi,Credit Card,6,14.3,6215,5867,33.64,5.0,363,28082,Yes,Wednesday,57,89.82,35583
+P00389,Perfume,Beauty,L'Oreal,29594,31213,894,200,3.1,30,Monsoon,Returning,Delhi,Debit Card,6,3.44,1729,9886,66.83,4.3,165,13429,Yes,Friday,78,78.15,29594
+P00390,Biscuits,Grocery,Aashirvaad,50712,48078,648,271,3.3,0,Festival,Returning,Ahmedabad,Debit Card,4,8.23,547,1816,20.41,4.1,170,40634,Yes,Thursday,83,55.35,54768
+P00391,Rice,Grocery,Tata,44562,42073,634,309,2.6,25,Festival,New,Kolkata,Cash on Delivery,3,9.21,4613,9221,7.17,4.9,337,32491,Yes,Sunday,54,87.67,44562
+P00392,Wheat Flour,Grocery,Amul,59965,59891,993,148,3.2,10,Summer,Returning,Pune,UPI,7,4.63,140,1738,46.15,3.5,259,18797,No,Tuesday,65,87.48,59965
+P00393,Tea,Grocery,Fortune,7486,6385,819,465,3.6,15,Festival,New,Bengaluru,Net Banking,7,6.83,2309,2619,48.82,3.0,270,9867,No,Sunday,63,65.54,7486
+P00394,Laptop,Electronics,Dell,20129,21084,960,417,4.3,5,Festival,Premium,Mumbai,Cash on Delivery,7,5.78,1948,5579,10.03,3.8,170,32002,No,Wednesday,80,61.32,20129
+P00395,Mixer,Home & Kitchen,Prestige,75659,76968,425,414,4.6,40,Festival,New,Delhi,Cash on Delivery,2,7.16,1234,2729,32.26,4.1,330,5800,No,Monday,43,88.12,71877
+P00396,Fan,Home & Kitchen,Prestige,26849,28993,282,569,4.9,50,Winter,Premium,Hyderabad,UPI,4,4.04,7682,3651,15.17,3.0,209,42091,Yes,Thursday,74,72.74,26849
+P00397,Sneakers,Fashion,Puma,39075,41834,267,80,3.4,25,Winter,Returning,Ahmedabad,Debit Card,4,5.21,2660,4533,22.47,4.1,156,15388,No,Friday,53,55.7,39075
+P00398,Smart TV,Electronics,Lenovo,28656,29779,389,304,4.4,25,Normal,New,Ahmedabad,Debit Card,6,11.9,6674,4012,14.07,4.8,134,18691,Yes,Monday,69,82.87,28656
+P00399,Hoodie,Fashion,Puma,46027,43447,174,301,3.2,30,Monsoon,Returning,Bengaluru,Cash on Delivery,4,13.19,1114,5822,30.97,3.7,63,25816,No,Friday,83,94.43,49709
+P00400,Shoes,Fashion,Adidas,39956,42937,48,271,4.7,20,Festival,Returning,Delhi,Credit Card,5,7.35,7187,1763,39.91,4.4,176,46641,No,Friday,90,65.24,43152
+P00401,Shampoo,Beauty,Dove,15682,17011,50,163,2.5,5,Summer,Premium,Chennai,Debit Card,5,13.33,6308,2636,30.1,4.8,221,29219,No,Thursday,62,54.75,15682
+P00402,T-Shirt,Fashion,Puma,785,1068,555,179,3.2,30,Normal,New,Kolkata,Net Banking,1,12.62,7805,514,7.75,3.1,319,47900,Yes,Tuesday,81,82.46,847
+P00403,T-Shirt,Fashion,Adidas,48402,47367,442,529,4.2,40,Festival,Premium,Pune,Net Banking,7,8.83,5013,5382,14.21,4.0,292,23153,No,Thursday,73,58.4,48402
+P00404,Hoodie,Fashion,Nike,75367,77460,472,165,3.7,5,Monsoon,Premium,Pune,UPI,6,11.73,5054,448,6.14,3.3,280,17414,No,Friday,47,75.06,71599
+P00405,Smartphone,Electronics,OnePlus,38304,39302,59,19,2.5,5,Winter,New,Delhi,UPI,3,11.03,5588,6082,30.5,3.8,478,46678,No,Tuesday,72,53.85,38304
+P00406,Jacket,Fashion,Zara,47965,49248,161,516,4.3,0,Normal,New,Ahmedabad,Cash on Delivery,2,13.48,5972,5644,36.72,3.3,314,1120,No,Sunday,71,78.05,47965
+P00407,Microwave,Home & Kitchen,Pigeon,3805,2939,945,259,4.4,30,Monsoon,New,Ahmedabad,Cash on Delivery,4,9.85,6100,5605,30.19,4.3,183,22127,Yes,Wednesday,97,86.91,4109
+P00408,Coffee,Grocery,Amul,57088,59184,59,317,4.1,15,Festival,New,Mumbai,Cash on Delivery,6,4.57,347,2013,41.22,4.5,457,42663,No,Tuesday,74,85.58,57088
+P00409,Mixer,Home & Kitchen,Philips,56253,58022,289,576,4.6,50,Normal,Premium,Chennai,Cash on Delivery,3,0.72,6947,514,36.33,4.3,61,15744,No,Sunday,44,55.83,53441
+P00410,Shoes,Fashion,Levis,58653,59122,575,334,3.9,10,Normal,Premium,Kolkata,UPI,4,8.22,2357,1648,11.0,4.0,426,42086,No,Friday,80,81.8,58653
+P00411,Laptop,Electronics,Apple,32660,30998,925,595,4.1,5,Festival,New,Kolkata,Debit Card,6,12.11,7279,6956,29.25,5.0,408,42210,No,Friday,91,79.71,35272
+P00412,Tea,Grocery,Fortune,22415,24473,428,300,4.3,10,Festival,Premium,Delhi,Net Banking,1,7.5,5087,6711,68.39,4.0,29,25613,Yes,Sunday,73,84.71,22415
+P00413,Smart TV,Electronics,Sony,32813,34074,643,77,4.2,50,Festival,New,Hyderabad,Cash on Delivery,3,2.19,886,7955,56.77,5.0,304,37657,No,Monday,49,81.97,31173
+P00414,Shoes,Fashion,Zara,61930,60108,372,205,4.8,40,Festival,New,Delhi,Cash on Delivery,4,8.26,5855,4716,42.09,4.3,233,14332,Yes,Friday,96,56.73,66884
+P00415,Microwave,Home & Kitchen,Cello,18105,19411,721,592,4.9,5,Winter,Premium,Kolkata,Net Banking,7,5.35,4327,9560,23.25,4.8,430,5643,Yes,Thursday,90,62.48,19553
+P00416,Jeans,Fashion,Zara,75290,77361,33,561,3.7,5,Winter,New,Ahmedabad,UPI,7,5.98,5150,6096,6.44,3.2,140,41110,Yes,Tuesday,81,86.89,81313
+P00417,Table,Home & Kitchen,Milton,58178,55436,699,174,3.0,25,Monsoon,Returning,Chennai,Credit Card,3,11.78,4903,3529,8.88,4.3,180,47767,Yes,Wednesday,65,58.61,58178
+P00418,Mixer,Home & Kitchen,Cello,35401,32811,135,23,3.7,15,Normal,Premium,Mumbai,Net Banking,6,7.89,1668,4720,18.57,4.5,90,20991,Yes,Sunday,61,86.68,35401
+P00419,Chair,Home & Kitchen,Milton,20248,22205,314,568,2.8,25,Monsoon,Premium,Kolkata,Debit Card,2,12.35,374,3617,39.53,3.7,383,1365,Yes,Thursday,72,93.42,20248
+P00420,Shampoo,Beauty,Lakme,58743,57887,895,455,3.8,15,Monsoon,New,Delhi,Cash on Delivery,1,2.45,5047,6345,32.24,3.9,341,43886,No,Saturday,44,50.92,55806
+P00421,Laptop,Electronics,HP,70338,69727,661,438,4.3,0,Festival,Premium,Ahmedabad,Credit Card,5,4.48,2822,4768,24.21,3.3,367,14564,Yes,Sunday,54,99.74,70338
+P00422,Headphones,Electronics,Lenovo,63078,62788,116,99,3.4,20,Normal,Returning,Ahmedabad,Cash on Delivery,2,7.88,7106,6755,56.95,3.2,485,21200,Yes,Wednesday,45,90.27,59925
+P00423,Mixer,Home & Kitchen,Philips,44422,44212,718,489,2.9,15,Monsoon,Returning,Delhi,Debit Card,7,4.05,1074,6704,37.39,4.8,49,31544,Yes,Friday,78,96.73,44422
+P00424,Shampoo,Beauty,Mamaearth,13192,13478,42,30,4.5,25,Festival,New,Ahmedabad,Debit Card,3,8.29,4057,5955,43.89,3.3,404,13543,Yes,Monday,74,94.39,13192
+P00425,Microwave,Home & Kitchen,Pigeon,30080,32665,594,167,3.5,0,Monsoon,Premium,Chennai,Credit Card,6,10.12,7689,2654,44.56,4.0,350,24981,No,Sunday,98,78.55,32486
+P00426,Milk,Grocery,Tata,8006,8286,655,365,4.9,0,Festival,Returning,Chennai,Cash on Delivery,6,10.79,7907,7114,31.02,3.4,356,10266,Yes,Monday,49,67.48,7606
+P00427,Rice,Grocery,Tata,25154,22545,180,535,3.0,50,Winter,Returning,Delhi,Debit Card,3,0.23,7608,9182,9.45,3.0,63,40207,No,Friday,100,94.43,27166
+P00428,Hoodie,Fashion,Levis,2631,2938,318,144,3.6,20,Monsoon,Premium,Bengaluru,Debit Card,2,1.01,7306,8327,37.26,4.9,352,7315,Yes,Friday,84,92.63,2841
+P00429,Sunscreen,Beauty,Lakme,60987,61564,628,406,4.9,30,Summer,Returning,Ahmedabad,Net Banking,7,5.6,3897,1913,48.86,4.0,361,45259,Yes,Saturday,71,72.36,60987
+P00430,Shoes,Fashion,Adidas,77175,79824,393,517,2.6,30,Winter,Premium,Bengaluru,Credit Card,6,2.61,962,3983,63.09,4.7,462,9751,No,Wednesday,82,90.86,83349
+P00431,Smart TV,Electronics,Lenovo,48282,45453,852,483,4.9,15,Winter,Premium,Bengaluru,Net Banking,2,9.53,3568,3776,16.07,3.4,431,16157,Yes,Sunday,79,53.42,48282
+P00432,Smart TV,Electronics,OnePlus,2650,4509,443,563,4.9,5,Winter,Returning,Delhi,Cash on Delivery,7,7.28,6339,4743,52.48,3.2,95,990,Yes,Friday,67,52.44,2650
+P00433,Shampoo,Beauty,L'Oreal,33117,33336,758,30,3.7,50,Summer,Returning,Bengaluru,Cash on Delivery,4,12.19,5996,2417,15.62,3.5,198,30129,Yes,Monday,62,74.33,33117
+P00434,Sunscreen,Beauty,L'Oreal,11416,9560,989,11,2.8,10,Monsoon,Premium,Mumbai,Net Banking,5,7.75,2480,6570,32.24,3.1,437,19842,Yes,Saturday,78,52.93,11416
+P00435,Coffee,Grocery,Aashirvaad,33068,30323,75,336,2.8,30,Summer,Returning,Hyderabad,Cash on Delivery,1,2.35,6147,4623,60.55,3.4,204,42472,No,Thursday,48,88.81,31415
+P00436,Shampoo,Beauty,Lakme,41311,38647,40,14,3.9,5,Festival,Premium,Mumbai,UPI,3,2.57,6232,867,58.57,3.4,178,11073,Yes,Wednesday,95,55.26,44615
+P00437,Milk,Grocery,Aashirvaad,44158,46019,703,517,3.9,40,Winter,Returning,Delhi,UPI,7,9.56,388,8592,25.36,4.1,250,14129,Yes,Saturday,60,56.75,44158
+P00438,Biscuits,Grocery,Amul,882,1514,777,472,3.7,50,Monsoon,Returning,Bengaluru,UPI,2,0.39,7872,9422,55.79,4.8,386,7510,No,Friday,57,88.15,882
+P00439,Bag,Fashion,Levis,9400,11918,673,343,4.2,20,Winter,Returning,Delhi,Debit Card,5,12.8,4118,2056,48.32,4.5,71,37262,Yes,Monday,99,52.92,10152
+P00440,Sneakers,Fashion,Puma,36249,35443,584,13,4.0,5,Festival,Returning,Bengaluru,UPI,3,12.08,3485,3186,63.11,3.4,164,836,No,Tuesday,70,99.64,36249
+P00441,Tea,Grocery,Amul,28028,27072,194,210,3.5,40,Winter,Premium,Bengaluru,Cash on Delivery,4,3.88,3812,846,40.97,3.1,118,34721,Yes,Friday,100,82.12,30270
+P00442,Smartphone,Electronics,OnePlus,41978,40379,605,132,4.9,30,Normal,Returning,Delhi,Credit Card,1,5.7,2127,4918,55.02,3.2,114,35227,No,Friday,74,79.27,41978
+P00443,Smart TV,Electronics,Apple,947,119,157,345,4.5,15,Monsoon,New,Hyderabad,UPI,4,12.6,5373,4728,67.15,4.2,427,49217,Yes,Wednesday,50,79.39,947
+P00444,Milk,Grocery,Nestle,36468,35811,135,335,4.1,50,Festival,Premium,Delhi,Net Banking,3,11.57,4241,7807,8.34,3.5,265,24737,Yes,Wednesday,82,80.85,39385
+P00445,Smartphone,Electronics,Samsung,56013,55900,290,458,3.3,50,Normal,Premium,Delhi,Net Banking,6,13.51,1944,6586,65.36,3.8,379,26946,Yes,Tuesday,44,88.29,53213
+P00446,Bag,Fashion,Nike,2179,4081,698,526,4.1,30,Monsoon,New,Hyderabad,Debit Card,2,6.39,4165,9845,60.55,4.0,71,10648,Yes,Monday,70,97.55,2179
+P00447,Lipstick,Beauty,Nivea,4838,7200,649,440,4.6,40,Winter,Premium,Delhi,UPI,7,2.42,2564,4508,53.91,4.6,147,44620,Yes,Tuesday,73,97.39,4838
+P00448,Cooking Oil,Grocery,Aashirvaad,30625,30797,741,395,5.0,20,Festival,Premium,Pune,Net Banking,6,6.44,5563,9259,19.38,3.2,356,38741,Yes,Wednesday,93,73.18,33075
+P00449,Cooking Oil,Grocery,Nestle,31596,34251,206,277,3.8,30,Monsoon,Premium,Ahmedabad,UPI,5,13.51,6945,8218,54.59,4.2,238,44958,No,Friday,59,65.64,31596
+P00450,Wheat Flour,Grocery,Amul,69786,67081,757,471,3.8,10,Winter,Returning,Chennai,Cash on Delivery,1,8.79,2880,9152,11.29,4.0,20,26278,No,Friday,96,88.65,75368
+P00451,Smartphone,Electronics,Apple,4762,6571,640,203,4.3,5,Normal,New,Chennai,Credit Card,3,2.34,6505,7610,27.09,3.4,103,30488,No,Thursday,97,60.72,5142
+P00452,Water Bottle,Home & Kitchen,Prestige,63780,60797,676,525,3.3,30,Normal,New,Chennai,Debit Card,4,0.82,2781,2171,33.1,3.2,466,12837,Yes,Friday,67,59.44,63780
+P00453,Chair,Home & Kitchen,Prestige,58465,55801,947,599,3.3,0,Normal,Premium,Mumbai,Net Banking,6,4.94,5102,3089,17.83,4.7,328,8460,Yes,Saturday,88,73.1,63142
+P00454,Body Wash,Beauty,Dove,7750,9187,50,409,4.6,15,Normal,New,Delhi,Debit Card,2,12.9,3677,6732,28.95,4.9,90,26152,Yes,Monday,45,60.94,7363
+P00455,Perfume,Beauty,Lakme,46751,44642,60,31,3.4,10,Winter,Returning,Kolkata,Cash on Delivery,2,8.66,6151,2504,44.1,4.1,184,3856,Yes,Wednesday,41,72.14,44414
+P00456,Bag,Fashion,Adidas,58754,58737,827,193,2.7,30,Normal,Returning,Ahmedabad,Cash on Delivery,6,3.05,6162,9769,62.23,3.0,384,18554,Yes,Saturday,90,91.1,63454
+P00457,Face Wash,Beauty,Lakme,78872,81005,952,210,4.8,0,Monsoon,New,Mumbai,Credit Card,4,12.46,6737,8468,55.41,4.1,329,40143,No,Wednesday,48,65.64,74929
+P00458,Sunscreen,Beauty,L'Oreal,56866,58028,217,121,2.5,30,Normal,New,Hyderabad,Debit Card,2,0.56,4015,6753,10.43,3.8,273,41178,No,Sunday,96,94.48,61415
+P00459,Lipstick,Beauty,Dove,15963,13036,140,496,4.0,0,Festival,Premium,Delhi,Debit Card,6,3.7,2804,6340,22.37,4.6,31,36611,No,Monday,61,90.62,15963
+P00460,Smartphone,Electronics,HP,73485,71282,189,411,4.0,10,Monsoon,Returning,Bengaluru,Debit Card,6,4.55,7273,7692,17.49,3.8,190,44364,No,Saturday,74,62.76,73485
+P00461,Water Bottle,Home & Kitchen,Philips,70765,69596,244,178,2.5,15,Festival,New,Pune,UPI,3,7.8,6204,1882,39.35,3.9,240,27513,Yes,Wednesday,96,74.4,76426
+P00462,Microwave,Home & Kitchen,Prestige,6992,6923,874,247,3.9,5,Monsoon,Returning,Ahmedabad,Net Banking,3,9.53,379,7903,10.66,4.4,256,14463,No,Thursday,47,59.82,6643
+P00463,Mixer,Home & Kitchen,Pigeon,68313,69697,60,334,3.9,30,Winter,Returning,Kolkata,Cash on Delivery,6,0.17,781,5934,68.09,4.8,169,23464,No,Saturday,60,70.24,68313
+P00464,Water Bottle,Home & Kitchen,Philips,11367,9973,87,267,3.1,25,Winter,New,Hyderabad,UPI,3,3.53,1893,8383,26.68,4.4,240,49216,No,Tuesday,41,64.28,10799
+P00465,T-Shirt,Fashion,Nike,21195,20722,972,423,3.7,25,Festival,New,Bengaluru,Credit Card,3,6.54,3156,2709,46.15,3.4,451,29511,No,Saturday,73,99.26,21195
+P00466,Bag,Fashion,H&M,9970,7535,885,388,4.2,5,Winter,New,Ahmedabad,UPI,2,13.11,4169,7706,14.48,4.5,289,10928,No,Sunday,45,80.75,9472
+P00467,Smart TV,Electronics,Dell,11753,14522,406,97,4.5,10,Summer,Returning,Hyderabad,Cash on Delivery,3,5.78,7237,7367,16.35,4.6,421,42871,No,Wednesday,57,84.17,11753
+P00468,Chair,Home & Kitchen,Milton,47351,44724,341,473,3.1,15,Festival,Premium,Bengaluru,UPI,6,1.23,4377,8331,56.18,4.8,329,4669,Yes,Saturday,66,54.59,47351
+P00469,Sunscreen,Beauty,Mamaearth,19574,17962,287,309,3.7,50,Winter,New,Kolkata,Debit Card,7,2.52,3839,6267,17.6,4.1,201,42098,Yes,Thursday,90,67.9,21139
+P00470,Body Wash,Beauty,L'Oreal,27010,28351,771,233,3.8,20,Monsoon,Returning,Bengaluru,Net Banking,6,7.25,1956,739,12.79,3.0,130,11905,Yes,Wednesday,97,98.65,29170
+P00471,Mixer,Home & Kitchen,Philips,7769,9511,280,250,3.4,25,Summer,Premium,Pune,Net Banking,7,5.88,1376,839,7.06,4.2,452,32649,Yes,Monday,56,67.65,7769
+P00472,Cooking Oil,Grocery,Amul,8562,5835,576,238,2.6,30,Festival,Returning,Hyderabad,Credit Card,3,6.53,6955,1236,5.65,3.9,432,37765,No,Monday,66,52.49,8562
+P00473,Smartphone,Electronics,Dell,6358,4054,910,335,3.2,5,Winter,New,Mumbai,Credit Card,4,6.87,6999,8833,38.55,3.7,252,9436,No,Monday,94,81.48,6866
+P00474,Tablet,Electronics,HP,25988,26421,320,469,4.8,50,Festival,Premium,Delhi,UPI,5,13.86,6636,235,11.31,4.5,193,32517,Yes,Sunday,79,73.38,25988
+P00475,Smartphone,Electronics,Samsung,29925,29311,626,413,3.1,20,Winter,Premium,Kolkata,Cash on Delivery,2,4.31,2120,8313,55.18,3.6,306,15395,Yes,Sunday,99,74.27,32319
+P00476,Perfume,Beauty,Lakme,63044,62316,559,90,3.8,25,Festival,Premium,Kolkata,Credit Card,2,9.98,3070,2433,16.3,3.7,206,12312,Yes,Monday,98,92.99,68087
+P00477,Sunscreen,Beauty,L'Oreal,29209,28826,59,270,2.8,50,Summer,Returning,Hyderabad,Cash on Delivery,5,6.16,3214,7759,6.78,3.4,341,16350,No,Thursday,42,96.13,27749
+P00478,Tablet,Electronics,Samsung,71402,72198,338,589,3.6,0,Monsoon,Premium,Kolkata,Credit Card,2,1.6,7296,6432,36.47,3.4,117,12909,No,Saturday,50,99.8,71402
+P00479,Smart TV,Electronics,Sony,55977,56641,262,356,5.0,30,Monsoon,Returning,Delhi,UPI,3,12.99,3953,4929,54.38,4.3,152,43782,Yes,Thursday,94,94.93,60455
+P00480,Tablet,Electronics,Apple,18449,15598,551,202,3.5,30,Normal,Premium,Hyderabad,UPI,5,4.24,358,650,31.24,5.0,323,13159,Yes,Tuesday,59,99.08,18449
+P00481,Sneakers,Fashion,Puma,33157,31588,462,166,3.9,50,Monsoon,New,Delhi,Debit Card,2,1.24,5972,1028,43.39,4.1,167,33397,No,Saturday,71,95.8,33157
+P00482,Jeans,Fashion,H&M,14953,15887,326,166,2.8,50,Festival,New,Pune,UPI,5,10.56,2827,176,67.45,4.8,357,13609,No,Saturday,67,79.61,14953
+P00483,Fan,Home & Kitchen,Milton,59747,59989,850,82,4.2,0,Summer,Returning,Ahmedabad,UPI,6,14.45,7742,4227,44.1,4.2,115,15567,Yes,Wednesday,90,86.53,64526
+P00484,Microwave,Home & Kitchen,Prestige,55819,53601,869,440,4.5,15,Winter,New,Ahmedabad,Debit Card,1,4.76,757,7206,44.91,4.2,238,16790,Yes,Saturday,48,99.67,53029
+P00485,Headphones,Electronics,Sony,56062,58279,17,527,5.0,40,Winter,Returning,Mumbai,Cash on Delivery,2,0.1,7322,194,51.22,4.8,42,13182,No,Thursday,47,99.32,53259
+P00486,Biscuits,Grocery,Nestle,76103,74372,688,206,3.3,10,Winter,Returning,Ahmedabad,Credit Card,3,4.36,4169,3153,50.1,4.7,448,35852,Yes,Friday,98,97.94,82191
+P00487,Coffee,Grocery,Nestle,50652,47831,738,327,3.5,15,Normal,Premium,Ahmedabad,UPI,2,8.74,6524,2528,18.98,4.1,346,14168,No,Sunday,51,88.29,50652
+P00488,Smart TV,Electronics,Dell,28545,30698,183,95,3.8,25,Summer,Premium,Chennai,Cash on Delivery,5,3.47,7078,9789,17.17,3.1,358,15222,No,Monday,94,72.03,30828
+P00489,Water Bottle,Home & Kitchen,Pigeon,46603,44969,332,498,3.6,30,Festival,Premium,Bengaluru,Cash on Delivery,2,1.05,4217,8626,30.73,3.1,107,9996,No,Wednesday,84,76.06,50331
+P00490,Sneakers,Fashion,Puma,28536,30152,609,541,3.9,25,Summer,Returning,Delhi,Credit Card,1,4.64,3968,6952,44.07,4.8,143,46478,No,Saturday,69,66.62,28536
+P00491,Coffee,Grocery,Tata,76212,76661,70,264,2.6,5,Normal,New,Hyderabad,Cash on Delivery,5,0.65,1034,4253,19.75,3.8,178,22358,No,Monday,89,85.7,82308
+P00492,Wheat Flour,Grocery,Tata,19499,19463,867,403,2.7,30,Monsoon,New,Pune,Debit Card,3,2.47,1715,1803,12.45,3.7,114,8715,Yes,Thursday,59,70.35,19499
+P00493,Cooking Oil,Grocery,Nestle,28049,28770,255,324,4.0,30,Summer,Returning,Delhi,Credit Card,4,10.69,7808,4753,37.39,4.9,245,3815,Yes,Sunday,94,82.83,30292
+P00494,Mixer,Home & Kitchen,Philips,78818,81261,455,222,3.5,15,Winter,Premium,Delhi,Debit Card,4,0.8,760,2825,7.83,3.9,283,2986,Yes,Sunday,61,78.96,78818
+P00495,Sneakers,Fashion,Puma,53270,55779,203,254,4.5,15,Normal,Premium,Chennai,Debit Card,7,14.29,7856,7760,63.55,4.9,350,11157,No,Wednesday,46,53.07,50607
+P00496,Tablet,Electronics,Samsung,57556,58983,98,495,4.3,50,Festival,Premium,Ahmedabad,Debit Card,4,11.23,997,7223,23.73,3.4,410,32867,Yes,Tuesday,94,96.83,62160
+P00497,Tea,Grocery,Aashirvaad,15506,13711,674,562,4.2,25,Summer,Returning,Bengaluru,Cash on Delivery,7,11.54,5504,2956,42.14,4.9,371,15615,Yes,Friday,62,77.58,15506
+P00498,Jacket,Fashion,H&M,45786,45636,819,5,3.5,15,Summer,Premium,Mumbai,Net Banking,1,3.63,2935,1647,52.74,5.0,291,16893,Yes,Saturday,54,50.83,45786
+P00499,Tea,Grocery,Tata,72994,75502,624,8,3.5,10,Summer,New,Delhi,Debit Card,7,7.94,2276,747,66.22,3.5,183,46474,No,Thursday,66,78.67,72994
+P00500,Tea,Grocery,Fortune,65222,63520,472,137,4.7,50,Normal,Returning,Mumbai,Cash on Delivery,6,3.88,3696,9238,58.37,3.6,140,39697,Yes,Wednesday,86,82.54,70439
+P00501,Camera,Electronics,Samsung,27148,26087,426,110,3.8,50,Festival,Premium,Hyderabad,Cash on Delivery,6,12.34,3700,4139,64.23,4.9,133,3244,Yes,Thursday,62,65.94,27148
+P00502,Headphones,Electronics,OnePlus,60689,59457,378,452,4.8,0,Winter,Returning,Chennai,Cash on Delivery,5,14.09,4114,4985,8.14,3.0,300,7578,No,Friday,72,65.23,60689
+P00503,Cooking Oil,Grocery,Aashirvaad,23141,25576,158,307,3.7,0,Monsoon,New,Delhi,Cash on Delivery,4,13.79,3401,9034,45.92,4.7,435,30505,Yes,Thursday,52,50.51,23141
+P00504,Microwave,Home & Kitchen,Milton,6506,7304,616,222,4.6,25,Winter,Returning,Chennai,Credit Card,5,14.08,1728,5296,16.64,3.3,373,21163,No,Sunday,70,94.35,6506
+P00505,Milk,Grocery,Amul,20705,19520,326,199,4.2,10,Winter,Returning,Bengaluru,Net Banking,4,13.84,5275,7087,52.93,3.1,204,8099,Yes,Saturday,86,59.36,22361
+P00506,Shampoo,Beauty,Nivea,48655,46059,295,583,3.0,25,Normal,New,Pune,Debit Card,3,11.47,3043,1804,21.9,3.4,413,36501,Yes,Monday,56,59.3,48655
+P00507,Shampoo,Beauty,Lakme,78040,78113,458,530,4.6,25,Monsoon,New,Bengaluru,Credit Card,3,10.24,6683,4133,30.0,3.3,448,21941,No,Monday,89,54.87,84283
+P00508,Lipstick,Beauty,Nivea,11432,11659,623,126,4.6,0,Monsoon,New,Hyderabad,Debit Card,2,7.98,4509,403,19.44,3.9,167,37236,Yes,Saturday,64,81.62,11432
+P00509,Bag,Fashion,Puma,72535,73124,410,219,3.9,40,Monsoon,New,Bengaluru,Cash on Delivery,4,11.86,6274,4895,10.56,3.7,490,29661,Yes,Monday,43,78.17,68909
+P00510,Pressure Cooker,Home & Kitchen,Pigeon,74951,74003,560,548,2.5,25,Festival,New,Delhi,UPI,3,1.16,5957,6857,36.74,3.1,370,6453,No,Sunday,53,77.88,74951
+P00511,Wheat Flour,Grocery,Fortune,12263,13034,504,484,3.5,20,Normal,Premium,Kolkata,Debit Card,6,0.02,1461,1048,64.54,3.8,378,2208,No,Tuesday,42,79.22,11650
+P00512,Wheat Flour,Grocery,Aashirvaad,58361,57366,728,592,3.9,30,Monsoon,Premium,Bengaluru,Credit Card,1,11.34,2692,664,59.89,3.4,433,49011,No,Sunday,94,84.01,63029
+P00513,Jeans,Fashion,Levis,60397,58723,506,394,5.0,40,Monsoon,New,Chennai,Credit Card,3,7.67,41,7363,8.28,3.9,276,40395,No,Sunday,71,87.5,60397
+P00514,Body Wash,Beauty,Nivea,29332,27795,204,153,3.8,30,Summer,Premium,Chennai,Cash on Delivery,7,6.02,5868,3126,31.97,4.0,38,11354,No,Saturday,98,72.32,31678
+P00515,Fan,Home & Kitchen,Philips,33596,36555,510,191,2.8,50,Monsoon,Premium,Delhi,Debit Card,7,5.15,3598,7163,50.77,4.3,391,38009,No,Friday,52,63.47,33596
+P00516,Tablet,Electronics,OnePlus,70342,70487,766,447,5.0,15,Normal,Returning,Hyderabad,UPI,2,4.68,3951,4578,11.22,3.4,65,26351,Yes,Saturday,74,94.63,70342
+P00517,Moisturizer,Beauty,Mamaearth,63855,61808,490,242,3.2,30,Summer,New,Ahmedabad,Credit Card,2,7.22,2495,2020,57.6,4.3,358,25941,No,Thursday,62,68.11,63855
+P00518,Jeans,Fashion,Adidas,36392,39281,799,310,4.5,20,Summer,New,Delhi,Net Banking,6,3.67,5678,9633,39.37,3.2,391,37488,Yes,Tuesday,46,70.06,34573
+P00519,Fan,Home & Kitchen,Milton,60981,63355,889,407,2.7,50,Normal,Returning,Hyderabad,Credit Card,3,8.78,1826,8297,58.8,3.5,85,3977,No,Friday,44,60.08,57932
+P00520,Rice,Grocery,Tata,63028,63619,756,281,3.3,30,Summer,Returning,Delhi,Credit Card,4,10.28,5275,6781,43.05,3.7,214,24650,No,Saturday,65,87.93,63028
+P00521,Sunscreen,Beauty,Dove,78986,81833,476,186,3.3,25,Summer,Premium,Delhi,Credit Card,3,4.99,1184,3039,59.63,3.6,395,37954,Yes,Monday,61,95.26,78986
+P00522,Mixer,Home & Kitchen,Prestige,46395,48348,659,505,3.0,0,Monsoon,Premium,Hyderabad,Debit Card,5,6.86,2500,428,59.22,4.7,433,30736,No,Monday,76,98.4,46395
+P00523,Tea,Grocery,Nestle,11931,12456,642,177,3.4,10,Summer,New,Mumbai,Credit Card,3,11.52,1846,7314,45.24,4.2,254,14747,Yes,Friday,94,62.59,12885
+P00524,Sneakers,Fashion,Levis,5041,5463,960,245,3.4,40,Summer,Premium,Bengaluru,Debit Card,6,7.34,6916,2437,18.81,3.7,33,36730,No,Sunday,56,55.86,5041
+P00525,Perfume,Beauty,Dove,11471,9245,446,72,3.8,15,Normal,New,Hyderabad,Cash on Delivery,2,0.55,7970,3771,11.29,3.5,86,45584,Yes,Tuesday,46,57.95,10898
+P00526,Mixer,Home & Kitchen,Philips,37611,37104,377,218,4.9,30,Winter,Returning,Bengaluru,Cash on Delivery,6,1.03,6303,1581,14.68,3.4,343,22255,No,Tuesday,64,77.61,37611
+P00527,Shoes,Fashion,Adidas,13122,11660,214,578,3.0,5,Monsoon,New,Chennai,Debit Card,7,7.7,783,9120,44.62,3.4,469,12932,No,Saturday,79,93.21,13122
+P00528,Sneakers,Fashion,H&M,49128,51460,559,241,2.7,50,Festival,Premium,Bengaluru,Debit Card,7,2.32,858,735,37.75,4.7,71,44068,Yes,Tuesday,75,71.95,49128
+P00529,Microwave,Home & Kitchen,Milton,3508,924,338,164,4.1,10,Normal,New,Ahmedabad,Cash on Delivery,4,9.0,2461,6493,45.46,4.5,442,7447,No,Tuesday,77,72.76,3508
+P00530,Shampoo,Beauty,Dove,12876,15632,575,54,3.6,15,Winter,Premium,Chennai,UPI,4,6.98,1576,5590,63.08,4.7,33,20330,Yes,Friday,82,58.24,13906
+P00531,Body Wash,Beauty,Nivea,24420,24640,460,129,4.3,50,Winter,Premium,Mumbai,Debit Card,1,11.98,166,2396,21.21,4.3,81,26308,No,Monday,98,99.31,26373
+P00532,Sunscreen,Beauty,Lakme,13727,13068,919,113,2.9,25,Normal,New,Delhi,Credit Card,4,10.7,5328,8401,56.73,3.2,352,43435,No,Friday,47,97.2,13041
+P00533,Smart Watch,Electronics,Sony,56951,56070,842,585,4.1,20,Normal,Returning,Bengaluru,Credit Card,4,8.08,1708,815,51.67,3.2,254,8983,No,Tuesday,67,69.6,56951
+P00534,Tea,Grocery,Fortune,28518,28952,766,204,3.4,30,Normal,Returning,Delhi,Debit Card,7,8.72,1019,7760,58.98,3.4,94,12911,Yes,Thursday,82,59.65,30799
+P00535,Biscuits,Grocery,Nestle,16686,14407,945,9,3.3,0,Normal,Returning,Delhi,Net Banking,4,3.09,949,961,66.58,3.5,257,7106,No,Saturday,80,80.28,16686
+P00536,Microwave,Home & Kitchen,Milton,68570,68156,252,325,2.6,40,Festival,Returning,Chennai,Cash on Delivery,6,7.87,7999,1183,6.1,3.1,114,42777,No,Wednesday,72,73.42,68570
+P00537,Coffee,Grocery,Amul,9320,11882,722,598,3.2,0,Summer,New,Hyderabad,Credit Card,5,4.94,6737,8684,59.8,4.4,168,30890,No,Sunday,67,64.04,9320
+P00538,Wheat Flour,Grocery,Amul,46786,45191,244,528,2.5,15,Monsoon,Returning,Mumbai,Credit Card,7,1.56,7117,9693,28.21,3.6,455,30613,No,Saturday,53,98.72,46786
+P00539,Mixer,Home & Kitchen,Philips,66306,66999,934,149,3.3,10,Monsoon,Premium,Pune,Credit Card,2,3.67,6856,2709,55.41,3.7,284,8753,Yes,Wednesday,55,90.19,66306
+P00540,Cooking Oil,Grocery,Tata,69888,68033,202,351,4.5,50,Normal,Returning,Delhi,Net Banking,2,11.29,5461,2533,69.77,3.6,344,34602,No,Saturday,66,87.73,69888
+P00541,Chair,Home & Kitchen,Prestige,23196,20417,660,159,4.4,15,Monsoon,Premium,Bengaluru,Net Banking,3,3.42,1054,8324,9.1,4.6,128,4950,Yes,Saturday,65,94.07,23196
+P00542,Table,Home & Kitchen,Prestige,46965,49371,398,587,5.0,20,Monsoon,New,Kolkata,Net Banking,2,9.01,1126,4017,50.6,3.5,337,10737,Yes,Monday,92,99.5,50722
+P00543,Fan,Home & Kitchen,Milton,10256,9931,301,154,2.7,0,Monsoon,Returning,Ahmedabad,Credit Card,3,10.1,7308,5219,6.95,4.6,433,40281,Yes,Sunday,45,71.84,9744
+P00544,Tea,Grocery,Tata,47184,48957,857,478,2.8,5,Winter,Premium,Chennai,UPI,6,13.05,1268,9836,28.84,3.5,429,4211,No,Friday,43,70.75,44825
+P00545,Shampoo,Beauty,Lakme,6455,9091,161,361,4.7,0,Summer,New,Mumbai,Credit Card,1,6.04,6331,1159,41.74,3.2,193,42654,Yes,Wednesday,43,84.62,6133
+P00546,Wheat Flour,Grocery,Fortune,23913,24286,116,152,3.3,0,Normal,Returning,Hyderabad,Net Banking,6,7.85,4465,5254,6.33,3.9,340,17932,No,Friday,68,80.67,23913
+P00547,Wheat Flour,Grocery,Aashirvaad,42769,40779,919,72,3.5,0,Winter,New,Hyderabad,Credit Card,2,3.94,3589,8749,32.4,3.2,51,28993,Yes,Saturday,60,85.19,42769
+P00548,Lipstick,Beauty,Lakme,79335,82057,531,576,4.4,20,Normal,Premium,Mumbai,Debit Card,1,11.13,4565,1146,55.94,4.7,174,41912,Yes,Wednesday,43,93.91,75369
+P00549,Laptop,Electronics,Lenovo,8542,8699,358,134,3.9,20,Winter,Returning,Mumbai,Credit Card,6,10.38,5434,1144,15.83,4.4,284,3552,Yes,Sunday,98,88.15,9225
+P00550,Wheat Flour,Grocery,Nestle,69749,69129,855,272,2.7,40,Festival,Returning,Bengaluru,Debit Card,6,6.35,6405,8646,41.53,4.0,135,18466,No,Sunday,65,98.8,69749
+P00551,Face Wash,Beauty,Lakme,6670,8039,119,443,4.1,25,Winter,Returning,Kolkata,Cash on Delivery,7,0.23,2322,3541,47.36,3.6,233,28940,No,Wednesday,58,53.96,6670
+P00552,Smart TV,Electronics,Lenovo,20470,19245,54,274,2.8,25,Monsoon,New,Chennai,Cash on Delivery,1,1.72,4819,9843,34.87,3.9,219,18790,Yes,Thursday,62,64.77,20470
+P00553,Chair,Home & Kitchen,Philips,15675,18391,198,577,4.8,20,Normal,Returning,Hyderabad,Cash on Delivery,5,13.48,4264,4805,41.66,5.0,364,13393,No,Thursday,82,52.27,16929
+P00554,Lipstick,Beauty,Lakme,50241,52542,300,89,3.0,0,Festival,Premium,Ahmedabad,UPI,1,11.45,6783,8275,63.78,3.1,422,7856,No,Tuesday,71,60.83,50241
+P00555,Bag,Fashion,Puma,79332,80452,224,368,3.5,50,Festival,Returning,Mumbai,Net Banking,3,12.03,3638,5521,48.04,3.9,263,1159,Yes,Sunday,40,81.41,75366
+P00556,Rice,Grocery,Tata,19935,19476,123,200,3.2,5,Winter,Premium,Hyderabad,Debit Card,5,5.2,7362,1061,57.4,4.5,235,4062,No,Friday,46,70.7,18939
+P00557,Milk,Grocery,Fortune,10417,13124,894,218,2.8,40,Summer,Returning,Pune,Net Banking,1,4.6,3811,3883,32.67,3.1,266,14058,Yes,Sunday,97,55.69,11250
+P00558,Smart Watch,Electronics,Dell,23020,23975,146,455,2.7,15,Winter,Returning,Bengaluru,UPI,5,12.37,4977,4122,24.36,4.3,40,26242,No,Thursday,91,59.72,24861
+P00559,Headphones,Electronics,Samsung,40911,40860,95,165,3.2,40,Festival,Returning,Chennai,Cash on Delivery,7,7.94,2908,5320,5.39,4.2,190,37789,Yes,Friday,44,55.35,38866
+P00560,Table,Home & Kitchen,Milton,15336,16821,881,43,4.4,40,Festival,Premium,Hyderabad,Net Banking,6,13.48,5215,2357,22.68,3.3,218,43910,No,Friday,70,68.07,15336
+P00561,Jacket,Fashion,Nike,7154,5337,59,152,3.0,25,Summer,New,Ahmedabad,Cash on Delivery,1,4.77,2594,3322,41.06,4.3,483,45756,No,Thursday,60,91.58,7154
+P00562,Milk,Grocery,Fortune,58146,56822,465,466,4.9,50,Festival,New,Chennai,UPI,3,0.57,3309,1104,5.23,3.5,347,34317,No,Friday,45,58.96,55239
+P00563,Bag,Fashion,Zara,10886,11095,596,68,3.9,50,Summer,Returning,Chennai,UPI,7,3.05,1981,7008,6.67,4.8,339,27174,Yes,Thursday,63,86.19,10886
+P00564,Table,Home & Kitchen,Pigeon,50682,52072,625,505,2.9,30,Normal,Returning,Pune,Credit Card,4,8.42,5442,2976,26.54,4.2,325,45552,No,Monday,92,70.33,54736
+P00565,Milk,Grocery,Aashirvaad,4539,6351,195,205,4.2,50,Festival,Returning,Hyderabad,Cash on Delivery,1,1.37,3229,9913,40.94,3.8,223,13737,Yes,Thursday,43,78.59,4313
+P00566,Hoodie,Fashion,Puma,66403,68151,914,303,3.7,50,Festival,New,Ahmedabad,Cash on Delivery,5,14.99,6429,3053,58.35,3.2,88,43007,No,Thursday,52,86.65,66403
+P00567,Coffee,Grocery,Tata,57868,55130,802,118,4.1,20,Winter,Premium,Delhi,Cash on Delivery,4,0.09,3688,6584,16.46,3.1,394,4496,No,Thursday,70,92.37,57868
+P00568,Pressure Cooker,Home & Kitchen,Philips,55886,52923,698,508,3.2,25,Winter,Premium,Delhi,UPI,6,10.91,6485,610,27.51,4.5,96,9710,No,Sunday,77,84.17,55886
+P00569,Smartphone,Electronics,Samsung,46032,48818,953,349,2.8,40,Normal,New,Bengaluru,Net Banking,5,12.46,5823,9524,13.77,3.5,424,34438,No,Thursday,45,99.51,43731
+P00570,Jeans,Fashion,H&M,69146,70861,145,16,3.9,5,Normal,Premium,Bengaluru,Cash on Delivery,7,4.61,5817,9792,43.62,4.9,119,31527,No,Wednesday,79,50.94,69146
+P00571,Cooking Oil,Grocery,Fortune,34614,35693,85,357,2.7,50,Monsoon,Returning,Bengaluru,UPI,5,1.08,125,1249,67.47,3.0,455,27875,No,Thursday,94,70.76,37383
+P00572,Coffee,Grocery,Fortune,29170,28459,783,216,2.8,5,Summer,Returning,Bengaluru,Cash on Delivery,7,12.18,2544,5659,19.95,4.8,277,34635,No,Sunday,84,73.35,31503
+P00573,Moisturizer,Beauty,Lakme,39665,42111,788,174,4.1,10,Normal,New,Mumbai,Debit Card,3,8.27,4722,7924,29.95,4.1,366,15566,Yes,Saturday,84,72.43,42838
+P00574,Shoes,Fashion,Nike,75018,77237,279,224,4.3,20,Summer,New,Kolkata,UPI,4,11.64,1770,1063,20.13,3.6,317,27770,Yes,Monday,82,65.79,81019
+P00575,Lipstick,Beauty,Lakme,53967,53767,75,208,3.4,20,Festival,Returning,Kolkata,UPI,4,8.0,1706,5217,22.97,4.9,180,27848,No,Thursday,68,98.92,53967
+P00576,T-Shirt,Fashion,H&M,26710,26400,116,401,3.8,25,Winter,New,Hyderabad,Net Banking,4,9.95,1617,5729,10.04,3.3,38,16495,No,Thursday,59,58.76,26710
+P00577,Camera,Electronics,OnePlus,74344,76655,365,8,4.5,5,Summer,Premium,Kolkata,Net Banking,4,13.45,2477,914,36.21,3.6,326,33513,No,Friday,61,52.75,74344
+P00578,Rice,Grocery,Fortune,22018,19757,263,203,3.1,20,Monsoon,New,Hyderabad,Credit Card,1,14.76,1151,7125,18.42,3.2,291,28797,Yes,Sunday,44,83.57,20918
+P00579,Shoes,Fashion,Nike,1451,-1277,426,425,2.6,40,Normal,Returning,Bengaluru,Cash on Delivery,3,11.93,3253,3628,45.32,4.1,212,23180,Yes,Friday,73,60.89,1451
+P00580,Laptop,Electronics,Samsung,16852,19528,77,298,4.6,0,Normal,New,Ahmedabad,Cash on Delivery,5,9.58,4674,1431,20.72,4.1,156,47924,No,Tuesday,48,80.01,16010
+P00581,Mixer,Home & Kitchen,Prestige,65101,67625,332,21,4.0,10,Normal,New,Delhi,Credit Card,4,6.31,7516,367,18.04,4.2,96,34573,Yes,Saturday,95,52.48,70309
+P00582,Camera,Electronics,Sony,10097,12506,264,83,2.6,10,Normal,Premium,Kolkata,Debit Card,4,3.33,4748,7094,21.82,3.8,61,43367,Yes,Saturday,96,60.6,10904
+P00583,Hoodie,Fashion,Zara,46578,44857,731,419,4.5,0,Summer,Premium,Mumbai,Credit Card,1,7.0,7222,833,45.57,3.7,49,20962,Yes,Friday,75,75.29,46578
+P00584,Smartphone,Electronics,HP,3782,1422,159,444,4.7,5,Summer,Returning,Bengaluru,Debit Card,5,13.38,6054,7820,11.8,4.8,196,18495,No,Monday,77,75.55,3782
+P00585,Smart Watch,Electronics,Samsung,44130,42899,455,370,3.0,20,Festival,Premium,Chennai,Cash on Delivery,1,9.54,1729,6147,36.63,4.9,338,46160,No,Thursday,67,59.34,44130
+P00586,Jeans,Fashion,H&M,21366,19269,305,270,4.3,25,Normal,New,Pune,UPI,4,4.8,7186,4856,66.59,4.1,452,9476,Yes,Thursday,43,56.31,20298
+P00587,Perfume,Beauty,Nivea,63684,63151,385,190,2.6,30,Normal,Returning,Mumbai,Net Banking,5,5.59,6989,4875,6.96,3.0,258,38946,No,Sunday,89,98.38,68778
+P00588,Camera,Electronics,Samsung,36607,35723,412,96,4.8,25,Festival,Premium,Chennai,Cash on Delivery,5,1.62,6391,1616,23.11,3.6,195,31732,Yes,Tuesday,47,61.17,34777
+P00589,Hoodie,Fashion,Levis,3189,5821,620,497,2.9,20,Summer,Premium,Chennai,Credit Card,7,5.54,484,3831,6.56,4.2,47,28921,Yes,Tuesday,98,92.54,3444
+P00590,Mixer,Home & Kitchen,Cello,74898,72267,729,338,3.6,20,Winter,New,Bengaluru,Net Banking,6,14.22,1425,7741,40.54,4.2,255,11410,No,Tuesday,76,52.56,74898
+P00591,Smart Watch,Electronics,OnePlus,46392,46857,754,405,3.0,30,Monsoon,Premium,Mumbai,Net Banking,3,4.64,6341,6820,64.71,4.2,172,6228,No,Thursday,52,63.49,46392
+P00592,Chair,Home & Kitchen,Philips,59690,58776,597,112,3.2,30,Normal,Premium,Mumbai,UPI,3,3.59,4254,999,61.5,4.4,469,5738,Yes,Wednesday,87,87.98,64465
+P00593,Body Wash,Beauty,Dove,68946,70141,988,115,4.3,20,Winter,New,Chennai,UPI,2,6.04,902,7365,60.89,3.1,275,18110,Yes,Sunday,43,66.77,65499
+P00594,Jeans,Fashion,H&M,63739,64283,776,215,4.0,40,Summer,New,Kolkata,Cash on Delivery,2,14.78,7803,9685,48.61,3.8,405,14809,Yes,Tuesday,67,62.34,63739
+P00595,Moisturizer,Beauty,L'Oreal,816,2783,324,470,3.6,15,Summer,Premium,Delhi,Debit Card,4,5.83,7851,1319,12.39,4.9,474,46419,Yes,Wednesday,86,91.78,881
+P00596,Body Wash,Beauty,Mamaearth,5602,7691,380,57,4.9,0,Festival,Premium,Bengaluru,UPI,2,8.77,5311,6558,31.63,4.5,128,48845,Yes,Wednesday,68,59.8,5602
+P00597,Coffee,Grocery,Nestle,63867,64737,491,290,3.5,15,Monsoon,Returning,Bengaluru,Cash on Delivery,1,7.97,6175,312,28.06,3.4,416,13113,No,Friday,42,86.5,60674
+P00598,Cooking Oil,Grocery,Aashirvaad,43673,43467,705,240,4.9,5,Normal,New,Ahmedabad,Debit Card,6,6.49,5449,158,23.25,3.9,370,40167,Yes,Monday,75,57.7,43673
+P00599,Perfume,Beauty,Lakme,27128,27947,689,305,3.6,10,Festival,Returning,Ahmedabad,Net Banking,4,1.71,1901,5834,44.28,3.8,34,40764,Yes,Sunday,43,51.19,25772
+P00600,Jeans,Fashion,Puma,55081,57295,887,36,4.5,15,Winter,Premium,Bengaluru,Debit Card,5,14.12,1509,5055,54.95,3.0,103,19894,No,Tuesday,85,81.78,59487
+P00601,Biscuits,Grocery,Tata,74906,73946,792,88,4.3,40,Summer,New,Chennai,UPI,2,13.03,2797,7360,15.31,3.5,500,35295,No,Saturday,61,85.01,74906
+P00602,Biscuits,Grocery,Tata,32385,34332,151,322,4.9,20,Festival,New,Kolkata,UPI,7,2.47,6688,7014,59.96,3.2,336,5183,No,Saturday,53,56.32,32385
+P00603,Hoodie,Fashion,Nike,74373,72541,332,555,3.6,0,Summer,New,Chennai,Net Banking,5,6.32,6784,7525,36.17,4.2,41,33236,Yes,Wednesday,56,86.51,74373
+P00604,Camera,Electronics,HP,2071,-681,245,375,3.3,20,Summer,New,Pune,Credit Card,2,0.96,1695,3843,8.59,4.0,358,26083,Yes,Thursday,66,80.51,2071
+P00605,Mixer,Home & Kitchen,Milton,6514,8724,376,472,4.4,15,Winter,Premium,Mumbai,UPI,7,6.32,7943,6706,34.12,3.6,342,30531,No,Thursday,49,69.4,6189
+P00606,T-Shirt,Fashion,Adidas,36884,38687,57,362,3.9,20,Festival,Returning,Delhi,Debit Card,2,13.23,2401,7666,33.28,3.6,393,5756,Yes,Wednesday,52,86.72,36884
+P00607,Smartphone,Electronics,Apple,15339,15106,667,463,4.4,20,Normal,Premium,Delhi,Net Banking,1,10.95,2052,2798,33.86,4.0,43,3778,No,Friday,65,90.13,15339
+P00608,Jacket,Fashion,Puma,28549,27591,63,129,4.6,25,Summer,Premium,Ahmedabad,Credit Card,4,12.13,5521,1305,49.25,3.7,285,15907,No,Sunday,67,95.84,28549
+P00609,Fan,Home & Kitchen,Philips,66970,64211,543,506,3.8,30,Winter,Premium,Hyderabad,Credit Card,5,6.71,538,7229,52.48,4.1,39,35952,No,Saturday,67,92.29,66970
+P00610,Rice,Grocery,Amul,13022,11397,722,67,3.8,5,Festival,New,Kolkata,Credit Card,5,11.72,6908,179,21.73,3.3,432,41462,No,Sunday,47,71.49,12371
+P00611,Cooking Oil,Grocery,Nestle,21649,19729,978,431,3.7,50,Summer,Premium,Ahmedabad,Cash on Delivery,2,3.98,7140,4031,37.04,4.6,30,10607,Yes,Tuesday,78,54.02,21649
+P00612,Rice,Grocery,Amul,47174,49388,434,70,3.4,15,Festival,Returning,Delhi,UPI,1,11.03,6836,175,47.9,4.2,147,11896,No,Monday,41,54.09,44816
+P00613,Pressure Cooker,Home & Kitchen,Prestige,42621,44580,529,133,3.2,0,Festival,Premium,Ahmedabad,Net Banking,1,7.09,1135,82,9.69,3.8,259,9223,No,Friday,60,70.74,42621
+P00614,Camera,Electronics,Samsung,35656,36163,317,263,4.1,40,Monsoon,New,Chennai,Cash on Delivery,1,12.95,6679,9324,34.71,3.4,325,45123,No,Thursday,92,95.11,38508
+P00615,Table,Home & Kitchen,Philips,58849,59877,250,117,4.0,50,Monsoon,Premium,Chennai,Debit Card,4,13.08,2834,2419,51.11,3.5,424,42105,No,Sunday,43,85.47,55907
+P00616,Sunscreen,Beauty,Nivea,51231,50090,149,418,3.1,25,Festival,New,Ahmedabad,Cash on Delivery,6,6.79,7819,4661,51.2,4.0,231,42750,No,Saturday,97,71.53,55329
+P00617,Camera,Electronics,Dell,38157,37572,607,124,3.1,0,Winter,Returning,Hyderabad,Credit Card,5,10.98,2736,4489,61.14,3.8,88,6574,No,Wednesday,42,57.1,36250
+P00618,Smart TV,Electronics,Lenovo,35713,32916,90,172,4.0,50,Festival,Premium,Ahmedabad,Cash on Delivery,5,11.29,2016,2847,36.42,3.2,239,23344,Yes,Wednesday,50,70.13,35713
+P00619,Bag,Fashion,Adidas,76716,76678,848,385,3.2,25,Winter,Premium,Pune,Cash on Delivery,6,13.89,4612,3738,54.92,4.1,34,45670,Yes,Thursday,80,71.76,76716
+P00620,Water Bottle,Home & Kitchen,Cello,24161,21687,291,238,2.6,25,Normal,Premium,Pune,Net Banking,4,1.47,2250,6940,60.44,4.7,403,22400,No,Wednesday,44,82.45,22953
+P00621,Jacket,Fashion,Nike,23681,24084,575,568,2.5,15,Festival,Returning,Ahmedabad,Credit Card,7,14.48,6075,3330,64.34,4.1,71,3933,No,Friday,82,55.82,25575
+P00622,Pressure Cooker,Home & Kitchen,Milton,27920,25954,237,571,2.9,30,Monsoon,Premium,Kolkata,Net Banking,1,9.67,6108,5973,52.78,3.8,38,30860,Yes,Wednesday,94,66.8,30153
+P00623,Tea,Grocery,Fortune,78266,75606,706,569,4.0,10,Normal,Returning,Bengaluru,Credit Card,1,13.13,385,3720,60.81,4.9,150,1269,No,Sunday,73,89.2,78266
+P00624,Shampoo,Beauty,Mamaearth,13875,15547,671,222,4.5,50,Normal,Premium,Kolkata,Credit Card,4,9.85,864,2494,29.38,3.3,244,28551,Yes,Monday,59,73.73,13875
+P00625,Milk,Grocery,Fortune,22307,25167,984,427,4.5,25,Normal,New,Bengaluru,Cash on Delivery,1,10.74,5448,4697,36.33,4.4,194,37656,No,Sunday,82,58.14,24091
+P00626,Fan,Home & Kitchen,Prestige,18310,18069,767,324,4.5,5,Festival,Premium,Pune,Credit Card,5,7.93,4340,1254,41.42,4.1,412,13108,Yes,Wednesday,78,66.45,18310
+P00627,Shampoo,Beauty,L'Oreal,65445,65542,108,302,3.2,50,Summer,New,Bengaluru,UPI,3,1.25,1705,5910,59.93,4.3,314,42386,No,Sunday,56,99.56,65445
+P00628,Smartphone,Electronics,HP,49255,51035,540,355,2.5,40,Winter,Premium,Bengaluru,Credit Card,4,10.55,6546,7520,29.91,4.9,141,27715,No,Saturday,51,86.22,49255
+P00629,Biscuits,Grocery,Fortune,75446,77232,378,564,4.7,20,Winter,Returning,Pune,Cash on Delivery,3,2.61,5474,1203,13.92,4.1,263,40153,No,Thursday,68,74.92,75446
+P00630,Wheat Flour,Grocery,Aashirvaad,6410,8091,936,122,2.8,40,Festival,New,Pune,UPI,6,4.86,5013,2386,13.09,4.4,301,30074,No,Sunday,60,69.32,6410
+P00631,Tablet,Electronics,Lenovo,15357,17725,516,124,3.2,15,Summer,New,Bengaluru,Debit Card,2,2.56,6322,4173,63.6,4.9,78,32743,No,Thursday,83,78.9,16585
+P00632,Rice,Grocery,Fortune,77995,75443,812,467,5.0,40,Monsoon,New,Hyderabad,Cash on Delivery,3,4.24,266,1708,64.67,3.5,37,24241,No,Tuesday,82,88.73,84234
+P00633,Rice,Grocery,Fortune,66100,65806,715,565,3.6,10,Monsoon,Returning,Chennai,Cash on Delivery,5,6.56,4352,488,59.96,3.3,354,4293,Yes,Tuesday,85,91.73,71388
+P00634,Sunscreen,Beauty,Nivea,64090,66152,402,22,3.2,25,Festival,Premium,Hyderabad,Credit Card,5,13.56,5122,9925,17.16,3.8,123,37565,Yes,Friday,54,55.83,64090
+P00635,Cooking Oil,Grocery,Fortune,65779,68491,828,259,3.4,30,Summer,Premium,Pune,UPI,3,4.43,7348,8599,39.72,3.6,482,32459,Yes,Sunday,84,61.41,71041
+P00636,Rice,Grocery,Amul,3769,1237,653,125,3.6,40,Festival,New,Hyderabad,Net Banking,1,7.25,1075,5827,52.59,3.4,51,27891,Yes,Tuesday,81,95.27,4070
+P00637,Coffee,Grocery,Nestle,12012,12874,502,95,2.8,50,Festival,Premium,Chennai,UPI,5,10.87,3545,8383,7.44,3.1,347,18456,No,Wednesday,45,73.98,11412
+P00638,Chair,Home & Kitchen,Philips,53055,50563,994,558,4.7,50,Summer,New,Delhi,Net Banking,5,9.15,6325,7500,67.87,4.1,123,27552,Yes,Thursday,44,92.78,50403
+P00639,Shampoo,Beauty,L'Oreal,77109,78936,919,100,3.4,5,Monsoon,Premium,Kolkata,Credit Card,6,1.83,719,890,60.58,3.8,184,7159,Yes,Thursday,69,66.31,77109
+P00640,Body Wash,Beauty,L'Oreal,31547,28707,909,295,4.4,0,Monsoon,Premium,Chennai,Debit Card,5,12.4,6524,5861,59.03,4.7,135,10836,No,Thursday,52,81.58,31547
+P00641,Laptop,Electronics,Sony,21401,22061,924,510,3.6,20,Monsoon,Premium,Kolkata,Net Banking,3,9.19,4465,4604,23.67,4.5,21,39067,No,Thursday,42,77.32,20331
+P00642,Hoodie,Fashion,Adidas,24180,21639,134,311,4.4,10,Monsoon,Returning,Chennai,Credit Card,4,13.35,5938,5344,53.51,4.4,334,7658,Yes,Thursday,62,92.76,24180
+P00643,Pressure Cooker,Home & Kitchen,Prestige,11636,13902,917,594,4.4,10,Normal,New,Bengaluru,Net Banking,5,2.92,1080,4145,7.28,4.7,103,16852,Yes,Thursday,46,76.85,11055
+P00644,Body Wash,Beauty,L'Oreal,20996,21089,331,66,4.4,15,Normal,Returning,Bengaluru,Debit Card,1,4.83,7717,7333,38.76,3.4,419,46722,Yes,Saturday,82,92.15,22675
+P00645,Wheat Flour,Grocery,Nestle,33163,33369,944,141,3.6,5,Summer,Returning,Delhi,Debit Card,4,11.31,1070,9764,52.33,4.9,154,9061,Yes,Thursday,48,57.99,31505
+P00646,Jeans,Fashion,H&M,24221,22094,32,260,5.0,25,Normal,Returning,Delhi,Credit Card,2,8.53,7593,9035,60.88,3.7,152,16183,No,Thursday,44,62.38,23010
+P00647,Chair,Home & Kitchen,Prestige,24768,24335,689,159,3.4,30,Festival,New,Chennai,Cash on Delivery,2,14.91,4664,659,11.29,4.3,47,31617,Yes,Thursday,92,70.81,26749
+P00648,Milk,Grocery,Tata,67406,67004,266,184,4.7,10,Summer,Premium,Pune,Net Banking,7,9.14,6855,6695,22.32,4.3,463,13314,Yes,Thursday,98,79.39,72798
+P00649,Water Bottle,Home & Kitchen,Milton,78069,77850,158,249,3.7,20,Monsoon,New,Kolkata,Net Banking,6,6.6,2071,3436,18.27,4.6,108,20380,Yes,Wednesday,72,78.54,78069
+P00650,T-Shirt,Fashion,Adidas,3776,4387,583,157,4.8,30,Summer,New,Bengaluru,Debit Card,6,15.0,1880,5681,46.44,3.4,426,1956,Yes,Sunday,49,51.07,3588
+P00651,Coffee,Grocery,Aashirvaad,32508,34301,686,184,3.0,30,Winter,Premium,Ahmedabad,UPI,5,3.38,4756,7895,61.71,3.4,415,15470,Yes,Thursday,97,93.12,35108
+P00652,Tea,Grocery,Amul,14057,14835,71,443,4.6,5,Normal,New,Kolkata,Cash on Delivery,6,12.45,6638,6890,68.8,4.7,87,27941,Yes,Saturday,62,67.97,14057
+P00653,Smartphone,Electronics,Sony,43064,40371,996,514,2.9,15,Winter,New,Ahmedabad,Net Banking,2,12.21,3446,7633,41.51,3.6,396,17262,No,Friday,91,77.8,46509
+P00654,Hoodie,Fashion,Nike,61918,64474,91,26,3.5,25,Monsoon,Premium,Chennai,Credit Card,4,13.39,2894,3511,39.19,3.6,279,5276,Yes,Friday,99,81.76,66871
+P00655,Bag,Fashion,Levis,1255,2459,617,224,3.4,10,Monsoon,Returning,Delhi,Cash on Delivery,1,6.36,5542,1500,18.37,4.6,468,33194,Yes,Wednesday,41,85.99,1193
+P00656,Water Bottle,Home & Kitchen,Prestige,34352,34804,855,595,4.0,15,Summer,Premium,Hyderabad,Cash on Delivery,6,2.12,6773,3563,21.97,3.7,199,29612,No,Saturday,52,52.76,34352
+P00657,Tablet,Electronics,OnePlus,53122,51434,715,443,4.1,30,Winter,New,Hyderabad,Net Banking,3,8.21,5325,6028,40.34,4.1,423,25054,No,Thursday,97,62.85,57371
+P00658,Tea,Grocery,Nestle,18346,19336,373,111,4.7,40,Festival,New,Mumbai,Credit Card,2,7.49,7809,4432,20.78,4.4,453,39353,Yes,Saturday,85,66.42,19813
+P00659,Tablet,Electronics,Dell,14517,15574,95,479,2.5,40,Festival,Premium,Ahmedabad,Debit Card,4,1.4,1293,6845,37.95,5.0,236,47197,No,Wednesday,61,67.6,14517
+P00660,Pressure Cooker,Home & Kitchen,Prestige,19158,20385,627,452,4.7,40,Summer,New,Bengaluru,UPI,1,12.78,715,4420,53.88,3.3,215,15931,Yes,Sunday,66,66.24,19158
+P00661,Sunscreen,Beauty,L'Oreal,24486,24597,14,419,3.6,5,Festival,Premium,Bengaluru,Net Banking,7,4.87,5176,60,52.2,4.2,261,5631,No,Thursday,82,81.97,26444
+P00662,Microwave,Home & Kitchen,Pigeon,56295,54695,418,431,2.9,20,Normal,New,Ahmedabad,Net Banking,2,6.32,7961,1555,5.88,4.0,30,3385,No,Sunday,48,60.94,53481
+P00663,Jacket,Fashion,Nike,14449,11673,211,245,4.7,40,Normal,Premium,Mumbai,UPI,1,13.76,3317,8933,52.48,3.3,142,4503,Yes,Thursday,40,95.98,13727
+P00664,Jeans,Fashion,H&M,75005,74813,860,11,4.5,50,Normal,New,Pune,Net Banking,5,0.22,2188,6391,65.71,3.6,126,24304,Yes,Tuesday,44,79.12,71255
+P00665,Smart Watch,Electronics,HP,25900,28431,485,225,3.3,5,Festival,Premium,Kolkata,Net Banking,5,14.99,1514,6377,35.65,4.4,194,26202,Yes,Friday,42,88.82,24605
+P00666,Microwave,Home & Kitchen,Cello,46642,47118,674,520,2.8,25,Normal,Returning,Kolkata,Cash on Delivery,6,11.97,1764,1734,8.49,4.7,341,19824,Yes,Monday,76,55.61,46642
+P00667,Headphones,Electronics,Apple,66290,63752,776,352,4.3,40,Festival,Returning,Delhi,Credit Card,5,5.19,3265,8517,6.81,3.6,20,17816,Yes,Sunday,74,74.39,66290
+P00668,Moisturizer,Beauty,Dove,54601,55391,78,309,2.7,25,Festival,Returning,Kolkata,Debit Card,5,4.38,2293,9450,47.06,4.1,289,14055,Yes,Thursday,82,88.73,58969
+P00669,Camera,Electronics,OnePlus,5877,7963,252,58,4.6,5,Winter,Returning,Mumbai,Cash on Delivery,2,0.98,4058,209,5.73,4.7,274,36653,No,Monday,97,58.35,6347
+P00670,Shoes,Fashion,Zara,54719,54555,426,159,4.3,25,Normal,Premium,Ahmedabad,Debit Card,5,8.48,1876,4577,43.78,3.2,414,5709,Yes,Sunday,63,59.86,54719
+P00671,Pressure Cooker,Home & Kitchen,Prestige,48327,49898,34,259,4.9,40,Monsoon,Premium,Kolkata,Cash on Delivery,2,7.39,1631,5733,62.52,4.1,498,9860,Yes,Thursday,96,63.42,52193
+P00672,T-Shirt,Fashion,Puma,20175,19349,442,153,2.9,15,Monsoon,New,Kolkata,Cash on Delivery,4,7.58,431,9067,58.68,4.5,256,10011,No,Monday,97,83.44,21789
+P00673,T-Shirt,Fashion,Adidas,1753,4155,710,269,3.9,10,Normal,Returning,Kolkata,UPI,6,4.76,2330,3956,40.69,4.2,151,32306,Yes,Tuesday,93,84.32,1893
+P00674,Cooking Oil,Grocery,Fortune,17771,15120,57,41,4.4,0,Summer,New,Pune,Debit Card,6,8.23,7279,9807,5.29,3.8,171,41262,No,Saturday,78,91.55,17771
+P00675,Perfume,Beauty,Mamaearth,19997,21187,53,518,3.3,15,Winter,Returning,Ahmedabad,Cash on Delivery,4,12.95,4377,3447,57.58,3.3,217,23327,No,Monday,80,62.77,19997
+P00676,Headphones,Electronics,Dell,76403,76310,14,225,4.1,5,Festival,New,Delhi,Credit Card,7,12.68,3174,8150,54.1,4.5,490,23567,Yes,Tuesday,57,58.88,76403
+P00677,Pressure Cooker,Home & Kitchen,Philips,16920,19508,899,341,4.4,15,Festival,Returning,Pune,Debit Card,2,10.15,5528,4550,53.31,4.2,393,41475,Yes,Sunday,78,89.44,16920
+P00678,Coffee,Grocery,Aashirvaad,18191,17479,743,304,4.8,25,Summer,Premium,Delhi,Cash on Delivery,7,12.65,2507,2436,36.91,4.8,240,46591,No,Tuesday,56,62.34,18191
+P00679,Perfume,Beauty,Lakme,50389,49645,463,278,4.4,25,Winter,Returning,Bengaluru,Debit Card,6,11.3,7311,3617,16.82,3.5,90,26118,No,Tuesday,47,62.07,47870
+P00680,Sneakers,Fashion,Levis,54802,52734,780,124,4.4,50,Monsoon,Returning,Hyderabad,Net Banking,7,4.25,3238,4611,28.42,4.3,313,4276,Yes,Thursday,59,91.23,54802
+P00681,Face Wash,Beauty,Nivea,35092,36661,81,295,3.7,15,Normal,Returning,Kolkata,Credit Card,4,0.34,5238,4610,20.02,3.9,117,42420,No,Saturday,71,73.22,35092
+P00682,Wheat Flour,Grocery,Aashirvaad,24652,25260,662,251,3.6,10,Winter,New,Bengaluru,Cash on Delivery,1,8.28,5645,1102,25.73,4.7,57,43932,Yes,Thursday,40,60.4,23420
+P00683,Jeans,Fashion,Zara,15284,18042,156,550,4.5,20,Festival,Premium,Ahmedabad,Credit Card,5,5.96,3045,3112,35.45,3.1,118,30065,Yes,Sunday,78,63.43,15284
+P00684,Sunscreen,Beauty,L'Oreal,22661,19971,907,326,4.0,50,Normal,Returning,Kolkata,Net Banking,5,4.28,1663,263,39.59,4.4,126,41559,Yes,Monday,89,52.04,24473
+P00685,Moisturizer,Beauty,Mamaearth,8244,9082,196,27,4.5,40,Summer,New,Ahmedabad,Debit Card,7,10.21,7568,4098,30.47,3.9,183,45753,Yes,Thursday,77,96.0,8244
+P00686,Smart TV,Electronics,Sony,23342,24159,297,185,4.4,0,Summer,New,Kolkata,Net Banking,2,3.0,3455,7066,12.51,3.7,202,18242,Yes,Wednesday,45,68.78,22175
+P00687,Table,Home & Kitchen,Prestige,63806,61611,240,335,4.3,50,Festival,Premium,Bengaluru,Credit Card,6,7.42,7482,3568,65.74,3.4,351,11922,No,Thursday,67,58.7,63806
+P00688,Rice,Grocery,Tata,63537,64928,948,461,4.0,30,Monsoon,Returning,Pune,Credit Card,6,4.83,592,4841,59.51,4.3,167,32619,Yes,Saturday,72,85.41,63537
+P00689,Shampoo,Beauty,L'Oreal,15169,16851,176,240,3.1,10,Winter,Returning,Mumbai,Cash on Delivery,7,5.67,4465,7801,62.32,3.4,50,10514,Yes,Thursday,45,67.08,14411
+P00690,Headphones,Electronics,Apple,49737,51391,442,312,3.6,25,Winter,Returning,Ahmedabad,Credit Card,7,3.78,1816,3630,16.27,3.5,282,45112,Yes,Tuesday,95,97.38,53715
+P00691,Moisturizer,Beauty,Dove,7716,4722,259,442,4.4,10,Monsoon,Returning,Chennai,Debit Card,2,14.51,4315,2712,47.79,4.7,366,26363,No,Sunday,91,85.04,8333
+P00692,T-Shirt,Fashion,Zara,26083,28886,67,357,3.1,50,Summer,Returning,Kolkata,Cash on Delivery,7,3.75,4163,8530,11.92,5.0,260,20396,Yes,Thursday,59,98.43,26083
+P00693,Lipstick,Beauty,Dove,17516,19510,64,599,4.9,20,Summer,New,Hyderabad,Credit Card,3,14.76,7613,5936,11.83,3.1,496,41890,No,Thursday,55,95.67,17516
+P00694,Body Wash,Beauty,Nivea,40031,38070,392,437,3.5,40,Summer,New,Ahmedabad,Debit Card,2,8.56,2424,4837,32.69,4.1,55,15381,Yes,Saturday,92,94.69,43233
+P00695,Smart TV,Electronics,Dell,1733,-381,172,199,4.3,5,Normal,Premium,Pune,UPI,1,10.47,6747,4823,22.27,4.0,328,14499,No,Friday,63,99.9,1733
+P00696,Smart Watch,Electronics,OnePlus,46669,49642,954,145,4.0,20,Monsoon,Returning,Mumbai,Debit Card,4,4.44,7645,1561,44.35,4.2,400,39803,No,Thursday,68,68.99,46669
+P00697,Smart TV,Electronics,Apple,29670,28518,988,357,3.1,40,Monsoon,Returning,Ahmedabad,Debit Card,2,4.75,7904,3602,12.26,3.2,292,34216,Yes,Thursday,61,84.09,29670
+P00698,Jeans,Fashion,Adidas,35357,38073,900,428,4.6,5,Normal,Premium,Mumbai,UPI,3,9.89,1643,7622,46.93,4.7,488,42345,No,Tuesday,97,65.7,38185
+P00699,Microwave,Home & Kitchen,Milton,46692,49472,847,561,3.6,30,Festival,Returning,Hyderabad,Credit Card,3,11.65,7892,3579,26.99,3.4,252,43582,No,Sunday,99,81.24,50427
+P00700,Smart Watch,Electronics,Apple,12746,15126,147,177,3.0,20,Winter,Returning,Kolkata,Credit Card,7,4.13,5500,7809,67.87,4.2,429,30742,No,Friday,54,57.94,12746
+P00701,Shoes,Fashion,Adidas,10197,9402,446,398,3.4,15,Winter,Premium,Pune,Debit Card,2,12.51,4035,2317,42.56,4.5,154,11029,Yes,Monday,60,55.9,10197
+P00702,Tablet,Electronics,Samsung,79092,76472,786,426,3.3,15,Monsoon,Returning,Pune,Net Banking,6,14.19,3130,292,19.85,4.9,200,19488,Yes,Tuesday,81,76.39,85419
+P00703,Shoes,Fashion,Levis,22079,19486,219,348,3.6,15,Festival,Premium,Delhi,Debit Card,7,6.08,2243,8293,24.59,5.0,425,40811,No,Monday,81,80.64,23845
+P00704,Laptop,Electronics,Dell,9610,8837,914,273,3.3,0,Summer,Returning,Hyderabad,UPI,4,14.63,1421,8656,54.88,3.9,126,5810,No,Friday,63,95.08,9610
+P00705,Smart TV,Electronics,Dell,58524,60778,662,256,3.7,25,Monsoon,Returning,Kolkata,Credit Card,3,10.17,1034,5893,65.41,4.6,93,9741,No,Sunday,75,97.15,58524
+P00706,Shoes,Fashion,Zara,7513,6474,947,281,2.6,50,Summer,Premium,Delhi,Credit Card,6,7.17,1616,6258,47.47,4.6,111,40936,No,Thursday,80,90.38,7513
+P00707,Pressure Cooker,Home & Kitchen,Milton,59702,56841,414,50,4.1,40,Monsoon,New,Bengaluru,UPI,5,10.21,1155,7975,28.41,3.5,98,18177,No,Sunday,98,83.12,64478
+P00708,Sunscreen,Beauty,Dove,53199,55475,590,595,3.1,0,Monsoon,New,Chennai,Cash on Delivery,3,13.9,7945,2546,12.17,4.5,252,25335,No,Tuesday,65,75.97,53199
+P00709,Smartphone,Electronics,OnePlus,49638,52438,57,501,4.2,30,Summer,Returning,Ahmedabad,Debit Card,7,5.26,6094,6357,36.62,3.9,479,960,Yes,Thursday,56,92.52,49638
+P00710,Moisturizer,Beauty,Dove,35990,35031,518,433,4.5,5,Summer,New,Kolkata,Net Banking,7,9.75,615,7901,64.26,4.2,212,25247,Yes,Friday,56,92.36,35990
+P00711,Laptop,Electronics,Dell,58919,61135,904,544,4.9,25,Summer,New,Bengaluru,Net Banking,4,8.6,123,2417,19.79,4.4,326,1257,Yes,Monday,62,74.9,58919
+P00712,Coffee,Grocery,Fortune,39688,39321,71,519,4.6,15,Festival,Returning,Delhi,Debit Card,7,10.73,1489,7601,62.64,4.3,109,12288,No,Tuesday,66,77.59,39688
+P00713,Jeans,Fashion,Nike,17011,16282,622,175,4.3,50,Winter,Returning,Ahmedabad,Credit Card,4,8.98,3897,3226,29.52,4.5,334,5510,Yes,Sunday,53,90.68,17011
+P00714,T-Shirt,Fashion,Puma,867,2932,598,92,5.0,50,Festival,Returning,Delhi,Net Banking,6,3.87,6875,811,10.63,3.7,60,22969,Yes,Tuesday,53,86.13,867
+P00715,T-Shirt,Fashion,Levis,65613,66840,946,407,5.0,10,Winter,New,Kolkata,UPI,2,4.6,4486,5030,29.88,3.9,465,32589,Yes,Monday,90,64.97,70862
+P00716,Sunscreen,Beauty,Dove,22804,24390,103,426,2.9,20,Monsoon,Premium,Kolkata,Net Banking,6,5.38,3320,4667,9.3,3.6,221,37970,Yes,Tuesday,99,89.22,24628
+P00717,Headphones,Electronics,Sony,6555,4983,943,312,3.0,0,Summer,Returning,Mumbai,Credit Card,2,6.69,5282,4815,65.43,4.5,28,3639,No,Tuesday,96,72.42,7079
+P00718,Camera,Electronics,Dell,44917,46542,941,129,4.2,10,Normal,New,Pune,Debit Card,5,14.87,2293,1425,10.42,4.0,86,36038,Yes,Wednesday,40,63.07,42672
+P00719,Milk,Grocery,Nestle,72493,71693,783,466,5.0,40,Normal,New,Mumbai,Net Banking,6,13.32,660,4294,7.88,4.8,432,18622,No,Friday,78,51.36,72493
+P00720,Sunscreen,Beauty,Dove,77482,77255,653,50,4.6,50,Monsoon,New,Ahmedabad,Net Banking,2,12.83,3458,7255,38.1,4.3,479,17745,No,Saturday,52,56.34,77482
+P00721,Water Bottle,Home & Kitchen,Philips,41114,42254,165,496,3.6,30,Festival,Premium,Hyderabad,Debit Card,5,14.57,5081,4819,52.8,3.0,414,4528,No,Thursday,79,69.3,41114
+P00722,Laptop,Electronics,Apple,10264,11806,669,590,4.3,5,Winter,Returning,Chennai,Credit Card,4,8.63,3179,9483,29.34,3.1,234,43165,Yes,Saturday,54,99.27,10264
+P00723,Lipstick,Beauty,L'Oreal,27787,30067,869,354,3.1,0,Normal,Returning,Pune,Debit Card,7,10.47,2004,571,44.94,4.4,463,9820,No,Tuesday,85,67.72,30009
+P00724,Face Wash,Beauty,Nivea,69146,70861,227,252,2.7,0,Winter,Premium,Hyderabad,UPI,6,14.23,7748,9096,64.11,4.0,89,25132,Yes,Monday,51,66.01,69146
+P00725,Wheat Flour,Grocery,Tata,64625,61677,363,486,3.7,30,Festival,Premium,Ahmedabad,UPI,2,14.61,3970,5439,46.01,4.5,349,25309,Yes,Tuesday,81,75.14,69795
+P00726,Mixer,Home & Kitchen,Prestige,16150,15213,750,425,2.9,40,Summer,Returning,Kolkata,UPI,2,6.26,1529,5404,16.95,3.8,176,17951,Yes,Wednesday,91,84.16,17442
+P00727,Pressure Cooker,Home & Kitchen,Prestige,62586,60816,18,291,3.2,50,Festival,Returning,Kolkata,Cash on Delivery,2,4.13,7231,9507,16.12,4.9,311,37132,Yes,Monday,84,73.28,67592
+P00728,Face Wash,Beauty,Dove,53835,56586,550,101,4.9,25,Winter,Returning,Pune,Debit Card,2,7.53,182,9749,29.12,3.5,441,28595,Yes,Thursday,77,50.76,53835
+P00729,Hoodie,Fashion,Zara,30460,28282,423,413,2.9,0,Monsoon,New,Mumbai,Cash on Delivery,7,3.65,4536,3849,30.15,3.7,255,45818,No,Friday,91,88.91,32896
+P00730,Shampoo,Beauty,Mamaearth,18913,18881,71,576,2.8,5,Festival,Returning,Bengaluru,Cash on Delivery,2,6.95,2491,4554,62.82,3.8,334,18100,No,Sunday,89,63.63,20426
+P00731,Chair,Home & Kitchen,Milton,53754,53081,724,444,4.8,15,Normal,Premium,Chennai,Cash on Delivery,3,14.13,5965,568,5.72,3.2,290,41790,Yes,Sunday,44,78.28,51067
+P00732,Chair,Home & Kitchen,Prestige,46066,48434,409,111,4.1,25,Winter,New,Bengaluru,Debit Card,7,4.47,554,5901,55.43,3.3,130,1180,No,Thursday,47,66.62,43763
+P00733,T-Shirt,Fashion,Zara,16595,14518,854,534,5.0,50,Winter,Premium,Pune,Debit Card,1,12.92,1870,2603,9.94,4.7,33,15178,Yes,Friday,88,70.47,17922
+P00734,Jacket,Fashion,Puma,62109,61646,226,407,3.6,5,Winter,Premium,Mumbai,Net Banking,2,8.33,6132,5631,60.78,3.1,40,29099,No,Thursday,50,51.92,62109
+P00735,Shoes,Fashion,Zara,56895,54990,586,305,3.7,40,Winter,Returning,Delhi,UPI,7,3.68,817,8467,46.34,3.4,307,12109,No,Sunday,72,60.82,56895
+P00736,Bag,Fashion,Puma,51407,50455,853,558,3.2,0,Festival,Returning,Kolkata,Net Banking,6,14.04,6027,2946,23.22,3.0,348,18135,Yes,Tuesday,49,76.34,48837
+P00737,Headphones,Electronics,Lenovo,13431,12980,914,189,2.8,40,Festival,Premium,Mumbai,Debit Card,7,11.11,6308,7277,23.65,3.5,45,41046,Yes,Friday,56,87.04,13431
+P00738,Perfume,Beauty,L'Oreal,60838,59664,244,394,3.4,50,Festival,Returning,Delhi,Credit Card,1,9.3,5126,8315,19.87,4.4,158,19877,Yes,Tuesday,88,86.69,65705
+P00739,T-Shirt,Fashion,Adidas,37485,39573,433,197,4.4,0,Winter,Premium,Kolkata,Debit Card,4,3.01,2076,2698,16.71,3.6,310,31307,No,Thursday,100,90.22,40483
+P00740,Face Wash,Beauty,Nivea,50721,48747,898,79,3.2,25,Winter,Returning,Chennai,UPI,5,3.33,2171,4545,17.38,4.6,34,33013,No,Wednesday,44,64.29,48185
+P00741,Perfume,Beauty,L'Oreal,73464,74593,85,424,3.4,0,Monsoon,Returning,Chennai,Net Banking,5,3.09,2993,1500,27.31,4.2,28,10589,Yes,Sunday,80,56.89,73464
+P00742,Milk,Grocery,Tata,35762,35812,260,28,4.5,15,Festival,New,Ahmedabad,Cash on Delivery,7,11.67,510,827,63.78,4.1,330,35930,Yes,Tuesday,46,95.95,33974
+P00743,Smartphone,Electronics,HP,64645,63336,523,547,3.2,50,Normal,Premium,Kolkata,Cash on Delivery,6,11.75,5424,5896,64.38,4.3,444,24417,No,Friday,49,90.11,61413
+P00744,Jacket,Fashion,Nike,12012,14714,130,523,4.6,0,Monsoon,Returning,Hyderabad,UPI,4,10.21,4864,5927,15.59,4.6,88,25539,Yes,Tuesday,80,73.76,12012
+P00745,Camera,Electronics,Dell,33958,35343,903,274,3.6,0,Summer,Returning,Delhi,UPI,6,11.13,2948,4907,20.42,4.0,362,14331,No,Wednesday,43,85.76,32261
+P00746,Rice,Grocery,Aashirvaad,79594,82200,115,367,4.9,30,Monsoon,New,Pune,Cash on Delivery,4,4.15,3158,1589,15.62,4.6,320,24714,No,Tuesday,91,93.27,85961
+P00747,Laptop,Electronics,OnePlus,29651,28607,628,273,4.2,15,Normal,New,Bengaluru,Credit Card,4,12.09,3442,2127,60.59,3.1,357,44453,No,Thursday,90,67.26,32023
+P00748,Mixer,Home & Kitchen,Milton,48790,47856,80,576,3.2,5,Summer,Returning,Hyderabad,UPI,7,13.13,3024,4319,69.32,4.0,53,45303,Yes,Sunday,48,52.15,46351
+P00749,Pressure Cooker,Home & Kitchen,Prestige,73730,75428,367,259,3.1,5,Festival,Returning,Delhi,Debit Card,3,13.68,1735,7675,23.41,4.9,43,18318,Yes,Monday,40,57.09,70044
+P00750,Rice,Grocery,Tata,36041,35296,418,172,3.1,0,Winter,New,Pune,Debit Card,4,8.98,1613,3195,39.88,5.0,313,45729,No,Friday,65,93.15,36041
+P00751,T-Shirt,Fashion,Puma,71880,71926,719,397,3.5,25,Winter,Returning,Pune,Credit Card,5,7.75,1437,6923,7.3,5.0,402,7791,Yes,Sunday,91,54.34,77630
+P00752,Lipstick,Beauty,L'Oreal,42138,39737,412,482,3.3,15,Summer,New,Ahmedabad,Net Banking,2,4.96,4344,3235,7.13,3.4,376,32839,Yes,Tuesday,52,78.52,42138
+P00753,Tablet,Electronics,Samsung,38922,40789,967,330,4.9,5,Monsoon,Returning,Bengaluru,UPI,7,11.63,5774,5351,23.69,4.5,326,31588,Yes,Friday,57,88.59,38922
+P00754,Tea,Grocery,Nestle,16506,14427,68,174,4.5,10,Normal,Returning,Hyderabad,Credit Card,7,14.04,6410,9555,40.15,4.4,436,28716,Yes,Monday,43,88.01,15681
+P00755,Cooking Oil,Grocery,Nestle,30328,29240,13,337,4.2,20,Winter,New,Mumbai,Credit Card,5,2.23,4479,5838,7.1,4.5,232,45685,Yes,Saturday,53,69.2,30328
+P00756,Jacket,Fashion,H&M,61013,59449,777,409,2.8,40,Normal,Returning,Chennai,Debit Card,3,13.15,926,8002,65.97,4.5,490,27158,No,Sunday,86,83.13,65894
+P00757,Fan,Home & Kitchen,Cello,66977,66815,788,266,3.4,25,Summer,New,Hyderabad,UPI,5,10.98,1927,8359,7.72,3.7,467,49627,No,Saturday,98,82.8,72335
+P00758,Mixer,Home & Kitchen,Milton,67097,67241,921,485,3.4,30,Normal,New,Hyderabad,Debit Card,2,5.86,1791,1471,42.36,4.0,408,41352,No,Thursday,89,76.56,72464
+P00759,Chair,Home & Kitchen,Philips,5620,4057,148,570,3.7,0,Festival,Returning,Pune,Credit Card,2,2.36,2636,586,51.34,3.7,251,49987,Yes,Friday,41,81.86,5339
+P00760,Wheat Flour,Grocery,Tata,72352,71442,189,316,3.9,25,Festival,Premium,Hyderabad,Debit Card,7,10.24,7757,114,42.81,4.4,324,23156,No,Thursday,78,59.6,72352
+P00761,Bag,Fashion,Puma,69122,70189,604,357,4.0,10,Winter,Premium,Mumbai,Debit Card,5,12.32,3456,8091,23.67,3.5,120,28597,No,Tuesday,94,92.49,74651
+P00762,Pressure Cooker,Home & Kitchen,Philips,70466,71492,685,295,4.7,5,Festival,Premium,Mumbai,Cash on Delivery,2,3.92,1403,8068,47.25,3.3,404,13020,No,Sunday,100,73.37,76103
+P00763,Table,Home & Kitchen,Cello,9898,9096,589,492,3.1,25,Summer,Premium,Bengaluru,Cash on Delivery,5,7.98,1767,8819,13.55,4.8,468,9360,No,Friday,80,89.24,9898
+P00764,Pressure Cooker,Home & Kitchen,Pigeon,57281,58543,380,479,3.8,50,Summer,New,Delhi,Debit Card,4,9.4,4820,5831,14.42,3.0,465,48543,Yes,Monday,74,54.0,57281
+P00765,Water Bottle,Home & Kitchen,Philips,36245,37351,64,218,2.7,0,Monsoon,Premium,Pune,Credit Card,4,8.01,3458,1327,39.93,4.7,401,9720,No,Saturday,50,71.63,36245
+P00766,Biscuits,Grocery,Tata,46594,44154,403,271,5.0,0,Monsoon,New,Mumbai,Net Banking,5,5.68,5964,9389,33.17,3.2,33,41138,Yes,Wednesday,66,92.07,46594
+P00767,Pressure Cooker,Home & Kitchen,Pigeon,5905,6750,626,265,3.1,0,Summer,Premium,Ahmedabad,Net Banking,2,7.97,6359,7936,16.92,4.1,257,3718,Yes,Sunday,60,67.01,5905
+P00768,Cooking Oil,Grocery,Fortune,22890,20905,548,35,3.7,30,Winter,Premium,Pune,Net Banking,2,3.98,7306,6036,56.68,3.8,398,20135,No,Sunday,84,50.87,24721
+P00769,Headphones,Electronics,Sony,36911,39751,904,277,2.7,10,Festival,Premium,Kolkata,Credit Card,3,0.3,5497,8312,51.9,3.1,97,47899,Yes,Tuesday,50,98.15,36911
+P00770,Biscuits,Grocery,Fortune,32969,31203,473,264,2.9,40,Monsoon,New,Chennai,Credit Card,6,9.83,4709,5553,7.67,4.9,278,12163,Yes,Sunday,78,89.49,32969
+P00771,Sunscreen,Beauty,Lakme,10021,7073,318,256,2.8,20,Monsoon,Premium,Delhi,Net Banking,1,2.81,7764,7017,42.85,3.1,252,2817,Yes,Monday,58,72.53,10021
+P00772,Pressure Cooker,Home & Kitchen,Milton,22388,22346,322,545,3.6,50,Summer,Premium,Kolkata,UPI,4,7.62,7709,7831,17.84,3.2,339,30704,Yes,Tuesday,57,52.84,22388
+P00773,Jeans,Fashion,Puma,54775,57291,376,555,3.4,20,Normal,Premium,Chennai,Debit Card,5,1.55,2138,212,51.6,4.7,296,29786,No,Wednesday,97,90.81,59157
+P00774,Milk,Grocery,Fortune,53213,50614,315,140,4.4,30,Summer,Premium,Hyderabad,Debit Card,7,6.4,5053,8805,57.72,3.4,37,45334,No,Tuesday,69,53.08,53213
+P00775,Milk,Grocery,Amul,73760,76369,881,35,4.9,15,Monsoon,Returning,Bengaluru,Cash on Delivery,3,1.41,7805,5634,63.04,3.9,241,36021,Yes,Sunday,49,87.41,70072
+P00776,Tea,Grocery,Tata,41440,41581,655,70,4.0,10,Winter,Premium,Pune,Credit Card,5,4.21,3049,8403,68.48,3.6,402,11258,No,Tuesday,72,54.97,41440
+P00777,Shoes,Fashion,H&M,47833,47847,754,48,4.5,15,Summer,New,Ahmedabad,Cash on Delivery,6,3.23,4783,5121,13.11,3.6,471,31000,No,Wednesday,96,58.23,51659
+P00778,Body Wash,Beauty,Lakme,15196,13863,31,459,4.8,0,Winter,Premium,Pune,Cash on Delivery,6,1.0,369,2422,7.05,4.7,57,46210,No,Monday,74,90.1,15196
+P00779,Rice,Grocery,Fortune,79342,82277,859,536,4.2,20,Festival,Premium,Mumbai,Cash on Delivery,7,11.31,5317,594,11.01,3.4,441,11340,Yes,Friday,44,70.03,75375
+P00780,Jacket,Fashion,Nike,21238,23643,480,217,4.1,25,Summer,New,Delhi,Credit Card,5,7.0,3584,5855,43.66,3.1,377,14625,Yes,Thursday,50,71.77,21238
+P00781,Smart TV,Electronics,HP,75692,75917,707,325,3.6,20,Festival,Returning,Delhi,Cash on Delivery,2,8.85,2806,8237,56.68,3.4,32,10427,Yes,Tuesday,48,74.47,71908
+P00782,Jacket,Fashion,Puma,19030,19018,588,536,4.3,40,Summer,Returning,Hyderabad,Credit Card,7,1.81,1554,4366,23.51,4.9,131,8199,No,Sunday,86,53.31,20552
+P00783,Moisturizer,Beauty,Lakme,43887,42325,267,66,3.4,30,Festival,New,Chennai,Cash on Delivery,2,3.51,6197,6926,24.82,4.3,473,37600,Yes,Monday,71,75.45,43887
+P00784,Rice,Grocery,Amul,62274,63893,942,517,4.4,5,Summer,Returning,Chennai,Debit Card,1,9.63,5860,5436,36.06,4.2,371,38246,Yes,Monday,62,59.04,62274
+P00785,Bag,Fashion,H&M,28136,27868,485,547,2.9,5,Winter,Returning,Delhi,Cash on Delivery,2,1.03,5709,1199,45.38,4.2,148,16359,No,Monday,77,54.55,28136
+P00786,Headphones,Electronics,Dell,37326,38930,895,502,4.3,5,Summer,Returning,Kolkata,UPI,7,0.71,1224,9377,25.53,4.6,219,47843,Yes,Thursday,47,75.43,35460
+P00787,Sneakers,Fashion,H&M,7134,10000,680,413,3.0,25,Summer,Returning,Bengaluru,Debit Card,3,12.7,2547,9872,52.84,4.4,237,2822,Yes,Saturday,98,56.3,7704
+P00788,Jacket,Fashion,Puma,65620,68160,136,298,2.7,20,Normal,New,Ahmedabad,Credit Card,6,14.01,3449,8989,44.7,4.2,306,39661,No,Saturday,67,95.4,65620
+P00789,Wheat Flour,Grocery,Aashirvaad,24346,26534,183,412,4.7,10,Normal,New,Mumbai,Net Banking,7,1.84,2460,6364,36.27,4.2,494,3809,Yes,Saturday,53,84.28,24346
+P00790,Smart TV,Electronics,OnePlus,59689,62093,686,71,2.8,50,Monsoon,New,Bengaluru,Net Banking,3,8.38,4001,2347,46.34,4.6,281,8362,No,Monday,83,52.13,64464
+P00791,T-Shirt,Fashion,Zara,77167,77640,926,54,3.4,0,Festival,New,Pune,UPI,6,9.06,3391,2353,64.76,3.2,174,35979,No,Sunday,97,68.47,83340
+P00792,Bag,Fashion,Nike,38529,37786,617,234,3.0,10,Festival,Returning,Kolkata,Debit Card,1,7.48,522,9785,47.68,4.7,63,14948,No,Monday,58,59.95,38529
+P00793,Moisturizer,Beauty,L'Oreal,42469,41208,17,517,3.3,20,Summer,Premium,Ahmedabad,Credit Card,6,8.53,6507,2082,36.33,3.3,428,42343,No,Tuesday,58,80.52,42469
+P00794,Microwave,Home & Kitchen,Cello,20610,19007,53,327,3.1,50,Festival,Premium,Kolkata,Cash on Delivery,3,3.41,5791,4112,68.45,3.1,381,14722,Yes,Sunday,57,69.01,20610
+P00795,Coffee,Grocery,Fortune,51777,52337,527,504,4.9,40,Festival,New,Ahmedabad,UPI,5,7.76,6809,9794,7.13,3.1,328,2992,Yes,Sunday,89,97.17,55919
+P00796,Sneakers,Fashion,Levis,52144,49442,445,149,4.3,0,Normal,Premium,Hyderabad,Cash on Delivery,7,8.23,2112,9413,11.88,3.8,390,666,Yes,Tuesday,68,64.07,52144
+P00797,Bag,Fashion,Puma,7309,9722,404,525,3.2,30,Normal,Premium,Chennai,Cash on Delivery,3,4.98,1661,7683,38.09,4.9,450,46313,Yes,Thursday,71,51.4,7309
+P00798,Smart TV,Electronics,OnePlus,5764,7165,943,55,3.8,10,Normal,Premium,Mumbai,Cash on Delivery,3,14.77,6149,8098,63.2,3.9,173,2314,Yes,Monday,63,96.58,5764
+P00799,Microwave,Home & Kitchen,Cello,29521,31848,700,325,3.5,0,Summer,Returning,Hyderabad,Cash on Delivery,1,9.55,2492,5879,37.46,3.5,31,40093,Yes,Saturday,78,50.07,29521
+P00800,Mixer,Home & Kitchen,Prestige,77733,76701,443,135,3.1,30,Monsoon,Returning,Ahmedabad,Cash on Delivery,2,6.91,7160,2298,5.15,3.0,337,47121,No,Tuesday,84,54.04,83951
+P00801,Smart Watch,Electronics,Samsung,19921,18079,206,20,3.6,25,Monsoon,Premium,Hyderabad,Cash on Delivery,4,10.44,2044,5322,31.52,3.4,221,11197,Yes,Monday,63,56.43,19921
+P00802,Tea,Grocery,Amul,43375,44113,850,250,2.6,0,Winter,Premium,Mumbai,Credit Card,2,3.91,1182,7703,60.26,4.8,108,28105,No,Tuesday,54,73.05,43375
+P00803,Laptop,Electronics,Lenovo,36481,39263,42,155,3.9,50,Normal,Returning,Ahmedabad,Credit Card,2,14.39,398,1688,52.05,4.5,478,23891,No,Thursday,97,65.34,39399
+P00804,Shoes,Fashion,H&M,18091,20472,738,377,3.0,15,Summer,New,Chennai,Credit Card,5,7.19,5617,3147,44.5,3.2,139,25372,Yes,Wednesday,73,60.97,18091
+P00805,Hoodie,Fashion,H&M,6321,3900,944,280,3.2,50,Monsoon,New,Kolkata,Cash on Delivery,3,9.0,2025,1709,11.94,3.3,230,34397,No,Sunday,99,83.51,6826
+P00806,Body Wash,Beauty,Mamaearth,42319,40521,862,445,4.5,10,Normal,New,Kolkata,Cash on Delivery,3,10.98,4232,3421,20.18,3.6,320,3033,No,Wednesday,92,91.29,45704
+P00807,Fan,Home & Kitchen,Philips,21172,18907,230,292,4.6,15,Festival,New,Bengaluru,UPI,6,12.22,6433,3842,69.46,4.9,387,6302,Yes,Thursday,97,98.82,22865
+P00808,Table,Home & Kitchen,Pigeon,35208,34860,161,408,4.3,30,Monsoon,Returning,Bengaluru,Debit Card,5,8.6,5535,7480,9.68,3.2,213,26592,No,Tuesday,64,96.39,35208
+P00809,Table,Home & Kitchen,Pigeon,39211,38256,753,288,4.1,40,Winter,New,Kolkata,UPI,7,13.97,5415,5075,61.78,4.3,288,43679,No,Saturday,84,65.73,42347
+P00810,Body Wash,Beauty,Dove,11210,13294,125,540,4.1,40,Summer,New,Hyderabad,Net Banking,5,3.83,6770,9464,62.54,3.8,304,13352,Yes,Tuesday,95,55.07,12106
+P00811,Biscuits,Grocery,Aashirvaad,17064,16719,89,383,2.7,30,Winter,New,Chennai,Cash on Delivery,3,11.41,2949,6077,34.73,4.0,58,28317,No,Friday,58,90.72,17064
+P00812,Coffee,Grocery,Fortune,40269,42883,430,295,3.6,30,Festival,Premium,Mumbai,Debit Card,3,3.42,2843,3363,24.65,4.0,46,11131,No,Wednesday,41,98.01,38256
+P00813,Jeans,Fashion,Adidas,23772,25827,16,487,3.9,0,Festival,New,Pune,Cash on Delivery,1,2.57,4494,1632,57.27,4.3,87,5799,Yes,Monday,45,98.13,22584
+P00814,Hoodie,Fashion,Adidas,21316,22807,202,308,3.4,25,Normal,Premium,Pune,Net Banking,7,10.71,4415,5892,50.49,4.1,411,39433,No,Wednesday,54,74.18,21316
+P00815,Sneakers,Fashion,Levis,9098,11498,597,262,4.7,0,Summer,Returning,Chennai,Net Banking,3,1.65,4534,9286,62.33,4.3,286,14898,No,Monday,65,70.64,9098
+P00816,Jeans,Fashion,H&M,50897,49978,251,594,4.3,30,Monsoon,New,Mumbai,Credit Card,2,1.27,7795,5447,33.76,3.7,395,38801,No,Tuesday,61,80.53,50897
+P00817,Shampoo,Beauty,Dove,25484,28243,408,555,3.2,10,Winter,New,Bengaluru,Cash on Delivery,3,7.04,5472,1340,28.74,3.5,189,24173,Yes,Sunday,88,70.06,27522
+P00818,Perfume,Beauty,L'Oreal,43337,43686,193,586,4.1,15,Monsoon,Returning,Pune,Credit Card,5,13.61,844,4234,55.03,3.5,482,47645,Yes,Saturday,68,81.01,43337
+P00819,Pressure Cooker,Home & Kitchen,Milton,826,-99,521,412,4.5,50,Festival,Premium,Ahmedabad,UPI,2,11.52,3676,7235,51.0,3.4,297,26109,Yes,Monday,72,54.58,826
+P00820,Tablet,Electronics,HP,21791,19671,510,253,4.8,15,Normal,Returning,Bengaluru,Cash on Delivery,5,3.78,2508,5844,60.3,3.1,218,22607,No,Sunday,61,65.18,21791
+P00821,Coffee,Grocery,Tata,78175,80857,42,216,3.2,15,Normal,Premium,Ahmedabad,Debit Card,6,2.81,7151,1205,62.38,3.1,106,48301,Yes,Saturday,86,79.25,84429
+P00822,Sunscreen,Beauty,Lakme,11465,8800,313,349,3.2,25,Winter,Premium,Delhi,UPI,7,3.99,4298,2982,61.32,4.6,30,12041,Yes,Wednesday,72,79.26,11465
+P00823,Moisturizer,Beauty,L'Oreal,74126,74064,157,595,2.8,0,Normal,Premium,Chennai,Credit Card,3,11.43,421,6647,65.91,3.5,378,29512,Yes,Tuesday,68,75.25,74126
+P00824,Face Wash,Beauty,L'Oreal,32667,32324,926,170,4.4,20,Normal,Premium,Hyderabad,Debit Card,2,12.3,985,5956,36.97,3.8,109,18515,No,Saturday,82,68.69,35280
+P00825,Smart TV,Electronics,HP,5915,7388,993,578,4.9,0,Monsoon,Premium,Kolkata,UPI,1,3.4,910,4414,52.76,4.4,326,45749,No,Sunday,57,79.09,5915
+P00826,T-Shirt,Fashion,Levis,75095,77791,882,505,4.7,50,Festival,Premium,Pune,Net Banking,4,4.8,2631,592,40.85,3.8,223,18653,Yes,Sunday,49,92.81,71341
+P00827,Coffee,Grocery,Nestle,52905,50530,987,191,4.4,5,Winter,Premium,Kolkata,Cash on Delivery,3,6.13,7082,9598,62.68,4.7,441,8361,Yes,Friday,81,62.89,57137
+P00828,Smart Watch,Electronics,Apple,38651,38410,227,421,3.6,0,Winter,Premium,Hyderabad,Cash on Delivery,1,3.73,5851,1535,62.24,4.3,331,969,No,Saturday,50,91.08,38651
+P00829,Lipstick,Beauty,Nivea,29694,29231,653,426,3.4,50,Normal,Premium,Pune,Debit Card,4,8.03,4094,9365,29.72,4.8,24,35188,Yes,Tuesday,65,70.61,29694
+P00830,Sneakers,Fashion,Nike,2334,894,898,371,3.0,10,Summer,Returning,Bengaluru,Credit Card,5,2.25,6842,5870,42.82,4.9,345,2110,No,Saturday,54,72.51,2334
+P00831,Water Bottle,Home & Kitchen,Pigeon,47268,49814,258,196,4.5,0,Normal,Returning,Mumbai,UPI,5,7.1,7657,1887,65.8,3.5,188,19635,Yes,Thursday,76,69.99,47268
+P00832,Microwave,Home & Kitchen,Prestige,61461,60266,761,215,2.8,15,Winter,Returning,Mumbai,Cash on Delivery,4,0.59,3145,1823,24.22,4.8,310,33305,Yes,Thursday,51,64.2,61461
+P00833,Milk,Grocery,Amul,27563,30380,940,239,3.2,30,Normal,New,Bengaluru,Net Banking,6,7.63,7093,7495,49.42,4.6,493,42882,No,Monday,80,91.79,27563
+P00834,Shampoo,Beauty,Dove,56372,54234,876,196,3.3,40,Winter,Premium,Ahmedabad,Credit Card,4,7.74,3824,7352,25.63,3.8,283,46480,No,Tuesday,41,69.27,53554
+P00835,Smartphone,Electronics,Dell,37327,34791,201,90,4.6,50,Festival,Returning,Ahmedabad,Cash on Delivery,1,12.3,5260,7013,55.79,3.4,354,5537,Yes,Wednesday,81,64.23,40313
+P00836,Wheat Flour,Grocery,Nestle,41930,42034,946,365,4.3,30,Festival,Premium,Bengaluru,UPI,4,8.64,6309,4871,36.61,3.8,122,6707,Yes,Tuesday,48,90.2,39834
+P00837,Water Bottle,Home & Kitchen,Cello,63595,61180,654,530,4.4,50,Normal,Returning,Bengaluru,UPI,5,7.33,5538,785,31.94,3.7,223,36848,Yes,Monday,94,76.69,68682
+P00838,Microwave,Home & Kitchen,Pigeon,21491,21599,303,593,4.4,25,Summer,New,Bengaluru,UPI,7,7.62,5132,2574,17.89,4.2,43,24618,Yes,Friday,51,57.74,21491
+P00839,Smart Watch,Electronics,Sony,45796,44718,485,282,2.8,0,Monsoon,Returning,Ahmedabad,UPI,5,7.4,823,8683,41.4,3.1,63,32566,No,Thursday,93,96.19,49459
+P00840,Tablet,Electronics,Sony,58543,60506,786,59,2.6,25,Monsoon,Returning,Pune,UPI,4,6.23,3121,5151,7.56,4.2,25,12624,Yes,Thursday,64,79.53,58543
+P00841,Camera,Electronics,Dell,76717,74643,65,371,2.9,40,Winter,Returning,Kolkata,Net Banking,4,12.57,3154,5472,13.24,3.1,358,46504,No,Monday,69,70.76,76717
+P00842,Biscuits,Grocery,Aashirvaad,37381,39548,953,196,2.6,25,Summer,New,Bengaluru,Net Banking,3,9.02,3706,2679,63.4,4.7,255,20096,No,Thursday,75,56.66,37381
+P00843,Headphones,Electronics,Sony,5529,6346,626,22,3.3,5,Festival,New,Hyderabad,Net Banking,2,6.98,7990,6198,42.17,4.4,134,8110,No,Thursday,76,87.41,5529
+P00844,Laptop,Electronics,Apple,49137,51328,204,492,2.8,30,Festival,New,Hyderabad,Credit Card,6,8.38,3161,8067,31.71,4.0,285,31804,No,Thursday,83,53.66,53067
+P00845,Perfume,Beauty,Dove,68434,71146,254,545,4.5,50,Normal,Premium,Ahmedabad,Net Banking,3,0.43,5926,9911,40.24,3.4,146,45500,No,Friday,73,56.91,68434
+P00846,Shampoo,Beauty,Lakme,60241,59283,314,584,4.3,25,Normal,Premium,Ahmedabad,Net Banking,5,2.38,7196,8079,59.52,4.4,46,30726,Yes,Thursday,97,84.35,65060
+P00847,Water Bottle,Home & Kitchen,Cello,62809,64275,33,93,3.9,15,Normal,Returning,Pune,Debit Card,6,11.05,313,243,59.16,4.6,167,25672,No,Friday,74,87.37,62809
+P00848,Bag,Fashion,Puma,18172,18304,493,222,4.7,0,Normal,Returning,Chennai,UPI,7,3.47,2885,5002,46.15,3.5,211,29872,Yes,Wednesday,85,82.25,19625
+P00849,Mixer,Home & Kitchen,Philips,76539,76765,969,556,3.9,10,Festival,Returning,Delhi,UPI,2,3.23,5981,8918,63.17,4.7,230,37458,Yes,Monday,47,52.23,72713
+P00850,Lipstick,Beauty,Lakme,25335,22994,507,328,3.0,30,Normal,New,Mumbai,Debit Card,3,5.03,1619,1760,17.89,3.2,211,19513,Yes,Saturday,81,66.57,27361
+P00851,Headphones,Electronics,Samsung,62652,62438,183,86,3.8,10,Monsoon,Premium,Chennai,Credit Card,2,5.95,5528,6617,29.84,4.1,187,19324,No,Wednesday,95,63.58,67664
+P00852,Water Bottle,Home & Kitchen,Pigeon,48173,45707,873,551,4.6,25,Winter,Returning,Delhi,Net Banking,2,3.12,1923,9897,65.12,3.3,191,4589,No,Thursday,98,73.53,52026
+P00853,Moisturizer,Beauty,Nivea,13928,13192,771,40,4.8,10,Festival,Returning,Hyderabad,Net Banking,7,1.97,1737,2242,13.68,4.2,103,49532,No,Thursday,65,54.06,13928
+P00854,Laptop,Electronics,Lenovo,15183,17468,804,242,4.1,40,Winter,New,Ahmedabad,Credit Card,2,3.45,4856,452,54.55,3.7,195,31091,Yes,Friday,92,62.37,16397
+P00855,Sunscreen,Beauty,Dove,63998,62898,537,247,5.0,25,Summer,Premium,Ahmedabad,Debit Card,1,8.76,7510,1120,66.08,4.6,151,3058,No,Monday,91,72.18,69117
+P00856,Coffee,Grocery,Nestle,13961,11107,703,401,4.8,5,Monsoon,Returning,Mumbai,Credit Card,3,4.2,6238,7269,23.13,4.8,336,17304,No,Thursday,72,90.84,13961
+P00857,Wheat Flour,Grocery,Fortune,13560,16441,971,455,3.7,40,Normal,Premium,Hyderabad,Net Banking,3,9.09,4333,4299,35.74,4.4,329,15997,Yes,Friday,59,91.33,13560
+P00858,Tea,Grocery,Nestle,30364,27495,354,523,2.9,15,Monsoon,Premium,Hyderabad,Credit Card,3,5.91,3027,8546,37.5,5.0,431,4087,No,Thursday,52,53.5,30364
+P00859,Moisturizer,Beauty,Mamaearth,8312,5325,277,212,4.3,15,Winter,New,Delhi,Net Banking,4,1.19,6181,6199,15.49,3.7,243,15331,Yes,Sunday,54,68.74,8312
+P00860,Shampoo,Beauty,Mamaearth,7344,9753,148,446,3.9,30,Winter,Returning,Ahmedabad,UPI,2,6.71,7246,155,6.53,4.2,370,19820,No,Monday,59,89.36,7344
+P00861,Microwave,Home & Kitchen,Milton,74979,76893,109,374,4.4,25,Festival,Returning,Hyderabad,UPI,6,5.01,2828,4995,39.84,3.7,457,43718,No,Tuesday,55,64.11,74979
+P00862,Perfume,Beauty,Nivea,30598,29312,252,381,4.2,30,Summer,Returning,Mumbai,Net Banking,2,11.0,7792,8300,47.37,3.4,340,7314,No,Sunday,75,76.72,30598
+P00863,Jacket,Fashion,Zara,36913,34027,200,419,4.9,15,Winter,Premium,Delhi,Credit Card,3,14.59,4721,2353,35.04,4.6,156,2746,No,Saturday,86,87.68,39866
+P00864,Headphones,Electronics,OnePlus,43725,41269,781,449,4.4,25,Normal,Returning,Ahmedabad,Net Banking,1,12.95,7868,9483,67.8,3.5,57,6009,Yes,Monday,78,99.57,43725
+P00865,Rice,Grocery,Nestle,30102,27450,10,240,3.8,40,Winter,Premium,Kolkata,UPI,2,14.2,3456,7782,65.55,3.9,37,4514,Yes,Tuesday,91,79.75,32510
+P00866,Tablet,Electronics,Apple,37854,37680,418,280,3.1,40,Summer,New,Bengaluru,UPI,1,12.07,1892,4685,51.71,4.9,407,41518,Yes,Sunday,60,55.33,37854
+P00867,Moisturizer,Beauty,Mamaearth,45116,43517,494,208,3.5,0,Monsoon,New,Chennai,Credit Card,5,11.27,5242,372,64.53,4.6,258,29420,Yes,Tuesday,54,74.57,45116
+P00868,Fan,Home & Kitchen,Milton,21837,21090,640,99,2.6,50,Festival,Premium,Chennai,UPI,2,10.12,7159,9387,49.23,4.4,199,30698,No,Monday,94,78.71,23583
+P00869,T-Shirt,Fashion,Nike,50994,48504,730,580,3.1,20,Summer,Premium,Pune,Debit Card,7,11.01,6039,8508,54.03,3.4,181,36965,Yes,Sunday,91,74.4,55073
+P00870,Sunscreen,Beauty,Dove,32672,34418,774,412,4.0,40,Festival,Returning,Bengaluru,Net Banking,4,13.03,3956,1811,48.38,3.9,345,41725,Yes,Tuesday,46,80.72,31039
+P00871,Hoodie,Fashion,Levis,63949,63856,901,468,3.1,25,Winter,Premium,Pune,Net Banking,3,11.24,5080,1204,22.78,5.0,425,44160,Yes,Saturday,81,79.29,69064
+P00872,Hoodie,Fashion,Zara,52995,55831,60,376,4.5,15,Monsoon,Returning,Chennai,Debit Card,2,5.55,1976,9182,52.22,3.4,269,23863,Yes,Friday,42,57.63,50346
+P00873,Laptop,Electronics,Samsung,47396,49044,354,201,4.3,40,Summer,Premium,Pune,Credit Card,5,0.12,4716,588,61.16,4.2,311,20350,Yes,Friday,47,79.03,45027
+P00874,Smart Watch,Electronics,HP,54587,52353,985,331,4.4,30,Summer,New,Kolkata,Cash on Delivery,7,11.03,5967,7235,18.73,3.2,473,23876,No,Thursday,88,89.34,58953
+P00875,Lipstick,Beauty,Lakme,29548,28595,878,338,3.6,10,Normal,New,Bengaluru,Debit Card,2,14.59,6594,3056,30.83,3.9,92,35182,Yes,Sunday,91,57.32,31911
+P00876,Pressure Cooker,Home & Kitchen,Pigeon,26729,24341,273,385,4.5,40,Monsoon,New,Bengaluru,Cash on Delivery,1,0.96,6954,6196,43.0,4.1,234,7180,Yes,Sunday,44,85.31,25393
+P00877,Pressure Cooker,Home & Kitchen,Milton,33662,31423,145,64,3.3,20,Monsoon,Returning,Ahmedabad,UPI,6,1.72,3436,2486,55.86,4.0,450,14344,No,Monday,86,95.18,36354
+P00878,Smart Watch,Electronics,Sony,7377,7809,148,542,4.7,0,Festival,Returning,Mumbai,Cash on Delivery,7,3.84,4022,1941,43.54,4.1,457,23301,No,Sunday,42,93.22,7009
+P00879,Milk,Grocery,Aashirvaad,61546,60472,605,72,3.5,20,Summer,Premium,Kolkata,Cash on Delivery,1,3.15,7646,5603,19.76,3.6,446,30208,No,Saturday,78,77.51,61546
+P00880,Bag,Fashion,Zara,39088,39764,648,107,4.0,5,Winter,Premium,Kolkata,Cash on Delivery,6,0.03,6476,7868,62.75,3.8,181,7953,Yes,Sunday,83,72.53,42215
+P00881,Moisturizer,Beauty,Nivea,35761,38676,202,309,3.6,50,Festival,Returning,Mumbai,Net Banking,6,8.24,6840,3400,20.76,4.8,475,40003,No,Tuesday,54,96.49,35761
+P00882,Smartphone,Electronics,Sony,66051,65890,807,60,4.6,0,Winter,Returning,Bengaluru,UPI,4,5.35,7112,5163,13.39,3.6,299,48951,No,Thursday,61,52.11,66051
+P00883,Perfume,Beauty,Nivea,53671,52759,557,164,4.9,30,Winter,Returning,Mumbai,Debit Card,6,11.66,4374,6884,17.64,3.7,163,15672,No,Monday,61,68.58,53671
+P00884,Table,Home & Kitchen,Philips,7210,4469,946,430,2.9,0,Normal,New,Chennai,Credit Card,5,13.91,906,8603,30.96,3.9,360,21493,No,Saturday,41,88.33,6850
+P00885,Milk,Grocery,Amul,66307,63564,883,330,2.7,40,Winter,Premium,Chennai,Net Banking,7,8.41,7490,4783,12.35,4.1,248,16361,No,Sunday,42,92.31,62992
+P00886,Table,Home & Kitchen,Milton,62957,61776,658,128,3.3,10,Summer,Returning,Ahmedabad,UPI,6,5.59,254,2603,19.53,3.5,120,43173,Yes,Sunday,43,85.14,59810
+P00887,Rice,Grocery,Nestle,49839,51409,652,243,4.9,0,Summer,Returning,Pune,Cash on Delivery,3,12.05,5072,6819,61.29,4.8,497,20217,No,Friday,76,97.23,49839
+P00888,Microwave,Home & Kitchen,Philips,62190,64675,70,151,4.5,50,Winter,Premium,Ahmedabad,UPI,1,8.67,4393,645,45.18,4.2,112,31945,No,Friday,44,83.86,59081
+P00889,Sneakers,Fashion,Adidas,47720,49511,313,248,4.9,30,Festival,Returning,Mumbai,Debit Card,6,7.01,3962,3655,25.67,5.0,113,49491,Yes,Saturday,55,86.8,47720
+P00890,Rice,Grocery,Amul,6403,7937,862,486,2.5,0,Winter,Premium,Bengaluru,Credit Card,7,13.86,6396,6833,63.62,4.2,246,18520,Yes,Wednesday,41,65.98,6083
+P00891,Fan,Home & Kitchen,Milton,30398,30586,204,62,3.8,30,Winter,Premium,Bengaluru,Credit Card,2,6.98,1139,7458,39.11,4.6,211,46549,Yes,Saturday,71,55.02,30398
+P00892,Smartphone,Electronics,Apple,76587,74504,141,454,4.2,30,Winter,Returning,Bengaluru,UPI,1,1.46,1029,2261,21.6,4.2,326,5164,Yes,Friday,59,50.99,76587
+P00893,Shampoo,Beauty,Dove,54364,55911,916,308,2.9,40,Festival,Premium,Mumbai,Net Banking,1,0.1,3716,6953,68.02,4.7,326,40576,No,Sunday,97,69.82,58713
+P00894,Tablet,Electronics,Sony,21796,20705,33,526,2.9,5,Winter,Premium,Hyderabad,Credit Card,5,11.73,2267,9318,68.46,4.7,468,46461,No,Tuesday,74,76.78,21796
+P00895,Wheat Flour,Grocery,Aashirvaad,42561,40255,543,85,4.8,25,Winter,Premium,Ahmedabad,Net Banking,1,0.44,7132,2428,33.71,3.4,297,25577,Yes,Saturday,95,67.93,45965
+P00896,Body Wash,Beauty,L'Oreal,11255,12898,894,323,4.2,0,Summer,Premium,Mumbai,Credit Card,6,5.24,796,9507,14.12,3.4,241,1052,Yes,Monday,68,89.69,11255
+P00897,T-Shirt,Fashion,H&M,49385,50239,692,136,3.6,10,Winter,New,Pune,Cash on Delivery,5,6.87,7341,4430,30.64,4.9,332,45662,No,Saturday,84,78.07,53335
+P00898,Biscuits,Grocery,Fortune,60510,62562,678,466,3.3,50,Monsoon,New,Chennai,Net Banking,1,7.1,2296,8381,68.89,4.2,427,3651,No,Tuesday,66,65.61,60510
+P00899,Fan,Home & Kitchen,Prestige,46656,47116,577,64,3.5,0,Festival,Returning,Ahmedabad,Debit Card,6,1.39,7130,518,21.76,3.1,115,16415,No,Saturday,47,61.77,44324
+P00900,Perfume,Beauty,Lakme,42260,41714,137,264,4.2,10,Festival,New,Delhi,Debit Card,2,0.6,1176,1733,53.05,4.3,210,12598,No,Sunday,92,63.16,45640
+P00901,Moisturizer,Beauty,L'Oreal,44581,43795,105,417,4.3,0,Winter,Premium,Pune,Debit Card,4,13.64,5997,9240,7.3,4.8,155,19094,Yes,Saturday,63,54.31,44581
+P00902,Lipstick,Beauty,L'Oreal,74602,74722,990,112,3.6,30,Monsoon,Premium,Chennai,UPI,7,8.52,7997,8858,17.28,4.9,88,42872,Yes,Wednesday,79,64.79,74602
+P00903,Mixer,Home & Kitchen,Pigeon,22599,21139,348,565,4.2,40,Normal,Returning,Kolkata,Debit Card,7,0.89,2566,3731,57.02,4.8,378,41695,Yes,Sunday,41,63.16,21470
+P00904,Cooking Oil,Grocery,Nestle,45084,42924,557,331,3.8,0,Summer,New,Bengaluru,Debit Card,4,7.39,3707,1984,29.7,3.3,336,34127,No,Wednesday,62,93.38,45084
+P00905,Hoodie,Fashion,H&M,49497,49974,823,429,3.7,30,Summer,Returning,Chennai,Net Banking,2,9.62,3455,376,65.83,3.2,397,36148,Yes,Tuesday,95,99.09,53456
+P00906,Wheat Flour,Grocery,Amul,44691,44834,623,105,3.3,0,Normal,Returning,Chennai,Credit Card,4,3.63,2386,7168,16.75,4.2,352,47992,Yes,Tuesday,71,67.11,44691
+P00907,Smart Watch,Electronics,Lenovo,8117,5404,902,263,4.4,50,Normal,New,Mumbai,UPI,3,0.96,7909,359,44.29,5.0,78,40653,No,Friday,95,59.11,8766
+P00908,Water Bottle,Home & Kitchen,Prestige,14108,16015,326,200,4.1,50,Normal,Premium,Kolkata,Cash on Delivery,2,7.28,7997,8763,42.8,3.1,24,16595,Yes,Wednesday,49,57.47,13403
+P00909,Lipstick,Beauty,Nivea,58470,57362,549,104,4.5,10,Summer,Returning,Pune,Net Banking,2,1.08,7241,1491,55.27,4.7,286,17787,No,Saturday,73,88.1,58470
+P00910,Table,Home & Kitchen,Milton,12364,12336,372,117,3.9,30,Winter,New,Ahmedabad,Cash on Delivery,6,13.26,1833,6271,24.05,3.0,41,45711,Yes,Monday,41,72.04,11746
+P00911,Biscuits,Grocery,Fortune,71482,74035,499,134,4.7,5,Summer,Premium,Mumbai,Debit Card,6,1.03,3525,8942,33.8,4.1,33,26800,No,Monday,78,72.97,71482
+P00912,Coffee,Grocery,Nestle,25822,28597,44,497,3.0,50,Festival,New,Ahmedabad,Debit Card,2,0.74,6440,2271,47.58,4.1,458,21855,No,Tuesday,88,57.49,27887
+P00913,Body Wash,Beauty,Dove,27839,25202,399,532,3.2,10,Winter,Premium,Chennai,Credit Card,7,10.52,2097,6543,8.68,4.5,379,25611,Yes,Sunday,63,87.75,27839
+P00914,Lipstick,Beauty,Nivea,37683,37030,151,13,4.7,30,Winter,Premium,Bengaluru,Net Banking,3,0.19,5583,6878,12.01,4.4,115,22196,Yes,Sunday,54,56.06,37683
+P00915,Mixer,Home & Kitchen,Pigeon,58298,60048,156,235,3.5,5,Normal,Returning,Hyderabad,UPI,5,11.87,3358,1622,15.58,3.4,322,28395,Yes,Thursday,48,87.56,55384
+P00916,T-Shirt,Fashion,H&M,58198,56199,855,30,4.2,0,Festival,New,Chennai,Credit Card,6,7.48,7960,2773,45.58,4.9,444,6163,No,Friday,68,73.74,58198
+P00917,Wheat Flour,Grocery,Amul,52881,54957,781,588,4.9,25,Summer,New,Chennai,Credit Card,7,8.32,240,3962,52.58,3.7,433,35256,No,Sunday,45,83.11,50237
+P00918,Biscuits,Grocery,Aashirvaad,71814,69570,850,599,3.8,15,Summer,Returning,Hyderabad,Cash on Delivery,3,11.66,3620,232,45.33,3.0,364,32803,Yes,Sunday,54,58.37,71814
+P00919,Body Wash,Beauty,Lakme,71868,73403,864,7,2.5,50,Winter,Premium,Kolkata,UPI,6,14.84,295,2083,10.47,3.3,431,42002,Yes,Tuesday,95,97.48,77617
+P00920,Rice,Grocery,Fortune,64391,61457,776,593,3.4,20,Festival,New,Pune,Credit Card,7,4.55,4533,1513,49.8,3.7,239,4927,Yes,Tuesday,55,52.3,64391
+P00921,Biscuits,Grocery,Nestle,35480,34202,414,503,3.1,50,Festival,New,Bengaluru,Credit Card,1,6.4,3076,6145,65.53,4.6,201,3510,No,Sunday,63,69.55,35480
+P00922,Tablet,Electronics,Apple,31787,29703,352,163,3.0,10,Festival,New,Kolkata,Debit Card,5,12.67,6164,5686,23.13,3.8,379,6582,No,Wednesday,40,85.94,30198
+P00923,Hoodie,Fashion,Zara,63284,61808,477,112,3.9,10,Monsoon,Premium,Kolkata,Credit Card,7,13.66,715,7861,40.57,4.6,369,47014,No,Monday,49,62.93,60120
+P00924,Chair,Home & Kitchen,Pigeon,57002,54165,36,586,3.2,15,Festival,Premium,Delhi,Debit Card,6,5.16,7777,2655,12.42,4.3,499,49141,No,Thursday,93,53.37,61562
+P00925,Face Wash,Beauty,Nivea,23316,22065,589,83,3.5,20,Festival,Returning,Delhi,Net Banking,4,4.46,584,1373,26.08,4.6,356,572,No,Friday,99,81.11,25181
+P00926,Wheat Flour,Grocery,Aashirvaad,79115,78942,446,155,3.0,5,Festival,New,Delhi,Cash on Delivery,3,11.36,6376,6450,49.59,4.7,354,12507,No,Thursday,71,52.75,79115
+P00927,Camera,Electronics,Sony,23795,20925,649,242,4.6,30,Monsoon,New,Pune,Credit Card,2,13.47,3976,3429,12.69,3.6,305,12691,Yes,Friday,89,58.32,25698
+P00928,Coffee,Grocery,Tata,66614,65057,90,185,4.5,15,Winter,Returning,Mumbai,Debit Card,4,12.66,3121,9580,37.46,3.3,93,39932,No,Sunday,87,62.0,71943
+P00929,T-Shirt,Fashion,H&M,47492,44905,894,135,3.7,5,Winter,Returning,Ahmedabad,UPI,3,7.36,318,9045,42.12,3.0,281,45455,Yes,Tuesday,69,54.39,47492
+P00930,Smartphone,Electronics,Sony,11484,13779,751,255,3.2,25,Winter,Returning,Chennai,Net Banking,4,3.2,825,7334,69.25,3.5,366,28299,Yes,Sunday,41,97.6,10910
+P00931,Perfume,Beauty,Lakme,19052,17578,563,554,2.7,30,Festival,Returning,Kolkata,Net Banking,2,11.5,5406,7454,47.14,3.9,276,23804,Yes,Saturday,83,50.33,20576
+P00932,Microwave,Home & Kitchen,Cello,46522,48997,683,425,4.7,40,Summer,New,Ahmedabad,Debit Card,3,5.16,4148,7149,11.5,4.3,483,46306,No,Thursday,44,70.16,44196
+P00933,Mixer,Home & Kitchen,Prestige,17864,15544,961,282,3.1,20,Monsoon,New,Delhi,Cash on Delivery,5,7.42,1790,8879,17.9,4.5,78,16037,No,Wednesday,89,76.09,19293
+P00934,Bag,Fashion,Adidas,58463,55990,773,261,3.0,0,Summer,New,Delhi,Net Banking,5,11.2,6454,6066,17.79,3.2,463,10938,No,Saturday,46,96.63,55540
+P00935,Rice,Grocery,Amul,32935,35127,728,164,4.2,5,Normal,Premium,Delhi,Cash on Delivery,1,7.17,1437,3372,44.46,4.8,367,14568,Yes,Tuesday,95,67.97,35569
+P00936,Sunscreen,Beauty,Lakme,35114,32356,920,445,3.0,40,Monsoon,New,Mumbai,Debit Card,7,3.76,545,1340,36.16,3.7,189,47346,No,Friday,65,97.81,35114
+P00937,Milk,Grocery,Amul,28834,27562,609,27,2.8,50,Winter,Returning,Bengaluru,Credit Card,4,7.18,948,2721,52.7,3.1,439,34145,No,Monday,54,85.45,28834
+P00938,Face Wash,Beauty,Lakme,72848,73844,842,468,3.2,20,Normal,Premium,Bengaluru,Credit Card,1,14.39,3932,6266,65.98,3.3,189,49648,No,Wednesday,68,74.68,72848
+P00939,Sneakers,Fashion,Nike,51562,48986,595,570,2.9,5,Monsoon,Premium,Mumbai,Net Banking,6,11.38,5469,3088,44.9,3.1,174,8978,Yes,Friday,85,66.58,55686
+P00940,Cooking Oil,Grocery,Aashirvaad,51942,50182,205,229,4.2,15,Summer,Premium,Kolkata,Credit Card,2,13.65,3551,3868,57.39,4.4,244,42483,No,Saturday,72,68.85,51942
+P00941,Shampoo,Beauty,Dove,65588,63623,170,399,4.9,30,Normal,Premium,Ahmedabad,Net Banking,6,14.86,4336,845,50.55,4.2,454,2388,Yes,Monday,91,51.54,70835
+P00942,Smartphone,Electronics,Sony,50836,52068,261,480,4.7,25,Summer,Premium,Mumbai,Debit Card,2,3.18,3517,4668,39.92,4.4,471,27325,Yes,Friday,79,68.8,50836
+P00943,Laptop,Electronics,HP,68263,67775,341,502,3.3,15,Festival,Premium,Mumbai,Debit Card,3,13.67,7194,1693,40.41,4.6,283,5583,No,Saturday,66,71.5,68263
+P00944,Laptop,Electronics,Sony,54187,51432,495,121,4.7,15,Winter,New,Bengaluru,Credit Card,5,8.4,7043,5528,26.26,4.1,133,5186,Yes,Tuesday,44,82.05,51478
+P00945,Chair,Home & Kitchen,Pigeon,21781,19917,754,401,4.1,30,Normal,Returning,Delhi,Cash on Delivery,2,7.19,6078,2725,46.58,3.3,119,30731,No,Tuesday,50,50.64,21781
+P00946,Perfume,Beauty,Lakme,30905,33443,955,501,4.1,5,Normal,Premium,Bengaluru,Debit Card,2,11.79,696,3296,33.94,5.0,210,32896,Yes,Wednesday,95,56.1,33377
+P00947,Sunscreen,Beauty,L'Oreal,36242,37835,419,450,4.4,5,Monsoon,Premium,Ahmedabad,UPI,2,7.41,6763,814,17.36,4.8,442,30687,Yes,Friday,99,85.12,39141
+P00948,Smart TV,Electronics,HP,43833,42204,558,13,4.6,10,Summer,Returning,Mumbai,Cash on Delivery,1,6.7,7507,5937,30.02,3.0,211,42899,Yes,Saturday,92,78.99,47339
+P00949,Coffee,Grocery,Nestle,18490,19138,820,172,4.8,5,Monsoon,Returning,Pune,Credit Card,2,4.35,704,6321,8.53,3.7,477,47316,No,Thursday,78,99.73,18490
+P00950,Wheat Flour,Grocery,Nestle,50595,51459,898,596,4.3,5,Winter,Premium,Bengaluru,Debit Card,1,9.2,7644,9999,21.08,4.4,422,49010,Yes,Thursday,96,96.06,54642
+P00951,Bag,Fashion,Nike,30386,29259,154,86,3.0,50,Summer,New,Mumbai,Net Banking,3,14.92,6296,4034,22.42,3.8,180,20185,Yes,Wednesday,84,50.17,32816
+P00952,Fan,Home & Kitchen,Philips,52795,52486,837,31,4.5,0,Festival,New,Pune,Net Banking,7,5.18,7145,3272,7.0,4.6,433,4932,Yes,Friday,95,51.07,57018
+P00953,Tea,Grocery,Amul,9953,7596,599,444,2.9,20,Normal,Returning,Chennai,UPI,1,7.91,4527,5739,31.93,3.8,236,36774,No,Monday,96,69.06,10749
+P00954,Table,Home & Kitchen,Prestige,69669,69031,204,431,2.7,50,Summer,Premium,Delhi,Debit Card,3,10.37,1495,6520,69.47,4.4,369,3836,Yes,Monday,46,68.74,66186
+P00955,Shoes,Fashion,H&M,65385,63191,589,121,2.9,0,Festival,Premium,Kolkata,Net Banking,6,8.98,7724,1437,17.78,3.9,160,48416,No,Thursday,95,53.9,70615
+P00956,Water Bottle,Home & Kitchen,Pigeon,70410,73117,495,583,2.8,5,Normal,New,Hyderabad,Credit Card,6,11.81,2178,7273,30.43,3.4,171,35193,No,Sunday,44,87.59,66890
+P00957,Biscuits,Grocery,Fortune,63994,66144,795,346,4.2,25,Monsoon,Returning,Ahmedabad,Credit Card,3,5.39,3527,2356,34.96,4.9,57,42423,Yes,Friday,72,89.26,63994
+P00958,Jacket,Fashion,Puma,39254,37831,777,469,3.6,40,Monsoon,Returning,Chennai,Debit Card,5,4.71,3256,7700,11.97,3.4,245,14338,No,Wednesday,99,68.37,42394
+P00959,Water Bottle,Home & Kitchen,Pigeon,70682,69197,243,500,3.8,0,Festival,New,Pune,Credit Card,5,4.55,2528,1778,67.74,4.3,494,1372,Yes,Tuesday,98,53.09,76336
+P00960,Jacket,Fashion,Zara,24027,24661,417,237,3.9,50,Summer,New,Ahmedabad,Debit Card,6,1.46,2933,1816,30.96,4.9,148,4689,No,Friday,71,52.48,24027
+P00961,Milk,Grocery,Tata,75643,78407,382,353,4.5,25,Festival,Returning,Kolkata,Debit Card,7,0.71,7689,4771,8.89,4.8,280,10364,No,Wednesday,79,75.21,75643
+P00962,Coffee,Grocery,Amul,57766,59023,656,319,2.7,40,Summer,Premium,Mumbai,Cash on Delivery,4,3.2,2963,9933,25.84,4.1,125,13319,No,Friday,99,71.48,62387
+P00963,Jacket,Fashion,H&M,63594,65940,129,156,2.9,25,Winter,New,Kolkata,Debit Card,6,9.4,4561,8795,14.2,3.9,420,33510,No,Thursday,100,77.24,68681
+P00964,Microwave,Home & Kitchen,Philips,60660,61306,754,559,4.6,20,Summer,Premium,Bengaluru,Debit Card,3,5.12,7173,3604,65.07,4.8,98,48765,No,Sunday,56,53.19,60660
+P00965,Milk,Grocery,Fortune,21858,20952,431,353,4.0,20,Normal,Returning,Pune,Net Banking,2,13.84,3967,1845,39.6,4.3,451,4713,Yes,Saturday,59,77.71,21858
+P00966,Sneakers,Fashion,Nike,45013,43973,262,53,3.7,15,Normal,Premium,Ahmedabad,UPI,1,5.15,7013,6979,62.98,3.5,105,22538,No,Saturday,89,57.72,48614
+P00967,Body Wash,Beauty,Lakme,76270,77933,212,6,4.8,30,Summer,Premium,Hyderabad,Net Banking,2,7.49,1054,9658,20.41,3.9,169,39744,No,Thursday,47,56.51,72457
+P00968,Laptop,Electronics,HP,739,2330,601,450,3.2,10,Monsoon,Premium,Bengaluru,Net Banking,6,10.75,3399,166,23.32,3.8,162,10314,Yes,Monday,58,67.27,739
+P00969,Perfume,Beauty,Lakme,22659,19912,446,25,4.8,20,Monsoon,New,Delhi,Cash on Delivery,4,7.46,7240,5603,57.35,4.4,274,30865,Yes,Wednesday,41,74.23,21527
+P00970,Wheat Flour,Grocery,Aashirvaad,59301,59435,925,312,4.3,20,Festival,Premium,Hyderabad,Credit Card,6,7.56,4031,2041,18.09,3.4,379,3263,Yes,Sunday,78,66.73,59301
+P00971,Lipstick,Beauty,Nivea,65117,63476,713,55,4.0,40,Festival,New,Pune,UPI,6,9.21,3220,1688,51.42,3.1,211,23757,No,Thursday,44,54.42,61862
+P00972,Lipstick,Beauty,Lakme,51048,48065,751,595,3.8,5,Normal,Premium,Hyderabad,Cash on Delivery,5,12.3,4323,5611,60.2,4.7,155,48457,No,Thursday,54,63.14,51048
+P00973,Chair,Home & Kitchen,Pigeon,66169,65694,108,324,3.8,0,Festival,Premium,Chennai,Net Banking,7,2.33,3473,9576,64.8,4.8,386,31217,No,Wednesday,42,99.29,62861
+P00974,Coffee,Grocery,Amul,9949,10719,313,89,4.4,50,Normal,Returning,Delhi,Credit Card,3,4.18,630,5018,61.51,4.4,431,20993,No,Monday,41,50.52,9452
+P00975,Shampoo,Beauty,L'Oreal,59984,60227,673,295,3.1,5,Festival,New,Pune,Debit Card,4,4.5,7527,6301,38.49,4.6,283,20522,No,Thursday,48,69.54,56985
+P00976,Smart TV,Electronics,Apple,76642,77098,126,191,4.5,50,Summer,New,Kolkata,Net Banking,3,3.56,3147,216,44.39,3.9,355,11438,No,Sunday,80,90.0,76642
+P00977,Moisturizer,Beauty,Mamaearth,11495,8988,95,258,3.8,5,Summer,Premium,Kolkata,Credit Card,7,10.33,2914,5715,41.13,4.1,222,37832,No,Friday,94,72.17,12414
+P00978,Moisturizer,Beauty,Nivea,18877,21393,103,66,2.9,40,Normal,Premium,Hyderabad,UPI,2,10.62,7123,2130,66.51,5.0,232,34601,No,Monday,89,91.61,20387
+P00979,Chair,Home & Kitchen,Pigeon,37941,39702,786,429,2.7,10,Festival,Returning,Delhi,UPI,2,13.52,1199,975,8.96,4.4,119,38204,No,Sunday,95,97.41,40976
+P00980,Smart Watch,Electronics,Apple,73592,75879,591,584,5.0,10,Festival,New,Kolkata,UPI,5,2.69,7425,7723,40.54,3.2,421,32143,Yes,Saturday,78,80.39,73592
+P00981,Biscuits,Grocery,Tata,67505,67945,658,544,3.2,10,Winter,Premium,Chennai,Debit Card,4,2.95,358,4853,59.04,4.3,158,9023,No,Friday,78,62.85,67505
+P00982,Perfume,Beauty,Dove,6847,6447,246,512,5.0,25,Normal,New,Ahmedabad,Debit Card,7,6.23,3210,1055,58.42,4.6,55,1744,No,Sunday,52,83.04,6847
+P00983,Table,Home & Kitchen,Milton,54706,52016,354,332,3.5,10,Festival,Returning,Bengaluru,UPI,7,7.36,6113,3828,10.91,3.2,251,31165,Yes,Thursday,71,98.5,54706
+P00984,Wheat Flour,Grocery,Tata,19508,19593,116,316,4.4,0,Summer,Premium,Pune,Credit Card,2,14.11,4606,2428,8.78,4.8,311,17775,No,Thursday,65,91.68,19508
+P00985,Pressure Cooker,Home & Kitchen,Cello,73066,73733,672,317,2.6,25,Monsoon,Premium,Kolkata,Net Banking,2,0.3,5139,6403,20.59,4.8,377,37850,No,Wednesday,96,83.43,78911
+P00986,Microwave,Home & Kitchen,Prestige,812,823,274,577,3.5,25,Summer,Premium,Bengaluru,Credit Card,7,8.89,1472,9620,20.66,3.6,102,33532,Yes,Tuesday,41,56.78,772
+P00987,Perfume,Beauty,Mamaearth,2865,1010,336,320,4.6,20,Monsoon,New,Hyderabad,UPI,5,13.21,2667,6917,12.3,3.7,308,9482,Yes,Tuesday,42,92.37,2722
+P00988,Wheat Flour,Grocery,Amul,41057,42998,144,60,2.6,15,Summer,New,Hyderabad,Credit Card,6,10.92,2008,4473,49.0,4.1,281,43499,Yes,Tuesday,44,60.62,39005
+P00989,Camera,Electronics,Dell,20161,21403,61,58,3.9,25,Normal,Premium,Bengaluru,Credit Card,5,8.63,5511,9138,42.37,3.7,182,45772,No,Saturday,83,67.06,21773
+P00990,Headphones,Electronics,OnePlus,76827,75309,515,420,3.5,25,Summer,Premium,Bengaluru,Credit Card,5,0.89,3094,8203,26.31,3.9,297,38685,No,Friday,75,99.95,76827
+P00991,Shoes,Fashion,Levis,14448,12810,976,278,4.1,0,Monsoon,New,Kolkata,Debit Card,6,2.42,3006,3434,24.98,3.7,320,24343,Yes,Friday,76,74.55,14448
+P00992,T-Shirt,Fashion,Puma,2259,630,95,563,4.0,30,Winter,Premium,Hyderabad,UPI,5,3.37,170,6957,41.96,3.9,255,2981,Yes,Thursday,66,67.88,2259
+P00993,Microwave,Home & Kitchen,Pigeon,71279,72582,570,342,4.6,0,Festival,New,Pune,UPI,5,12.75,4969,9223,24.15,3.9,427,38500,Yes,Saturday,44,64.68,67716
+P00994,Mixer,Home & Kitchen,Philips,27471,29839,258,187,3.1,20,Festival,Premium,Kolkata,Cash on Delivery,1,0.05,2758,1946,51.61,4.9,173,15054,Yes,Tuesday,44,60.06,26098
+P00995,T-Shirt,Fashion,Levis,65403,64635,921,453,2.8,15,Summer,Returning,Mumbai,Cash on Delivery,3,0.02,6631,6132,57.81,4.1,368,27325,Yes,Saturday,71,67.64,65403
+P00996,Chair,Home & Kitchen,Prestige,49915,48741,252,160,2.8,5,Festival,New,Pune,UPI,7,8.33,6936,606,24.43,3.7,409,25392,Yes,Monday,58,88.4,49915
+P00997,Biscuits,Grocery,Tata,67264,68278,400,124,2.5,0,Summer,Returning,Chennai,UPI,5,2.19,7147,7233,35.58,4.4,74,19272,Yes,Wednesday,75,76.58,67264
+P00998,T-Shirt,Fashion,Levis,34883,37297,494,483,3.7,50,Festival,Returning,Ahmedabad,Net Banking,5,6.73,973,5932,28.08,4.3,391,22549,Yes,Friday,82,95.82,37673
+P00999,Jeans,Fashion,Adidas,67013,64820,211,55,3.1,40,Winter,New,Kolkata,UPI,1,9.71,6527,1159,67.23,4.5,57,46917,No,Thursday,100,90.1,72374
+P01000,Smartphone,Electronics,HP,64946,66441,801,359,3.8,50,Festival,New,Mumbai,UPI,3,7.26,6816,5881,46.44,3.7,361,18871,Yes,Monday,43,76.29,61699
