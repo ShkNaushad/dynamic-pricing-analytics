@@ -9,7 +9,7 @@ from datetime import datetime
 # ------------------------------
 
 st.set_page_config(
-    page_title="AI Dynamic Pricing Dashboard",
+    page_title="Dynamic Pricing Analytics for E-Commerce",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -87,9 +87,9 @@ page=st.sidebar.radio(
 
 if page=="🏠 Home":
 
-    st.title("💰 AI Dynamic Pricing Dashboard")
+    st.title("💰 Dynamic Pricing Analytics for E-Commerce Dashboard")
 
-    st.subheader("Machine Learning Based E-Commerce Price Recommendation")
+    st.subheader("E-Commerce Price Recommendation")
 
     col1,col2,col3,col4=st.columns(4)
 
@@ -104,7 +104,7 @@ if page=="🏠 Home":
     st.markdown("---")
 
     st.write("""
-Welcome to the AI Dynamic Pricing Dashboard.
+Welcome to the Dynamic Pricing Analytics for E-Commerce.
 
 This project predicts the best selling price for products
 using Machine Learning.
@@ -370,7 +370,7 @@ elif page=="ℹ About Project":
     st.title("ℹ About Project")
 
     st.markdown("""
-# AI Dynamic Pricing Dashboard
+# Dynamic Pricing Analytics for E-Commerce Dashboard
 
 This project predicts the best selling price for an E-Commerce product using Machine Learning.
 
@@ -399,7 +399,7 @@ Random Forest Regressor
 
 ## Developer
 
-Naushad Shaikh
+NAUSHAD SHAIKH
 
 B.Sc. Data Science
 """)
@@ -407,7 +407,7 @@ B.Sc. Data Science
 st.markdown("---")
 
 st.caption(
-    f"© {datetime.now().year} AI Dynamic Pricing Dashboard | Version 2.0"
+    f"© {datetime.now().year} Dynamic Pricing Analytics for E-Commerce | Version 2.0"
 )
 # ==================================================
 # EXTRA ANALYTICS (V2 PREMIUM)
