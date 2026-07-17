@@ -355,9 +355,7 @@ prediction = model.predict(df_model)
 
 df["Recommended_Price"] = prediction
 
-            df["Recommended_Price"] = prediction
-
-            st.success("Prediction Completed Successfully")
+st.success("Prediction Completed Successfully")
 
             st.dataframe(
                 df,
