@@ -341,7 +341,19 @@ elif page=="📁 Bulk Prediction":
 
         if st.button("Predict All Products"):
 
-            prediction = model.predict(df)
+            df_model = df[[
+    "Current_Price",
+    "Competitor_Price",
+    "Stock",
+    "Units_Sold",
+    "Rating",
+    "Discount_Percentage",
+    "Demand_Index"
+]]
+
+prediction = model.predict(df_model)
+
+df["Recommended_Price"] = prediction
 
             df["Recommended_Price"] = prediction
 
